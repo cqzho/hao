@@ -2,7 +2,7 @@
     "author":"takagen99",
     "ua": "",
     //"homeUrl": "https://www.duboku.tv/",
-    "homeUrl": "https://u.duboku.io/",
+    "homeUrl": "https://duboku.ru/",
     "dcVipFlag": "true",
     "dcPlayUrl": "true",
     "cateNode": "//ul[contains(@class,'nav-menu')]/li/a[contains(@href, 'vodtype')]",
@@ -30,7 +30,7 @@
     "homeVodMark": "//span[contains(@class,'pic-text')]/text()",
     
 // Category Summary ================================================      
-    "cateUrl": "https://u.duboku.io/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
+    "cateUrl": "https://duboku.ru/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
     "cateVodNode": "//ul[contains(@class,'myui-vodlist')]/li/div/a",
     "cateVodName": "/@title",
     "cateVodId": "/@href",
@@ -40,7 +40,7 @@
     "cateVodMark": "//span[contains(@class,'pic-text')]/text()",
     
 // Category Details ================================================        
-    "dtUrl": "https://my.duboku.vip/voddetail/{vid}.html",
+    "dtUrl": "https://duboku.ru/voddetail/{vid}.html",
     "dtNode": "//body",
     "dtName": "//div[contains(@class,'myui-content__thumb')]/a/@title",
     "dtNameR": "",
@@ -64,11 +64,11 @@
     "dtUrlIdR": "/vodplay/(\\S+).html",
     "dtUrlName": "/text()",
     "dtUrlNameR": "",
-    "playUrl": "https://my.duboku.vip/vodplay/{playUrl}.html",
+    "playUrl": "https://duboku.ru/vodplay/{playUrl}.html",
     "playUa": "",
     
 // Search Results ================================================         
-    "searchUrl": "https://my.duboku.vip/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+    "searchUrl": "https://duboku.ru/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
     "scVodNode": "json:list",
     "scVodName": "name",
     "scVodId": "id",
@@ -84,6 +84,7 @@
           "name": "年份",
           "value": [
             {"n": "全部","v": ""},
+            {"n": "2023","v": "2023"},
             {"n": "2022","v": "2022"},
             {"n": "2021","v": "2021"},
             {"n": "2020","v": "2020"},
@@ -109,6 +110,7 @@
           "name": "年份",
           "value": [
             {"n": "全部","v": ""},
+            {"n": "2023","v": "2023"},
             {"n": "2022","v": "2022"},
             {"n": "2021","v": "2021"},
             {"n": "2020","v": "2020"},
@@ -134,6 +136,7 @@
           "name": "年份",
           "value": [
             {"n": "全部","v": ""},
+            {"n": "2023","v": "2023"},
             {"n": "2022","v": "2022"},
             {"n": "2021","v": "2021"},
             {"n": "2020","v": "2020"},
@@ -159,6 +162,7 @@
           "name": "年份",
           "value": [
             {"n": "全部","v": ""},
+            {"n": "2023","v": "2023"},
             {"n": "2022","v": "2022"},
             {"n": "2021","v": "2021"},
             {"n": "2020","v": "2020"},
@@ -184,6 +188,7 @@
           "name": "年份",
           "value": [
             {"n": "全部","v": ""},
+            {"n": "2023","v": "2023"},
             {"n": "2022","v": "2022"},
             {"n": "2021","v": "2021"},
             {"n": "2020","v": "2020"},
@@ -241,6 +246,7 @@
           "name": "年份",
           "value": [
             {"n": "全部","v": ""},
+            {"n": "2023","v": "2023"},
             {"n": "2022","v": "2022"},
             {"n": "2021","v": "2021"},
             {"n": "2020","v": "2020"},
@@ -278,6 +284,7 @@
           "name": "年份",
           "value": [
             {"n": "全部","v": ""},
+            {"n": "2023","v": "2023"},
             {"n": "2022","v": "2022"},
             {"n": "2021","v": "2021"},
             {"n": "2020","v": "2020"},
@@ -313,6 +320,7 @@
           "name": "年份",
           "value": [
             {"n": "全部","v": ""},
+            {"n": "2023","v": "2023"},
             {"n": "2022","v": "2022"},
             {"n": "2021","v": "2021"},
             {"n": "2020","v": "2020"},
@@ -338,6 +346,7 @@
           "name": "年份",
           "value": [
             {"n": "全部","v": ""},
+            {"n": "2023","v": "2023"},
             {"n": "2022","v": "2022"},
             {"n": "2021","v": "2021"},
             {"n": "2020","v": "2020"},
@@ -363,6 +372,7 @@
           "name": "年份",
           "value": [
             {"n": "全部","v": ""},
+            {"n": "2023","v": "2023"},
             {"n": "2022","v": "2022"},
             {"n": "2021","v": "2021"},
             {"n": "2020","v": "2020"},
