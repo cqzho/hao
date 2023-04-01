@@ -17,7 +17,7 @@
 {"key":"快看","name":"影视 | 快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"厂长","name":"影视 | 厂长","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"苹果","name":"影视 | 苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"酷云","name":"影视 | 酷云","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/cqzho/hao/main/libs/2023.jar"},
+{"key":"酷云","name":"影视 | 酷云","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"飘花","name":"影视 | 飘花","type":3,"api":"csp_EEEDY","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/cqzho/hao/main/libs/2023.jar"},
 {"key":"哔嘀","name":"影视 | 哔嘀","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"低端","name":"影视 | 低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
@@ -32,7 +32,7 @@
 {"key":"高中","name":"教育 | 高中","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/cqzho/hao/main/json/高中课堂.json"}],
 
 
-"spider":"https://raw.iqiq.io/cqzho/hao/main/libs/Yoursmile.jar",
+"spider":"https://raw.iqiq.io/cqzho/hao/main/libs/tv.jar",
 
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 
