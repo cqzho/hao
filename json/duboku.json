@@ -2,13 +2,13 @@
     "author":"takagen99",
     "ua": "",
     //"homeUrl": "https://www.duboku.tv/",
-    "homeUrl": "https://duboku.ru",
+    "homeUrl": "https://u.duboku.io/",
     "dcVipFlag": "true",
     "dcPlayUrl": "true",
     "cateNode": "//ul[contains(@class,'nav-menu')]/li/a[contains(@href, 'vodtype')]",
     "cateName": "/text()",
     "cateId": "/@href",
-    "cateIdR": "/votype/(\\w+).html",
+    "cateIdR": "/vodtype/(\\w+).html",
     "cateManual": {
       "国产剧": "13",
       "日韩剧": "15",
@@ -30,7 +30,7 @@
     "homeVodMark": "//span[contains(@class,'pic-text')]/text()",
     
 // Category Summary ================================================      
-    "cateUrl": "https://duboku.ru/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
+    "cateUrl": "https://u.duboku.io/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
     "cateVodNode": "//ul[contains(@class,'myui-vodlist')]/li/div/a",
     "cateVodName": "/@title",
     "cateVodId": "/@href",
@@ -40,7 +40,7 @@
     "cateVodMark": "//span[contains(@class,'pic-text')]/text()",
     
 // Category Details ================================================        
-    "dtUrl": "https://duboku.ru/voddetail/{vid}.html",
+    "dtUrl": "https://my.duboku.vip/voddetail/{vid}.html",
     "dtNode": "//body",
     "dtName": "//div[contains(@class,'myui-content__thumb')]/a/@title",
     "dtNameR": "",
@@ -64,11 +64,11 @@
     "dtUrlIdR": "/vodplay/(\\S+).html",
     "dtUrlName": "/text()",
     "dtUrlNameR": "",
-    "playUrl": "https://duboku.ru/vodplay/{playUrl}.html",
+    "playUrl": "https://my.duboku.vip/vodplay/{playUrl}.html",
     "playUa": "",
     
 // Search Results ================================================         
-    "searchUrl": "https://duboku.ru/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+    "searchUrl": "https://my.duboku.vip/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
     "scVodNode": "json:list",
     "scVodName": "name",
     "scVodId": "id",
