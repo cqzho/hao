@@ -2,7 +2,7 @@
 //贴片广告站点：热播库、真不卡、明明、Cokemv、布雷、一起看、胖虎、凌云影视、69美剧、新视觉、乐猪、零零七、大师兄
 
 {"sites": [
-{"key":"农民","name":"影视(直连) | 农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/cqzho/hao/main/libs/2023.jar","ext":"https://raw.iqiq.io/cqzho/hao/main/json/农民影视.json"},
+{"key":"农民","name":"影视(直连) | 农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/cqzho/hao/main/json/农民影视.json"},
 {"key":"饭团","name":"影视(直连) | 饭团","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/cqzho/hao/main/json/饭团影视.json"},
 {"key":"荷塘","name":"影视(直连) | 荷塘","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/cqzho/hao/main/json/野荷塘.json"},
 {"key":"咕噜","name":"影视(直连) | 咕噜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/cqzho/hao/main/json/咕噜咕噜.json"},
