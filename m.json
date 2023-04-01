@@ -12,7 +12,6 @@
 {"key":"Vof","name":"影视 | Vof","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/cqzho/hao/main/json/VOFLIX.json"},
 {"key":"Vid","name":"影视 | Vid","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/cqzho/hao/main/json/Vidhub.json"},
 {"key":"Lib","name":"影视 | Lib","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/cqzho/hao/main/json/LIBVIO.json"},
-{"key":"素白","name":"影视 | 素白","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/cqzho/hao/main/json/素白白影视.json"},
 {"key":"扎兔","name":"影视 | 扎兔","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/cqzho/hao/main/json/莫扎兔.json"},
 {"key":"九八","name":"影视 | 九八","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/cqzho/hao/main/json/98影院.json"},
 {"key":"快看","name":"影视 | 快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
