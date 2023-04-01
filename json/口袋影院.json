@@ -3,7 +3,7 @@
   "站名": "口袋影院",
   "主页url": "http://www.koudaitv.com",
   
-  "分类": "电影$1#连续剧$2#动漫$4#综艺$3#韩剧$14#美剧$15",
+  "分类": "电视剧$2#综艺$3",
   
   "分类url": "http://www.koudaitv.com/type/{cateId}-{catePg}.html",
   
