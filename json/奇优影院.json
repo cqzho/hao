@@ -3,8 +3,8 @@
   "站名": "奇优影院",
   "主页url": "http://www.qiyoudy1.com",
   
-  "分类": "电影&电视剧&动漫&综艺",
-  "分类值": "1&2&3&4",
+  "分类": "电影&电视剧&综艺",
+  "分类值": "1&2&4",
   
   "分类url": "http://www.qiyoudy1.com/list/{cateId}_{catePg}.html",
   
