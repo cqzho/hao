@@ -2,6 +2,22 @@
 //贴片广告站点：热播库、真不卡、明明、Cokemv、布雷、一起看、胖虎、凌云影视、69美剧、新视觉、乐猪、零零七、大师兄
 
 {"sites": [
+{"key":"QQ","name":"腾讯","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"MG","name":"芒果","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"QY","name":"奇艺","type":3,"api":"csp_Itv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"360","name":"360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+
+{"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"厂长","name":"厂长","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"苹果","name":"苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"酷云","name":"酷云","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"EEE","name":"EEE","type":3,"api":"csp_EEEDY","playerType":2,"searchable":1,"quickSearch":1,"filterable":1","jar":"https://raw.iqiq.io/cqzho/hao/main/libs/tv.jar"},
+{"key":"哔嘀","name":"哔嘀","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"低端","name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"蓝光","name":"蓝光","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
+{"key":"奥特","name":"奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+
+
 {"key":"饭团","name":"饭团","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/cqzho/hao/main/json/饭团影视.json"},
 {"key":"荷塘","name":"荷塘","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/cqzho/hao/main/json/野荷塘.json"},
 {"key":"咕噜","name":"咕噜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/cqzho/hao/main/json/咕噜咕噜.json"},
@@ -14,19 +30,6 @@
 {"key":"Vof","name":"Vof","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/cqzho/hao/main/json/VOFLIX.json"},
 {"key":"Vid","name":"Vid","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/cqzho/hao/main/json/Vidhub.json"},
 {"key":"Lib","name":"LIB","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/cqzho/hao/main/json/LIBVIO.json"},
-{"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"厂长","name":"厂长","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"苹果","name":"苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"酷云","name":"酷云","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"EEE","name":"EEE","type":3,"api":"csp_EEEDY","playerType":2,"searchable":1,"quickSearch":1,"filterable":1"},
-{"key":"哔嘀","name":"哔嘀","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"低端","name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"蓝光","name":"蓝光","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
-{"key":"奥特","name":"奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"360","name":"360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"QQ","name":"腾讯","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"MG","name":"芒果","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"QY","name":"奇艺","type":3,"api":"csp_Itv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"哔哩","name":"哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/cqzho/hao/main/json/哔哩哔哩.json"},
 {"key":"少儿","name":"少儿","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/cqzho/hao/main/json/少儿教育.json"},
 {"key":"小学","name":"小学","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/cqzho/hao/main/json/小学课堂.json"},
