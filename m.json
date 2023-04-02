@@ -5,7 +5,7 @@
 {"key":"饭团","name":"饭团","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/cqzho/hao/main/json/饭团影视.json"},
 {"key":"荷塘","name":"荷塘","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/cqzho/hao/main/json/野荷塘.json"},
 {"key":"咕噜","name":"咕噜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/cqzho/hao/main/json/咕噜咕噜.json"},
-{"key":"农民","name":"农民","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/cqzho/hao/main/json/农民影视.json"},
+{"key":"农民","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/cqzho/hao/main/json/农民影视.json"},
 {"key":"独播","name":"独播","type":3,"api":"csp_XPathMacFilter","searchable": 1,"quickSearch":1,"filterable": 1,"ext":"https://raw.iqiq.io/cqzho/hao/main/json/独播库.json"},
 {"key":"奇优","name":"奇优","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/cqzho/hao/main/json/奇优影院.json"},
 {"key":"口袋","name":"口袋","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/cqzho/hao/main/json/口袋影院.json"},
