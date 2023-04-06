@@ -6,4 +6,4 @@
 
 地址二：https://raw.fastgit.org/cqzho/hao/main/m.json
 
-本接口内的资源均采集自网络，如有侵权请联系删除！
+本接口内的资源均收集自网络，如有侵权请联系删除！
