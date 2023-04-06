@@ -51,7 +51,7 @@
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
-{"name":"解析01","type":1,"url":"https://api.json.icu/api/?key=51f783bd85464b099f7ceac7ffb36020&url="},
+
 {"name":"解析02","type":1,"url":"http://jiexi.xdv.icu/api/?key=sNZAzz6ewmDReFKxnw&url="},
 {"name":"解析03","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 {"name":"解析04","type":0,"url":"https://jx.777jiexi.com/player/?url="},
