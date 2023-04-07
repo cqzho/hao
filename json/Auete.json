@@ -3,7 +3,7 @@
   "站名": "Auete",
   "主页url": "https://auete.org",
   
-  "分类": "电影$Movie#电视剧$Tv#综艺$Zy#动漫$Dm#其他$qita",
+  "分类": "电影$Movie#电视剧$Tv",
   
   "分类url": "https://auete.org/{cateId}{class}/index{catePg}.html[https://auete.org/{cateId}/index.html]",
   
