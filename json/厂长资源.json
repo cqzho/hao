@@ -6,10 +6,9 @@
   "cateId": "/@href",
   "cateIdR": "(\\w+)",
   "cateManual": {
-    "本月热门":"benyueremen",
-    "高分影视":"gaofenyingshi",
     "豆瓣电影TOP250": "dbtop250",
     "最新电影": "zuixindianying",
+    "热映中":"reyingzhong",
     "电视剧": "dsj",
     "国产剧": "gcj",
     "美剧": "meijutt",
