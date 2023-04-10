@@ -1,6 +1,8 @@
 港澳台,#genre#
 凤凰中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
 凤凰资讯,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
+凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8
+凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8?zgangd
 凤凰香港,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
 凤凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
 凤凰香港,http://120.84.96.113:808/hls/81/index.m3u8
@@ -30,6 +32,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
+TVB J2,http://120.84.96.33:808/hls/86/index.m3u8
 明珠台,http://120.84.96.73:808/hls/26/index.m3u8
 明珠台,http://120.84.96.82:808/hls/26/index.m3u8
 明珠台,http://120.84.96.87:808/hls/26/index.m3u8
@@ -587,7 +590,19 @@ CCTV17,http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
 CCTV17,http://39.135.138.58:18890/PLTV/88888888/224/3221225907/index.m3u8
 CCTV17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8?icpid=88888888&amp;from=30&amp;hms_devid=1452
 CCTV17,http://39.135.138.58:18890/PLTV/88888910/224/3221225908/index.m3u8
-
+CCTV1,http://ktwlplkf.f3322.org:9901/tsfile/live/0001_1.m3u8
+CCTV1,http://117.169.120.244:8080/wh7f454c46tw2520989601_203106496/hwrr.jx.chinamobile.com/PLTV/88888910/224/3221225618/index.m3u8?icpid=88888910&RTS=1648965019&from=79102&ocs=2_117.169.120.241_8080&hms_devid=1402&online=1648965019&vqe=3
+CCTV2,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8?icpid=88888888&from=30&hms_devid=1452
+CCTV3,http://39.135.138.58:18890/PLTV/88888910/224/3221225647/index.m3u8codeyj
+CCTV4,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8?icpid=88888888&from=30&hms_devid=1452
+CCTV6,http://39.135.138.58:18890/PLTV/88888888/224/3221225632/index.m3u8?
+CCTV9,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8
+CCTV11,http://39.135.138.58:18890/PLTV/88888910/224/3221225626/index.m3u8codeyj
+CCTV12,http://183.196.25.171:808/hls/12/index.m3u8
+CCTV13,http://39.135.138.58:18890/PLTV/88888910/224/3221225638/index.m3u8codeyj
+CCTV13,http://183.196.25.171:808/hls/13/index.m3u8
+CCTV14,http://183.196.25.171:808/hls/14/index.m3u8
+CCTV17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8?icpid=88888888&from=30&hms_devid=1452
 卫视,#genre#
 安徽卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225691/1653146382-1-1651284606.m3u8
 安徽卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
@@ -1153,6 +1168,18 @@ CCTV17,http://39.135.138.58:18890/PLTV/88888910/224/3221225908/index.m3u8
 重庆卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225612/index.m3u8?fmt=ts2hls
 重庆卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225692/index.m3u8
 重庆卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225734/index.m3u8
+北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8
+北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
+北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
+东方卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8
+广东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
+吉林卫视,http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8?
+江苏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
+江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8?icpid=88888888&from=30&hms_devid=1452
+山西卫视,http://httpdvb.slave.yqdtv.com:13164/playurl?playtype=live&protocol=http&playtoken=31603YEQXREOPEG10&auth=no&verifycode=14183&accesstoken=G79E6023V21307D1TD05FABJB53102ABM786710FEI3282697DK98BDA6&programid=4200000133
+陕西卫视,http://61.164.158.161:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
+重庆卫视,http://39.135.138.59:18890/TVOD/88888910/224/3221225692/index.m3u8
 四川,#genre#
 四川经济,http://182.151.211.171:808/hls/50/index.m3u8
 四川文化旅游,http://182.151.211.171:808/hls/51/index.m3u8
