@@ -485,7 +485,6 @@ CCTV11,http://39.135.138.58:18890/PLTV/88888910/224/3221225626/index.m3u8codeyj
 
 CCTV12,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225495/index.m3u8?fmt=ts2hls
 CCTV12,http://117.169.121.162:6610/PLTV/88888910/224/3221225637/index.m3u8
-CCTV12,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000001640&livemode=1&channel-id=ystenlive&test/PLTV/=02
 CCTV12,http://gslbserv.itv.cmvideo.cn/index.m3u8?stbId=000000001000&Contentid=1000000001000001640&livemode=1&channel-id=ystenlive&test/PLTV/=01
 CCTV12,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=4
 CCTV12,http://117.169.121.162:6610/PLTV/88888910/224/3221225629/index.m3u8
@@ -638,11 +637,9 @@ CCTV17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8?icpid=
 CCTV17,http://39.135.138.58:18890/PLTV/88888910/224/3221225908/index.m3u8
 CCTV17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8?icpid=88888888&from=30&hms_devid=1452
 
-CCTV奥林匹克4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
 CCTV奥林匹克4K,http://113.207.84.197:8090/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
 
 CCTV超高清4K,http://113.207.84.197:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
-CCTV超高清4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
 CCTV超高清4K,http://159.75.85.63:5679/cctv4k.php
 
 CHC家庭影院,http://yuwentao114.f3322.net:4022/udp/239.252.219.84:5140
