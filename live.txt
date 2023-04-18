@@ -642,10 +642,10 @@ CCTV17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8?icpid=
 CCTV17,http://39.135.138.58:18890/PLTV/88888910/224/3221225908/index.m3u8
 CCTV17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8?icpid=88888888&from=30&hms_devid=1452
 
-CCTV奥林匹克4K,http://113.207.84.197:8090/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
+CCTV16 4K,http://113.207.84.197:8090/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
 
-CCTV超高清4K,http://113.207.84.197:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
-CCTV超高清4K,http://159.75.85.63:5679/cctv4k.php
+CCTV 4K,http://113.207.84.197:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
+CCTV 4K,http://159.75.85.63:5679/cctv4k.php
 
 CHC家庭影院,http://yuwentao114.f3322.net:4022/udp/239.252.219.84:5140
 CHC家庭影院,http://www.51nas.top:4022/udp/239.81.0.238:4056
