@@ -1344,7 +1344,6 @@ CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 潼南,http://183.230.184.51:65500/tntv1.m3u8
 合川,http://125.62.24.72:8030/ch0.m3u8
 大足,http://218.201.85.71:3170/m3u8
-江津,http://juyunlive.juyun.tv/live/24950198.m3u8
 江津,http://222.179.155.21:1935/ch1.m3u8
 垫江,http://125.62.24.185:80/1.m3u8
 武隆,https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8
