@@ -583,13 +583,11 @@ TVB星河,http://lcx-olt.8866.org:8181/tsfile/live/1004_1.m3u8
 北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
 北京卫视,http://222.240.82.92:9901/tsfile/live/0122_1.m3u8
 北京卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-beijingstv/index.m3u8
-北京冬奥纪实,http://39.135.138.58:18890/PLTV/88888888/224/3221225675/index.m3u8
-北京通州,http://pull.dayuntongzhou.com/live/tztv.m3u8
-昌平综合,http://61.50.142.158/live/0.m3u8
-冬奥纪实,http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
+北京纪实科教,http://39.135.138.58:18890/PLTV/88888888/224/3221225675/index.m3u8
+北京纪实科教,http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
 房山无线,https://live.funhillrm.com/2/playlist.m3u8
 房山无线,http://live.funhillrm.com/2/sd/live.m3u8
-房山有线,http://live.funhillrm.com/5/sd/live.m3u8
+北京新闻,http://live.funhillrm.com/5/sd/live.m3u8
 清华大学电视台,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8
 朝阳教育,https://play.cytv01.cygbdst.com/live/jypdtv.m3u8
