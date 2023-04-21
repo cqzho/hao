@@ -1260,9 +1260,8 @@ TVB星河,http://lcx-olt.8866.org:8181/tsfile/live/1004_1.m3u8
 北京,#genre#
 
 天津,#genre#
-滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8?ztianjd
-滨海综艺,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8?ztianjd
-滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8?ztianjd
+滨海1,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8?ztianjd
+滨海2,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8?ztianjd
 
 上海,#genre#
 
