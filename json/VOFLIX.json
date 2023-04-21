@@ -1,9 +1,8 @@
 {
-  "作者": "菜妮丝https://cainisi.cf",
   "站名": "VOFLIX",
   "主页url": "https://www.voflix.me",
   
-  "分类": "电视剧$2#动漫$4#综艺$3",
+  "分类": "剧集$2#动漫$4#综艺$3",
   
   "分类url": "https://www.voflix.me/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
