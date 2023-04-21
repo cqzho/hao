@@ -1,12 +1,11 @@
 {
-  "作者": "菜妮丝https://cainisi.cf",
   "站名": "快看影视",
   "主页url": "https://www.kuaikanys.net",
   
   "分类": "电影&连续剧&综艺&动漫",
   "分类值": "dianying&lianxuju&zongyi&dongman",
   
-  "分类url": "https://www.kuaikanys.net/s/{cateId}/page/{catePg}.html",
+  "分类url": "https://www.kuaikanys.net/t/{cateId}.html",
   
   "数组": "<div class=\"tu\">&&</li>",
   
