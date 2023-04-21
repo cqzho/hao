@@ -1,15 +1,15 @@
 {
-  "站名": "LIBVIO",
-  "主页url": "https://tv.libvio.cc",
+  "站名": "3E电影",
+  "主页url": "https://www.3edy.com",
   
   "分类": "电影$1#剧集$2",
   
-  "分类url": "https://tv.libvio.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+  "分类url": "https://www.3edy.com/vodtype/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
   "副标题": "text-right\">&&</span>",
   
   "搜索模式": "1",
-  "搜索url": "/search/{wd}----------1---.html",
+  "搜索url": "/vodsearch/{wd}-------------.html",
   "搜索数组": "stui-vodlist__box\">&&</a>",
   "搜索副标题": "text-right\">&&</span>",
   
