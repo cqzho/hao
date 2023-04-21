@@ -1,4 +1,4 @@
-CQYX,#genre#
+综合1,#genre#
 欢笑剧场4K,http://113.207.84.197:8090/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
 CCTV-4K,http://113.207.84.197:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 CCTV16-4K,http://113.207.84.197:8090/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
@@ -78,7 +78,7 @@ CCTV怀旧剧场高清,http://113.207.84.197:8090/__cl/cg:live/__c/hjjcHD/__op/d
 CCTV第一剧场高清,http://113.207.84.197:8090/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
 CCTV兵器科技高清,http://113.207.84.197:8090/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
 
-爱尚,#genre#
+综合2,#genre#
 欢笑剧场4K,http://111.20.35.103:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 CCTV-4K,http://159.75.85.63:5679/cctv4k.php
 CCTV-16 奥林匹克4K,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240389_1/playlist.m3u8?CONTENTID=00000110240389_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -137,7 +137,7 @@ GTV网络棋牌,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240319_1/pl
 浙江卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240134_1/playlist.m3u8?CONTENTID=00000110240134_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 重庆卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240397_1/playlist.m3u8?CONTENTID=00000110240397_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
-SXG,#genre#
+综合3,#genre#
 CCTV-1 综合,https://live.v1.mk/api/sxg.php?id=CCTV-1H265_4000
 CCTV-2 财经,https://live.v1.mk/api/sxg.php?id=CCTV-2H265_4000
 CCTV-3 综艺,https://live.v1.mk/api/sxg.php?id=CCTV-3H265_4000
@@ -410,12 +410,7 @@ CGTN-俄语,https://live.v1.mk/api/sxg.php?id=ey_2000
 CGTN-法语,https://live.v1.mk/api/sxg.php?id=fy_2000
 CGTN-西语,https://live.v1.mk/api/sxg.php?id=xbyy_2000
 CGTN-英语,https://live.v1.mk/api/sxg.php?id=CGTN_4000
-风尚购物,https://live.v1.mk/api/sxg.php?id=fsgw_4000
-家家购物,https://live.v1.mk/api/sxg.php?id=jjgw_4000
-家有购物,https://live.v1.mk/api/sxg.php?id=jygw_4000
-央广购物,https://live.v1.mk/api/sxg.php?id=yggwgq_4000
-优购物,https://live.v1.mk/api/sxg.php?id=ygw_4000
-FJGD,#genre#
+综合4,#genre#
 CCTV-1高清,https://live.v1.mk/api/fjgd.php?id=cctv1
 CCTV-2高清,https://live.v1.mk/api/fjgd.php?id=cctv2
 CCTV-3高清,https://live.v1.mk/api/fjgd.php?id=cctv3
@@ -485,7 +480,7 @@ CHC家庭影院,https://live.v1.mk/api/fjgd.php?id=chcjt
 金鹰卡通高清,https://live.v1.mk/api/fjgd.php?id=jykt
 凤凰中文,https://live.v1.mk/api/fjgd.php?id=fhzw
 凤凰资讯,https://live.v1.mk/api/fjgd.php?id=fhzx
-GHYX,#genre#
+综合5,#genre#
 CCTV16-4K,https://live.v1.mk/api/ghyx.php?id=CCTV16UHD_25000
 CCTV-4K,https://live.v1.mk/api/ghyx.php?id=CCTV4K_25000
 CCTV1,https://live.v1.mk/api/ghyx.php?id=CCTV1HD_6000
@@ -598,7 +593,7 @@ CETV4 标清,https://live.v1.mk/api/ghyx.php?id=CETV4HD_2000
 书画频道 标清,https://live.v1.mk/api/ghyx.php?id=ShuHuaPinDaoHD_2000
 茶频道 标清,https://live.v1.mk/api/ghyx.php?id=ChaPinDaoHD_2000
 足球频道,https://live.v1.mk/api/ghyx.php?id=ZuQiuHD_6000
-百事通,#genre#
+综合6,#genre#
 CCTV16-4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
 CCTV-4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
 欢笑剧场4k,https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
@@ -691,22 +686,22 @@ CCTV17 8M,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 金色学堂 8M,https://live.v1.mk/api/bestv.php?id=jingsepd8m/8000000
 魅力足球 8M,https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
 4K,#genre#
-BTV纪实科教-8KSDR源,http://159.75.85.63:6798
+BTV纪实科教,http://159.75.85.63:6798
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-欢笑剧场4KHLG小果源,http://111.20.35.103:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+欢笑剧场4K,http://111.20.35.103:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 欢笑剧场4K,http://113.207.84.197:8090/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
-纯享4K备,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-CCTV4K-25P-HLG源,http://159.75.85.63:5679/cctv4k.php
-CCTV4K-25P-SDR源,http://113.207.84.197:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
-CCTV16-4K25P-SDR源,http://113.207.84.197:8090/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
-CCTV16-4K-25PHLG源,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240389_1/playlist.m3u8?CONTENTID=00000110240389_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+CCTV4K,http://159.75.85.63:5679/cctv4k.php
+CCTV4K,http://113.207.84.197:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
+CCTV16-4K,http://113.207.84.197:8090/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
+CCTV16-4K,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240389_1/playlist.m3u8?CONTENTID=00000110240389_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 北京IPTV-4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 4K影视,http://nas.jdshipin.com:8801/4kys.php
-咪咕体育-4K-HLG源,http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
-江苏8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-CCTV8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+咪咕体育-4K,http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
+江苏8K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 CCTV1-4K,http://[2409:8087:2004:20:2800:0:df6e:ec21]/wh7f454c46tw3997260203_1403144048/ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8?icpid=4&RTS=1678666195&from=40&popid=40&hms_devid=2294&prioritypopid=40&vqe=3
 CCTV3-4K,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
 CCTV5-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
