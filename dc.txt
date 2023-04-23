@@ -1,0 +1,9 @@
+{"urls":[
+{"url":"https://raw.iqiq.io/cqzho/hao/main/m.json","name":"线路一"},
+{"url":"https://raw.kgithub.com/cqzho/hao/main/m.json","name":"线路二"},
+{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/cqzho/hao/main/m.json","name":"线路三"},
+{"url":"https://raw.fastgit.org/cqzho/hao/main/m.json","name":"线路四"},
+{"url":"https://ghproxy.net/https://raw.githubusercontent.com/cqzho/hao/main/m.json","name":"线路五"},
+{"url":"https://fastly.jsdelivr.net/gh/cqzho/hao@main/m.json","name":"线路六"},
+{"url":"https://cdn.staticaly.com/gh/cqzho/hao/main/m.json","name":"线路七"},
+{"url":"https://cdn.jsdelivr.ren/gh/cqzho/hao@main/m.json","name":"线路八"}]}
