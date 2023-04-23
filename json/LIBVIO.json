@@ -1,29 +1,21 @@
 {
   "站名": "LIBVIO",
   "主页url": "https://tv.libvio.cc",
-  
   "分类": "电影$1#剧集$2",
-  
   "分类url": "https://tv.libvio.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-  
   "副标题": "text-right\">&&</span>",
-  
   "搜索模式": "1",
   "搜索url": "/search/{wd}----------1---.html",
   "搜索数组": "stui-vodlist__box\">&&</a>",
   "搜索副标题": "text-right\">&&</span>",
-  
   "影片地区": "地区：&&/",
   "影片类型": "类型：&&/",
   "导演": "导演：&&</p>",
   "主演": "主演：&&/",
   "简介": "display: none;\">&&</span>",
-  
   "线路数组": "<h3 class=\"iconfont&&</div>",
   "线路标题": ">&&<[不包含:云盘#网盘]",
-  
   "播放数组": "<ul class=\"stui-content&&</ul>",
-  
   "筛选":{
 "1":[
   {"key":"class","name":"剧情","value":[
