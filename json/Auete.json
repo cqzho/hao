@@ -1,32 +1,24 @@
 {
   "站名": "Auete",
   "主页url": "https://auete.org",
-  
-  "分类": "电影$Movie#电视剧$Tv",
-  
+  "分类": "电影$Movie#电视剧$Tv", 
   "分类url": "https://auete.org/{cateId}{class}/index{catePg}.html",
-  
   "数组": "<li class=\"trans_3&&/button>",
   "副标题": "hdtag\">&&<",
-  
   "搜索模式": "1",
   "搜索url": "/aueteso.php?searchword={wd}",
   "搜索数组": "mb-0\">&&</a>",
   "搜索图片": "空",
   "搜索标题": "text-danger\">&&<",
   "搜索链接": "data-href=\"&&\"",
-  
   "影片地区": "地区:&&</p>",
   "影片类型": "分类:&&</p>",
   "导演": "导演:&&</p>",
   "主演": "主演:&&</p>",
   "简介": "</a><p>&&</p>",
-  
   "线路数组": "<i class=\"icon-film\">&&small>",
   "线路标题": ">&&<[替换:『*』>>空#：>>空]",
-  
   "播放数组": "</h2><ul>&&</ul>",
-  
   "筛选":{
 "Movie":[
   {"key":"class","name":"剧情","value":[
