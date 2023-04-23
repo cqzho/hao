@@ -535,7 +535,6 @@ STAR MOVIES,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=15
 澳门莲花,http://epg.112114.xyz/lotus
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
-采昌,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
 东森戏剧,http://123.51.230.108:18538/.m3u8
 东森洋片,http://lcx-olt.8866.org:8181/tsfile/live/1133_1.m3u8
 东森洋片,http://120.84.96.89:808/hls/33/index.m3u8
@@ -562,15 +561,10 @@ STAR MOVIES,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=15
 好莱坞电影台,http://120.84.96.82:808/hls/24/index.m3u8
 好莱坞电影台,http://120.84.96.87:808/hls/24/index.m3u8
 好莱坞电影台,http://120.84.96.89:808/hls/24/index.m3u8
-河北影视剧,https://event.pull.hebtv.com/jishi/yingshijupindao.m3u8
 河北影视剧,https://jwplay.hebyun.com.cn/live/hbystv/1500k/tzwj_video.m3u8
 河北影视剧,https://jwplay.hebyun.com.cn:443/live/hbystv/1500k/tzwj_video.m3u8
 河南电视剧,http://hbzx.chinashadt.com:2036/zhibo/stream:hbnm.stream_360p/playlist.m3u8
 黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
-湖南电视剧,http://124.232.233.17:6610/000000001001/201600020006/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-湖南电影,http://124.232.233.15:6610/000000001001/201600020005/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-湖南电影,http://124.232.233.17:6610/000000001001/201600020005/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
-淮安影视娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8
 吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8
 江西四套影视,http://39.134.115.163:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls
 昆明影视综艺,http://wshls.live.migucloud.com/live/KYLNJWFD_C0/playlist.m3u8
