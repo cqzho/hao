@@ -2,7 +2,7 @@
   "站名": "98影院",
   "主页url": "http://www.98ksm.com",
   "分类": "电影$dianyingpian#电视剧$dianshiju",
-  "分类url": "http://www.98ksm/{cateId}/index{catePg}.html",
+  "分类url": "http://www.98ksm.com/{cateId}/index{catePg}.html[http://www.98ksm.com/{cateId}/index.html]",
   "副标题": "text-right\">&&</span>",
   "搜索模式": "1",
   "搜索url": "/search.php?page=1&searchword={wd}",
