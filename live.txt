@@ -175,12 +175,6 @@ J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
 东森电影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
 东森戏剧,http://162.19.247.76:22222/live/dsxj/index.m3u8
 东森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
-未知1,http://162.19.247.76:22222/live/uch1/index.m3u8
-未知2,http://162.19.247.76:22222/live/uch2/index.m3u8
-未知3,http://162.19.247.76:22222/live/uch3/index.m3u8
-未知4,http://162.19.247.76:22222/live/uch4/index.m3u8
-
-
 三立都会台,http://162.19.247.76:22222/live/uch5/index.m3u8
 三立台湾台,http://162.19.247.76:22222/live/uch6/index.m3u8
 天映经典,http://162.19.247.76:22222/live/tyjd/index.m3u8
