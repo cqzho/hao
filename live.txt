@@ -267,6 +267,43 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 中天新闻台,http://123.51.230.124:8535/.m3u8
 中天综合,http://107.151.203.111:2209/135/us50.php?id=ztz
 中天综合,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
+卫视中文,http://flv.mp4cdn.live/gt-key=0025874.php?id=109
+天映频道,http://flv.mp4cdn.live/gt-key=0025874.php?id=110
+天映经典,http://flv.mp4cdn.live/gt-key=0025874.php?id=111
+星卫电影台,http://flv.mp4cdn.live/gt-key=0025874.php?id=112
+美亚电影,http://flv.mp4cdn.live/gt-key=0025874.php?id=113
+卫视电影,http://flv.mp4cdn.live/gt-key=0025874.php?id=114
+1,http://flv.mp4cdn.live/gt-key=0025874.php?id=115
+2,http://flv.mp4cdn.live/gt-key=0025874.php?id=116
+3,http://flv.mp4cdn.live/gt-key=0025874.php?id=117
+4,http://flv.mp4cdn.live/gt-key=0025874.php?id=118
+5,http://flv.mp4cdn.live/gt-key=0025874.php?id=119
+开电视,http://flv.mp4cdn.live/gt-key=0025874.php?id=1
+翡翠,http://flv.mp4cdn.live/gt-key=0025874.php?id=2
+明珠,http://flv.mp4cdn.live/gt-key=0025874.php?id=3
+星河,http://flv.mp4cdn.live/gt-key=0025874.php?id=4
+J2,http://flv.mp4cdn.live/gt-key=0025874.php?id=5
+MYTV残片,http://flv.mp4cdn.live/gt-key=0025874.php?id=6
+MYTV电影,http://flv.mp4cdn.live/gt-key=0025874.php?id=7
+MYTV港剧,http://flv.mp4cdn.live/gt-key=0025874.php?id=8
+美亚电影,http://flv.mp4cdn.live/gt-key=0025874.php?id=9
+娱乐新闻,http://flv.mp4cdn.live/gt-key=0025874.php?id=10
+MYTV,http://flv.mp4cdn.live/gt-key=0025874.php?id=11
+功夫台,http://flv.mp4cdn.live/gt-key=0025874.php?id=12
+无线新闻,http://flv.mp4cdn.live/gt-key=0025874.php?id=13
+无线财经,http://flv.mp4cdn.live/gt-key=0025874.php?id=14
+纬来电影,http://flv.mp4cdn.live/gt-key=0025874.php?id=103
+东森电影,http://flv.mp4cdn.live/gt-key=0025874.php?id=104
+东森洋片,http://flv.mp4cdn.live/gt-key=0025874.php?id=105
+东森戏剧,http://flv.mp4cdn.live/gt-key=0025874.php?id=106
+龙华洋片,http://flv.mp4cdn.live/gt-key=0025874.php?id=107
+龙祥时代,http://flv.mp4cdn.live/gt-key=0025874.php?id=108
+HBO,http://61.221.81.93:8078/hls/23/80/hbo.m3u8
+NHK,http://61.221.81.93:8078/hls/32/80/nhk.m3u8
+八大戏剧,http://61.221.81.93:8078/hls/38/80/gtvdrama.m3u8
+中视,http://61.221.81.93:8078/hls/39/80/gtvdrama.m3u8
+八大第一,http://61.221.81.93:8078/hls/38/80/gtvfirst.m3u8
+东森戏剧,http://61.221.81.93:8078/hls/34/80/ebcdrama.m3u8
 
 
 
@@ -340,7 +377,11 @@ CHC高清电影,http://zhuji.sdrnwl.cn:9901/tsfile/live/1058_1.m3u8
 CHC高清电影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8
 CHC家庭影院,http://gxfrg007.8800.org:8282/tsfile/live/1096_1.m3u8
 4K影院,http://epg.112114.xyz/douyu/9249162
-HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+电影,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+IPTV高清院线,http://119.39.128.18:88/hls/34/index.m3u8
+IPTV抗战剧场,http://119.39.128.18:88/hls/35/index.m3u8
+IPTV古装剧场,http://119.39.128.18:88/hls/36/index.m3u8
+IPTV经典剧场,http://119.39.128.18:88/hls/37/index.m3u8
 都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
 广西影视,http://111.59.189.40:8445/tsfile/live/1024_1.m3u8
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
