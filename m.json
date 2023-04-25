@@ -19,6 +19,7 @@
 {"key":"VOFLIX","name":"VOFLIX","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/VOFLIX.json"},
 {"key":"LIBVIO","name":"LIBVIO","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/LIBVIO.json"},
 {"key":"Vidhub","name":"Vidhub","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Vidhub.json"},
+{"key":"飘花","name":"飘花","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/3E.json"},
 {"key":"QQ","name":"腾讯","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/TV3.jar"},
 {"key":"MG","name":"芒果","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/TV3.jar"},
 {"key":"QY","name":"奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/TV3.jar"},
