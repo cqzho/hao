@@ -1,6 +1,7 @@
 //以下资源全部收集自网络，含广告站点：热播库、真不卡、明明、Cokemv、布雷、一起看、胖虎、凌云影视、69美剧、新视觉、乐猪、零零七、大师兄、鸭奈飞
 
 {"sites": [
+{"key":"豆瓣","name":"豆瓣","type":3,"api":"./libs/drpy.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./json/豆瓣.js"},
 {"key":"农民","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/农民影视.json"},
 {"key":"饭团","name":"饭团","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/饭团影视.json"},
 {"key":"荷塘","name":"荷塘","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/野荷塘.json"},
