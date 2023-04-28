@@ -2,8 +2,8 @@
   "站名": "素白白影视",
   "主页url": "https://www.subaibaiys.com",
   
-  "分类": "电影&剧集",
-  "分类值": "new-movie&domestic-drama",
+  "分类": "剧集&漫威宇宙&速度与激情&007系列",
+  "分类值": "domestic-drama&marvel-movies&fastfurious&zero-zero-seven",
   
   "分类url": "https://www.subaibaiys.com/{cateId}/page/{catePg}",
   
