@@ -1,5 +1,3 @@
-//以下资源全部收集自网络，含广告站点：热播库、真不卡、明明、Cokemv、布雷、一起看、胖虎、凌云影视、69美剧、新视觉、乐猪、零零七、大师兄、鸭奈飞
-
 {"sites": [
 {"key":"豆瓣","name":"豆瓣","type":3,"api":"http://111.67.196.181/js/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://111.67.196.181/js/豆瓣推荐.js"},
 {"key":"农民","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/农民影视.json"},
@@ -15,6 +13,7 @@
 {"key":"蓝光","name":"蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/蓝光影院.json"},
 {"key":"烧火","name":"烧火","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/骚火电影.json"},
 {"key":"双十","name":"双十","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/双十电影.json"},
+{"key":"素白","name":"素白","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/素白白.json"},
 {"key":"奥特","name":"奥特","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Auete.json"},
 {"key":"VOFLIX","name":"VOFLIX","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/VOFLIX.json"},
 {"key":"LIBVIO","name":"LIBVIO","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/LIBVIO.json"},
