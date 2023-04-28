@@ -1,5 +1,4 @@
 {"sites": [
-{"key":"豆瓣","name":"豆瓣","type":3,"api":"http://111.67.196.181/js/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://111.67.196.181/js/豆瓣推荐.js"},
 {"key":"农民","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/农民影视.json"},
 {"key":"饭团","name":"饭团","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/饭团影视.json"},
 {"key":"荷塘","name":"荷塘","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/野荷塘.json"},
@@ -15,9 +14,9 @@
 {"key":"双十","name":"双十","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/双十电影.json"},
 {"key":"素白","name":"素白","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/素白白.json"},
 {"key":"奥特","name":"奥特","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Auete.json"},
-{"key":"VOFLIX","name":"VOFLIX","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/VOFLIX.json"},
-{"key":"LIBVIO","name":"LIBVIO","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/LIBVIO.json"},
-{"key":"Vidhub","name":"Vidhub","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Vidhub.json"},
+{"key":"VOFLIX","name":"VOF","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/VOFLIX.json"},
+{"key":"LIBVIO","name":"LIB","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/LIBVIO.json"},
+{"key":"Vidhub","name":"VID","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Vidhub.json"},
 {"key":"QQ","name":"腾讯","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"MG","name":"芒果","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"QY","name":"奇艺","type":3,"api":"csp_Itv","searchable":1,"quickSearch":1,"filterable":1},
