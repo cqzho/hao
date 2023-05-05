@@ -2,7 +2,7 @@
   "站名": "蓝光影院",
   "主页url": "https://www.lgyy.vip",
   
-  "分类": "电影&电视剧",
+  "分类": "电影&剧集",
   "分类值": "1&2",
   
   "分类url": "https://www.lgyy.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
