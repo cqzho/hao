@@ -4,7 +4,7 @@
   "主页url": "https://yehetang.cc",
   "热门": "电视剧$20",
   
-  "分类": "电影$1#电视剧$2#综艺$3#动漫$4#少儿$33",
+  "分类": "电影$1#剧集$2#综艺$3#动漫$4#少儿$33",
   
   "分类url": "https://yehetang.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
