@@ -25,7 +25,7 @@
 "播放列表":"<a&&</a>",
 "播放标题":"<span>&&</span>", 
 "播放链接":"href=\"&&\"",
-"分类":"电影$1#电视剧$2#综艺$3#动漫$4",
+"分类":"电影$1#剧集$2#综艺$3#动漫$4",
 "分类url":"https://w.996w.top/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
 "筛选":
 {
