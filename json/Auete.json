@@ -1,7 +1,7 @@
 {
   "站名": "Auete",
   "主页url": "https://auete.org",
-  "分类": "电影$Movie#电视剧$Tv", 
+  "分类": "电影$Movie#剧集$Tv", 
   "分类url": "https://auete.org/{cateId}{class}/index{catePg}.html[https://auete.org/{cateId}/index.html]",
   "数组": "<li class=\"trans_3&&/button>",
   "副标题": "hdtag\">&&<",
