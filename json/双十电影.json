@@ -2,7 +2,7 @@
   "站名": "双十电影",
   "主页url": "https://www.1010dy3.com",
   
-  "分类": "电影&电视剧&动漫&综艺",
+  "分类": "电影&剧集&动漫&综艺",
   "分类值": "1&2&3&4",
   
   "分类url": "https://www.1010dy3.com/show/{cateId}{area}{by}{class}{year}/page/{catePg}",
