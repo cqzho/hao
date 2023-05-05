@@ -1,10 +1,9 @@
 {
-  "作者": "菜妮丝https://cainisi.cf",
   "站名": "奇优影院",
   "主页url": "http://www.qiyoudy1.com",
   
-  "分类": "电视剧&电影",
-  "分类值": "2&1",
+  "分类": "电影&剧集",
+  "分类值": "1&2",
   
   "分类url": "http://www.qiyoudy1.com/list/{cateId}_{catePg}.html",
   
