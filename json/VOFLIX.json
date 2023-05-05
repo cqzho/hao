@@ -1,7 +1,7 @@
 {
   "站名": "VOFLIX",
   "主页url": "https://www.voflix.me",
-  "分类": "剧集$2#动漫$4#综艺$3",
+  "分类": "剧集$2",
   "分类url": "https://www.voflix.me/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   "副标题": "module-item-note\">&&</div>",
   "搜索模式": "1",
