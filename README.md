@@ -3,7 +3,7 @@
 
 线路1：	https://raw.iqiq.io/cqzho/hao/main/m.json
 
-线路2：	https://raw.kgithub.com/cqzho/hao/main/m.json
+线路2：	https://raw.fastgit.org/cqzho/hao/main/m.json
 
 
 
