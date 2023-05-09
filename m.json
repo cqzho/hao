@@ -5,7 +5,6 @@
 {"key":"咕噜","name":"咕噜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/咕噜咕噜.json"},
 {"key":"独播","name":"独播","type":3,"api":"csp_XPathMacFilter","searchable": 1,"quickSearch":1,"filterable": 1,"ext":"./json/独播库.json"},
 {"key":"奇优","name":"奇优","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/奇优影院.json"},
-{"key":"口袋","name":"口袋","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/口袋影院.json"},
 {"key":"兔子","name":"兔子","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/莫扎兔.json"},
 {"key":"九八","name":"九八","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/98影院.json"},
 {"key":"厂长","name":"厂长","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/厂长资源.json"},
