@@ -11,10 +11,10 @@
     "cateId": "/@href",
     "cateIdR": "/list/(\\S+).html",
     "cateManual": {
-        "电影": "1",
-        "剧集": "2",
-        "动漫": "3",
-        "综艺": "4"
+        "电影": "1~1",
+        "剧集": "2~1",
+        "动漫": "3~1",
+        "综艺": "4~1"
     },
     "homeVodNode": "//div[contains(@class, 'stui-vodlist__box')]/a[contains(@class,'stui-vodlist__thumb')]",
     "homeVodName": "/@title",
