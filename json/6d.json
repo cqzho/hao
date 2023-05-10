@@ -1,8 +1,8 @@
 {
     "ua": "",
-    "homeUrl": "http://6d.xuangz.cn",
+    "homeUrl": "https://6d.zzdacou.com",
     "dcVipFlag": "true",
-    "pCfgJs": "http://6d.xuangz.cn/static/js/playerconfig.js",
+    "pCfgJs": "https://6d.zzdacou.com/static/js/playerconfig.js",
     "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
     "dcShow2Vip": {},
     "dcPlayUrl": "true",
@@ -12,7 +12,7 @@
     "cateIdR": "/list/(\\S+).html",
     "cateManual": {
         "电影": "1",
-        "电视剧": "2",
+        "剧集": "2",
         "动漫": "3",
         "综艺": "4"
     },
