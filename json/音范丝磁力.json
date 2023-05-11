@@ -12,8 +12,7 @@
 		"4K": "topic/4k",
 		"3D": "topic/3dmovie",
 		"纪录片": "topic/bluray-movie/documentry",
-		"演唱会": "topic/bluray-movie/song",
-		"预告片": "topic/trailers"
+		"演唱会": "topic/bluray-movie/song"
 	},
 
 	"homeVodNode": "//div[contains(@class,'mainleft')]/ul/li/div[contains(@class,'thumbnail')]",
