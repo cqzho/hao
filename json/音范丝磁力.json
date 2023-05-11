@@ -8,13 +8,12 @@
 	"cateId": "/@href",
 	"cateIdR": "/s/(\\w+)",
 	"cateManual": {
-		"推荐": "page",
-		"电影": "topic/bluray-movie/movie/page",
-		"4K": "topic/4k/page",
-		"3D": "topic/3dmovie/page",
-		"纪录片": "topic/bluray-movie/documentry/page",
-		"演唱会": "topic/bluray-movie/song/page",
-		"预告片": "topic/trailers/page"
+		"电影": "topic/bluray-movie/movie",
+		"4K": "topic/4k",
+		"3D": "topic/3dmovie",
+		"纪录片": "topic/bluray-movie/documentry",
+		"演唱会": "topic/bluray-movie/song",
+		"预告片": "topic/trailers"
 	},
 
 	"homeVodNode": "//div[contains(@class,'mainleft')]/ul/li/div[contains(@class,'thumbnail')]",
