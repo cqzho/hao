@@ -4,7 +4,7 @@
 			"type_id": "电影"
 		},
 		{
-			"type_name": "电视剧",
+			"type_name": "剧集",
 			"type_id": "电视剧"
 		},
 		{
@@ -12,12 +12,12 @@
 			"type_id": "儿童"
 		},
 		{
-			"type_name": "纪录片",
+			"type_name": "纪录",
 			"type_id": "纪录片超清"
 		},
 		{
 			"type_name": "动物世界",
-			"type_id": "动物世界"
+			"type_id": "动物世界超清"
 		},
 		{
 			"type_name": "恐龙",
