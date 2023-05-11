@@ -20,7 +20,7 @@
 	"homeVodImg": "/a/img/@src",
 	"homeVodImgR": "\\S+(http\\S+)",
 	"homeVodMark": "../div[contains(@class,'info')]/span[2]/a/text()",
-	"cateUrl": "https://www.yinfans.me/{cateId}/{catePg}",
+	"cateUrl": "https://www.yinfans.me/{cateId}-{catePg}",
 	"cateVodNode": "//div[contains(@class,'mainleft')]/ul/li/div[contains(@class,'thumbnail')]",
 	"cateVodName": "/a/@title",
 	"cateVodId": "/a/@href",
