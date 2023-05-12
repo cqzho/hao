@@ -487,6 +487,7 @@ CHC动作电影,https://live.goodiptv.club/api/ghyx.php?id=MotionHD_2000
 动漫秀场,https://live.goodiptv.club/api/cqyx.php?id=dmxcHD
 重庆少儿,https://live.goodiptv.club/api/cqyx.php?id=cqseHD
 新动漫,https://live.goodiptv.club/api/cqyx.php?id=dongman
+宝宝动画,https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
 青春动漫,https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
 卡酷少儿,https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
 炫动卡通,https://live.goodiptv.club/api/bestv.php?id=hhxd8m/8000000
