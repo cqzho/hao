@@ -1,5 +1,4 @@
 {"sites": [
-{"key":"荐片","name":"荐片","type":3,"api":"https://raw.iqiq.io/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/hjdhnx/dr_py/main/js/drpy.js"},
 {"key":"饭团","name":"饭团","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/饭团影视.json"},
 {"key":"农民","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/农民影视.json"},
 {"key":"厂长","name":"厂长","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/厂长资源.json"},
