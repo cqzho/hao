@@ -1,6 +1,6 @@
 {
   "ua": "",
-  "homeUrl": "https://www.bdys01.com",
+  "homeUrl": "https://www.bdys03.com",
   "dcPlayUrl": "true",
   "cateNode": "//a[contains(@href,'/s/')]",
   "cateName": "concat(//span[contains(@class,'nav-link-title')]/text(),//a[contains(@class,'dropdown-item')]/text())",
@@ -14,7 +14,7 @@
   "homeVodImg": "/a/img/@data-src",
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "concat(//div[contains(@class,'ribbon ribbon-bookmark ribbon-top bg-azure p-0')]/text(),//span[contains(@class,'badge bg-pink position-absolute top-0 start-0')]/text())",
-  "cateUrl": "https://www.bdys01.com/s/{cateId}/{catePg}",
+  "cateUrl": "https://www.bdys03.com/s/{cateId}/{catePg}",
   "cateVodNode": "//div[contains(@class,'col-lg-8 col-4')]/div[contains(@class,'card card-sm card-link')]",
   "cateVodName": "//h3/text()",
   "cateVodId": "/a/@href",
@@ -22,7 +22,7 @@
   "cateVodImg": "/a/img/@src",
   "cateVodImgR": "\\S+(http\\S+)",
   "cateVodMark": "concat(//div[contains(@class,'ribbon ribbon-bookmark ribbon-top bg-azure p-0')]/text(),//span[contains(@class,'badge bg-pink position-absolute top-0 start-0')]/text())",
-  "dtUrl": "https://www.bdys01.com/{vid}.htm",
+  "dtUrl": "https://www.bdys03.com/{vid}.htm",
   "dtNode": "//body",
   "dtName": "//h2/text()",
   "dtNameR": "",
@@ -47,7 +47,7 @@
   "dtUrlName": "/td[2]/text()",
 
 
-  "searchUrl": "https://www.bdys01.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+  "searchUrl": "https://www.bdys03.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
   "scVodNode": "json:list",
   "scVodName": "name",
   "scVodId": "id",
