@@ -33,7 +33,6 @@
 {"key":"酒吧","name":"酒吧〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/98影院.json"},
 
 {"key":"蓝光〔xBPQ〕","name":"蓝光〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/蓝光影院.json"},
-{"key":"蓝光〔js〕","name":"蓝光〔js〕","type":3,"api":"https://raw.iqiq.io/cqzho/hao/main/libs/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/蓝光影院.js"},
 
 {"key":"生火〔xBPQ〕","name":"生火〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/骚火电影.json"},
 {"key":"生火〔js〕","name":"生火〔js〕","type":3,"api":"https://raw.iqiq.io/cqzho/hao/main/libs/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/骚火电影.js"},
