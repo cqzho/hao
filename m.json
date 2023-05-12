@@ -21,6 +21,7 @@
 {"key":"蓝光","name":"蓝光〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/蓝光影院.json"},
 {"key":"生火","name":"生火〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/骚火电影.json"},
 {"key":"双十","name":"双十〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/双十电影.json"},
+{"key":"双十〔js〕","name":"双十〔js〕","type":3,"api":"https://raw.iqiq.io/cqzho/hao/main/libs/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/双十电影.js"},
 {"key":"素白","name":"素白〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/素白白.json"},
 {"key":"奥特","name":"奥特〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Auete.json"},
 {"key":"城市","name":"城市〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/城市电影.json"},
