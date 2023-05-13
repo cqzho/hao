@@ -12,6 +12,8 @@
 {"key":"厂长〔xbpq〕","name":"厂长〔xbpq〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/厂长资源.json"},
 {"key":"厂长〔js〕","name":"厂长〔js〕","type":3,"api":"./libs/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/厂长资源.js"},
 
+{"key":"188〔js〕","name":"188〔js〕","type":3,"api":"./libs/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/188看.js"},
+
 {"key":"麦豆〔js〕","name":"麦豆〔js〕","type":3,"api":"./libs/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/麦豆com.js"},
 
 {"key":"苹果〔sp〕","name":"苹果〔sp〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
