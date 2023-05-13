@@ -3,7 +3,7 @@
 
 {"key":"饭团〔sp〕","name":"饭团〔sp〕","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 {"key":"饭团〔xbpq〕","name":"饭团〔xbpq〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/饭团影视.json"},
-{"key":"饭团〔js〕","name":"饭团影视〔js〕","type":3,"api":"./libs/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/饭团影视.js"},
+{"key":"饭团〔js〕","name":"饭团〔js〕","type":3,"api":"./libs/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/饭团影视.js"},
 
 {"key":"农民〔sp〕","name":"农民〔sp〕","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/农民影视.json"},
 {"key":"农民〔js〕","name":"农民〔js〕","type":3,"api":"./libs/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/农民影视.js"},
