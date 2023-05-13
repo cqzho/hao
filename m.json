@@ -68,7 +68,6 @@
 {"key":"魔力〔js〕","name":"魔力〔js〕","type":3,"api":"./libs/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/HDmoli.js"},
 
 {"key":"独播〔xpmf〕","name":"独播〔xpmf〕","type":3,"api":"csp_XPathMacFilter","searchable": 1,"quickSearch":1,"filterable": 1,"ext":"./json/独播库.json"},
-{"key":"独播〔js〕","name":"独播〔js〕","type":3,"api":"./libs/drpy.min.js","searchable": 1,"quickSearch":1,"filterable": 1,"ext":"./js/独播库.js"},
 
 {"key":"六度〔xpf〕","name":"六度〔xpf〕","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/6d.json"},
 {"key":"六度〔js〕","name":"六度〔js〕","type":3,"api":"./libs/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/六度TV.js"},
