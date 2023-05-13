@@ -9,6 +9,7 @@
 
 {"key":"厂长","name":"厂长","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/厂长资源.json"},
 {"key":"厂长〔js〕","name":"厂长〔js〕","type":3,"api":"https://raw.iqiq.io/cqzho/hao/main/libs/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/厂长资源.js"},
+{"key":"歪片〔js〕","name":"歪片〔js〕","type":3,"api":"https://raw.iqiq.io/cqzho/hao/main/libs/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/hjdhnx/dr_py/main/js/歪片星球.js"},
 
 {"key":"麦豆〔js〕","name":"麦豆〔js〕","type":3,"api":"https://raw.iqiq.io/cqzho/hao/main/libs/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/麦豆com.js"},
 
