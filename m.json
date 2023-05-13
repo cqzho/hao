@@ -44,6 +44,8 @@
 {"key":"VX","name":"VX","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/VOFLIX.json"},
 {"key":"LO","name":"LO","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/LIBVIO.json"},
 {"key":"VB","name":"VB","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Vidhub.json"},
+
+{"key":"魔力","name":"魔力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/hdmoli.json"},
 {"key":"魔力〔js〕","name":"魔力〔js〕","type":3,"api":"https://raw.iqiq.io/cqzho/hao/main/libs/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/HDmoli.js"},
 
 {"key":"独播","name":"独播","type":3,"api":"csp_XPathMacFilter","searchable": 1,"quickSearch":1,"filterable": 1,"ext":"./json/独播库.json"},
