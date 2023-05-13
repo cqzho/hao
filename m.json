@@ -64,6 +64,7 @@
 
 {"key":"哔哩","name":"哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/哔哩哔哩.json"},
 {"key":"哔哩〔js〕","name":"哔哩〔js〕","type":3,"api":"https://raw.iqiq.io/cqzho/hao/main/libs/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/哔哩影视.js"},
+{"key":"童趣〔js〕","name":"童趣〔js〕","type":3,"api":"https://raw.iqiq.io/cqzho/hao/main/libs/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/童趣.js"},
 
 {"key":"少儿","name":"少儿","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/少儿教育.json"},
 {"key":"小学","name":"小学","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/小学课堂.json"},
