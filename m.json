@@ -1,5 +1,5 @@
 {"sites": [
-{"key":"荐片","name":"豆瓣推荐〔js〕","type":3,"api":"./libs/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/豆瓣.js"},
+{"key":"荐片","name":"荐片〔js〕","type":3,"api":"./libs/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/豆瓣.js"},
 
 {"key":"饭团〔sp〕","name":"饭团〔sp〕","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 {"key":"饭团〔xbpq〕","name":"饭团〔xbpq〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/饭团影视.json"},
