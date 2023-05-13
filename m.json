@@ -11,6 +11,7 @@
 {"key":"厂长〔js〕","name":"厂长〔js〕","type":3,"api":"https://raw.iqiq.io/cqzho/hao/main/libs/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/厂长资源.js"},
 
 {"key":"麦豆〔js〕","name":"麦豆〔js〕","type":3,"api":"https://raw.iqiq.io/cqzho/hao/main/libs/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/麦豆com.js"},
+{"key":"麦兜〔js〕","name":"麦兜〔js〕","type":3,"api":"https://raw.iqiq.io/cqzho/hao/main/libs/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/hjdhnx/dr_py/main/js/麦豆.js"},
 
 {"key":"苹果","name":"苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
