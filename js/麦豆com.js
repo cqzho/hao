@@ -7,7 +7,7 @@ var rule = {
     quickSearch:0,
     filterable:0,
     headers:{'User-Agent':'MOBILE_UA',},
-    class_name:'国产&港台&欧美&韩剧&日剧&泰剧&剧集&电影&动漫&综艺',
+    class_name:'国剧&港台&欧美&韩剧&日剧&泰剧&剧集&电影&动漫&综艺',
 class_url:'guocanju&gangtai&en&hanju&riju&taiju&tv&movie&ac&zongyi',
 	cate_exclude:'留言|幸运码|更多播放线路|蚂蚁导航|迷历史',
     推荐:'.newindex&&ul&&li;img&&alt;img&&data-original;.jidi&&Text;a&&href',
