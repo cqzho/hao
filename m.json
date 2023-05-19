@@ -27,8 +27,6 @@
 {"key":"低端〔sp〕","name":"低端〔sp〕","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"低端〔js〕","name":"低端〔js〕","type":3,"api":"./libs/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/低端影视.js"},
 
-{"key":"麻花〔js〕","name":"麻花〔js〕","type":3,"api":"./libs/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/gaotianliuyun/gao/master/js/麻花影视.js"},
-
 {"key":"QQ〔sp〕","name":"腾讯〔sp〕","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/tv.jar"},
 
 {"key":"MG〔sp〕","name":"芒果〔sp〕","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/tv.jar"},
