@@ -153,8 +153,6 @@ CCTV16-4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 山西卫视,https://live.goodiptv.club/api/cqyx.php?id=shanxiSD
 兵团卫视,https://live.goodiptv.club/api/cqyx.php?id=bingtuanSD
 宁夏卫视,https://live.goodiptv.club/api/cqyx.php?id=ningxia
-北京卡酷少儿,https://live.goodiptv.club/api/cqyx.php?id=bjkakuSD
-金鹰卡通,https://live.goodiptv.club/api/cqyx.php?id=jinyingSD
 三沙卫视,https://live.goodiptv.club/api/cqyx.php?id=sanshaSD
 青海卫视,https://live.goodiptv.club/api/cqyx.php?id=qinghaiSD
 中国天气,https://live.goodiptv.club/api/cqyx.php?id=tianqiSD
@@ -297,11 +295,14 @@ CHC动作电影,https://live.goodiptv.club/api/ghyx.php?id=MotionHD_2000
 新动漫,https://live.goodiptv.club/api/cqyx.php?id=dongman
 宝宝动画,https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
 青春动漫,https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
-卡酷少儿,https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
+北京卡酷少儿,https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
 炫动卡通,https://live.goodiptv.club/api/bestv.php?id=hhxd8m/8000000
 嘉佳卡通,https://live.goodiptv.club/api/itouch.php?id=1187
 广东少儿,https://live.goodiptv.club/api/itouch.php?id=1200
 深圳少儿,https://live.goodiptv.club/api/itouch.php?id=1212
+北京卡酷少儿,https://live.goodiptv.club/api/cqyx.php?id=bjkakuSD
+金鹰卡通,https://live.goodiptv.club/api/cqyx.php?id=jinyingSD
+
 
 重庆频道,#genre#
 北碚,http://222.178.181.121:12034/ts1
