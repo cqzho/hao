@@ -11,7 +11,7 @@
 
   "cateManual": {
     "电影": "1",
-    "电视剧": "2"
+    "剧集": "2"
   },
 
   "cateUrl": "https://www.hdmoli.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan=&state=&money=&ver=&jq=",
