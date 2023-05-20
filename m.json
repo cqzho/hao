@@ -27,8 +27,6 @@
 {"key":"LO〔xbpq〕","name":"LIBVIO","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/LIBVIO.json"},
 {"key":"VB〔xbpq〕","name":"Vidhub","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Vidhub.json"},
 {"key":"魔力〔xbpq〕","name":"魔力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/hdmoli.json"},
-{"key":"魔力2〔xbpq〕","name":"魔力2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/boly4189/tv1/24d04c5a903fd9133e323c4df0fa481e2c6f1fbc/MaooXP/hdmoli.json"},
-
 {"key":"独播〔xpmf〕","name":"独播","type":3,"api":"csp_XPathMacFilter","searchable": 1,"quickSearch":1,"filterable": 1,"ext":"./json/独播库.json"},
 {"key":"六度〔xpf〕","name":"六度","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/6d.json"},
 //{"key":"音范丝","name":"音范丝〔xpf〕","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/音范丝磁力.json"},
