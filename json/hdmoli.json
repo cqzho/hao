@@ -16,8 +16,6 @@
   "biaotihou": "\"",
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
-
-  //新版Biubiu参数：副标题 (不需要的话，就不填写或者删除副标题2个字段也可以。)
   "fubiaotiqian": "text-right\">",
   "fubiaotihou": "</span",
 
