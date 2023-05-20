@@ -500,7 +500,6 @@ GRTN文化频道,https://live.goodiptv.club/api/itouch.php?id=2511
 成都生活,http://live.aptvapp.com/sxg.php?id=CDTV-3_4000
 成都影视,http://live.aptvapp.com/sxg.php?id=CDTV-4_4000
 成都公共,http://live.aptvapp.com/sxg.php?id=CDTV-5_4000
-成都少儿,http://live.aptvapp.com/sxg.php?id=CDTV-6_4000
 成都高新电视,http://live.aptvapp.com/sxg.php?id=cdgxdstgq_2000
 成都综合,http://v2.91kds.cn/b9/sccdtv.m3u8?fmt=hls&id=sccdtv1hd&auth=rinimabi
 成都综合,http://stream.guihet.com/t/cdtv.php?id=1
