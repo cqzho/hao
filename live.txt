@@ -18,8 +18,6 @@ CCTV14,https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
 CCTV15,https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
 CCTV16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 CCTV17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
-CCTV4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
-CCTV16 4K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
 
 CCTV1,https://live.goodiptv.club/api/ghyx.php?id=CCTV1HD_6000
 CCTV2,https://live.goodiptv.club/api/ghyx.php?id=CCTV2HD_6000
@@ -39,8 +37,6 @@ CCTV14,https://live.goodiptv.club/api/ghyx.php?id=CCTV14HD_6000
 CCTV15,https://live.goodiptv.club/api/ghyx.php?id=CCTV15HD_6000
 CCTV16,https://live.goodiptv.club/api/ghyx.php?id=CCTV16HD_6000
 CCTV17,https://live.goodiptv.club/api/ghyx.php?id=CCTV17HD_6000
-CCTV4K,https://live.goodiptv.club/api/ghyx.php?id=CCTV4K_25000
-CCTV16 4K,https://live.goodiptv.club/api/ghyx.php?id=CCTV16UHD_25000
 
 CCTV1,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
 CCTV2,https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
@@ -60,8 +56,6 @@ CCTV14,https://live.goodiptv.club/api/cqyx.php?id=cctvseHD
 CCTV15,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 CCTV16,https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
 CCTV17,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
-CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
-CCTV16 4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 
 CCTV1,http://live.aptvapp.com/sxg.php?id=CCTV-1H265_4000
 CCTV2,http://live.aptvapp.com/sxg.php?id=CCTV-2H265_4000
@@ -80,14 +74,8 @@ CCTV13,http://live.aptvapp.com/sxg.php?id=CCTV-xw_4000
 CCTV14,http://live.aptvapp.com/sxg.php?id=CCTV-14H265_4000
 CCTV15,http://live.aptvapp.com/sxg.php?id=CCTV-15-yyH265_4000
 CCTV16,http://live.aptvapp.com/sxg.php?id=CCTV-16_4000
-CCTV16 4K,http://live.aptvapp.com/sxg.php?id=CCTV-16-4K_8000
 CCTV17,http://live.aptvapp.com/sxg.php?id=CCTV-17_4000
-CCTV4K,http://live.aptvapp.com/sxg.php?id=ys4Kcq_2000
-CGTN俄语,https://live.goodiptv.club/api/sxg.php?id=ey_2000
-CGTN法语,https://live.goodiptv.club/api/sxg.php?id=fy_2000
-CGTN西语,https://live.goodiptv.club/api/sxg.php?id=xbyy_2000
-CGTN英语,https://live.goodiptv.club/api/sxg.php?id=CGTN_4000
-CGTN,https://live.goodiptv.club/api/cqyx.php?id=cgtnSD
+
 卫视频道,#genre#
 江苏卫视,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
 广西卫视,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
@@ -309,14 +297,34 @@ CETV4,http://live.aptvapp.com/sxg.php?id=CETV-4H264_2000
 高三,http://liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
 
 4K 频道,#genre#
-4K超高清电影,http://live.aptvapp.com/sxg.php?id=emdy4k_8000
+CCTV3-4K,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
+CCTV5-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+CCTV6-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
+CCTV8-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
+CCTV4K,http://159.75.85.63:5679/cctv4k.php
+CCTV4K,http://live.aptvapp.com/sxg.php?id=ys4Kcq_2000
+CCTV4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
+CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
+CCTV4K,https://live.goodiptv.club/api/ghyx.php?id=CCTV4K_25000
+CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+CCTV16 4K,http://live.aptvapp.com/sxg.php?id=CCTV-16-4K_8000
+CCTV16 4K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
+CCTV16 4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
+CCTV16 4K,https://live.goodiptv.club/api/ghyx.php?id=CCTV16UHD_25000
 欢笑剧场4K,http://live.aptvapp.com/sxg.php?id=hxjc-4k_8000
 欢笑剧场4K,https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
 欢笑剧场4K,https://live.goodiptv.club/api/bestv.php?id=hxjc4k/15000000
 欢笑剧场4K,http://live.aptvapp.com/bestv.php?id=hxjc4k/15000000
+BesTV-4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+咪咕体育-4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+咪咕体育-4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
+4K超高清电影,http://live.aptvapp.com/sxg.php?id=emdy4k_8000
+河南4K,http://[2409:8087:4400:20:1:a0f:12:33]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 广东4K超高清,https://live.goodiptv.club/api/itouch.php?id=1198
+江苏卫视,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 4K影视,http://nas.jdshipin.com:8801/4kys.php
 爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+纯享4K,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
 纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 纯享4K,http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8
 纯享4K,http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
@@ -324,38 +332,6 @@ CETV4,http://live.aptvapp.com/sxg.php?id=CETV-4H264_2000
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
 
-BTV纪实科教-8KSDR源,http://159.75.85.63:6798
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-欢笑剧场4K,http://111.20.35.103:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-欢笑剧场4K,http://113.207.84.197:8090/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
-纯享4K,http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8
-纯享4K备,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-CCTV4K,http://159.75.85.63:5679/cctv4k.php
-CCTV4K,http://113.207.84.197:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
-CCTV16 4K,http://113.207.84.197:8090/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
-CCTV16 4K,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240389_1/playlist.m3u8?CONTENTID=00000110240389_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-北京IPTV-4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
-4K影视,http://nas.jdshipin.com:8801/4kys.php
-虎牙4K王者荣耀,http://159.75.85.63:35455/huya/wzgxs1
-虎牙魔兽世界4K,http://159.75.85.63:35455/huya/shangdi
-虎牙战地五4K,http://159.75.85.63:35455/huya/28260962
-斗鱼4K激战2,http://159.75.85.63:35455/douyu/3916618
-斗鱼4K电影,http://159.75.85.63:35455/douyu/9249162
-咪咕体育-4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-咪咕体育-4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-江苏8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-CCTV8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-CCTV1-4K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
-CCTV3-4K,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
-CCTV5-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-CCTV6-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
-CCTV8-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
-未知4K,http://[2409:8087:2004:20:2800:0:df6e:ec11]/wh7f454c46tw3939513710_-75405980/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8?icpid=3&RTS=1678666137&from=40&popid=40&hms_devid=2153&prioritypopid=40&vqe=3
-BesTV-4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-河南4K,http://[2409:8087:4400:20:1:a0f:12:33]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
-芒果娱乐4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
-纯享4K,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
 
 影视频道,#genre#
 CBN风尚生活,http://live.aptvapp.com/sxg.php?id=fssh_4000
