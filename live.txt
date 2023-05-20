@@ -344,7 +344,7 @@ CETV4,http://live.aptvapp.com/sxg.php?id=CETV-4H264_2000
 高二,http://liveplay-kk.rtxapp.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
 高三,http://liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
 
-4K 频道,#genre#
+4K超高清,#genre#
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
 CCTV4K,http://live.aptvapp.com/sxg.php?id=ys4Kcq_2000
 CCTV4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
@@ -376,23 +376,10 @@ BesTV-4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/000000010000000600000000000
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
 
-
 影视频道,#genre#
 CHC动作电影,http://live.aptvapp.com/sxg.php?id=wqCHCdzdyH265_4000
 CHC高清电影,http://live.aptvapp.com/sxg.php?id=lnwsCHC-HDH265_4000
 CHC家庭影院,http://live.aptvapp.com/sxg.php?id=jbtygqCHCjtyyH265_4000
-CHC高清电影,http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
-CHC家庭影院,http://222.132.191.125:9901/tsfile/live/1008_1.m3u8
-CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
-CHC动作电影,http://www.51nas.top:4022/udp/239.81.0.239:4056
-CHC动作电影,http://yuwentao114.f3322.net:4022/udp/239.252.219.85:5140
-CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
-CHC高清电影,http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8
-CHC高清电影,http://www.51nas.top:4022/udp/239.81.0.240:4056
-CHC高清电影,http://yuwentao114.f3322.net:4022/udp/239.252.219.83:5140
-CHC高清电影,http://zhuji.sdrnwl.cn:9901/tsfile/live/1058_1.m3u8
-CHC高清电影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8
-CHC家庭影院,http://gxfrg007.8800.org:8282/tsfile/live/1096_1.m3u8
 CHC家庭影院,https://live.goodiptv.club/api/ghyx.php?id=CHCHD_2000
 CHC高清电影,https://live.goodiptv.club/api/ghyx.php?id=CHCHD2_6000
 CHC动作电影,https://live.goodiptv.club/api/ghyx.php?id=MotionHD_2000
