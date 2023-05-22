@@ -1,6 +1,6 @@
 {"urls":[
-{"url":"https://raw.iqiq.io/cqzho/hao/main/m.json","name":"优选线路①"},
-{"url":"https://raw.fastgit.org/cqzho/hao/main/m.json","name":"优选线路②"},
+{"url":"https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/m.json","name":"优选线路①"},
+{"url":"https://cdn.staticaly.com/gh/cqzho/hao/main/m.json","name":"优选线路②"},
 {"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name":"南风"},
 {"url":"https://tvbox.cainisi.cf","name":"菜妮丝"},
 {"url":"http://我不是.肥猫.love:63/接口禁止贩卖","name":"肥猫"},
