@@ -311,22 +311,6 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?fmmv6
 山东教育卫视,http://cntv.sbs/ipv6?id=sdjy
 
-体育频道,#genre#
-劲爆体育,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
-五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
-超级体育,https://live.goodiptv.club/api/bestv.php?id=qcsj8m/8000000
-咪咕足球,https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000
-魅力足球,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
-劲爆体育,https://live.goodiptv.club/api/ghyx.php?id=JinBaoTiYuHD_6000
-北京体育休闲,https://live.goodiptv.club/api/ghyx.php?id=BTVjishiHD_6000
-魅力足球,https://live.goodiptv.club/api/sxg.php?id=mlyy_4000
-新视觉,https://live.goodiptv.club/api/sxg.php?id=ycxsjH265_4000
-劲爆体育,https://live.goodiptv.club/api/sxg.php?id=lqhxjcHDH265_4000
-魅力足球,https://live.goodiptv.club/api/cqyx.php?id=mlzqHD
-风云足球,https://live.goodiptv.club/api/cqyx.php?id=fyzqHD
-广东体育,https://live.goodiptv.club/api/itouch.php?id=1184
-
-
 港澳台区,#genre#
 凤凰中文,http://live.aptvapp.com/sxg.php?id=test1_4000
 凤凰中文,http://cntv.sbs/ipv6?id=test1
@@ -475,6 +459,20 @@ BesTV-4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/000000010000000600000000000
 北京卡酷少儿,https://live.goodiptv.club/api/cqyx.php?id=bjkakuSD
 金鹰卡通,https://live.goodiptv.club/api/cqyx.php?id=jinyingSD
 金鹰卡通,http://live.aptvapp.com/sxg.php?id=jykt_2000
+
+体育频道,#genre#
+劲爆体育,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
+五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
+超级体育,https://live.goodiptv.club/api/bestv.php?id=qcsj8m/8000000
+魅力足球,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
+劲爆体育,https://live.goodiptv.club/api/ghyx.php?id=JinBaoTiYuHD_6000
+北京体育休闲,https://live.goodiptv.club/api/ghyx.php?id=BTVjishiHD_6000
+魅力足球,https://live.goodiptv.club/api/sxg.php?id=mlyy_4000
+新视觉,https://live.goodiptv.club/api/sxg.php?id=ycxsjH265_4000
+劲爆体育,https://live.goodiptv.club/api/sxg.php?id=lqhxjcHDH265_4000
+魅力足球,https://live.goodiptv.club/api/cqyx.php?id=mlzqHD
+风云足球,https://live.goodiptv.club/api/cqyx.php?id=fyzqHD
+广东体育,https://live.goodiptv.club/api/itouch.php?id=1184
 
 北京频道,#genre#
 北京卫视,https://live.goodiptv.club/api/ghyx.php?id=BTV1HD_6000
