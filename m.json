@@ -21,7 +21,7 @@
 {"key":"城市","name":"城市","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/城市电影.json"},
 {"key":"沃芙","name":"沃芙","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/VOFLIX.json"},
 {"key":"利奥","name":"利奥","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/LIBVIO.json"},
-{"key":"唯独","name":"唯独","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Vidhub.json"},
+{"key":"味道","name":"味道","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Vidhub.json"},
 {"key":"魔力","name":"魔力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/hdmoli.json"},
 {"key":"独播","name":"独播","type":3,"api":"csp_XPathMacFilter","searchable": 1,"quickSearch":1,"filterable": 1,"ext":"./json/独播库.json"},
 {"key":"六度","name":"六度","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/6d.json"},
