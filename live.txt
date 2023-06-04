@@ -95,8 +95,21 @@ CCTV15,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 CCTV16,https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
 CCTV17,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
 
+CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
+CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
+CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
+CGTN阿语,http://livear.cgtn.com/1000a/prog_index.m3u8
+CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
+CGTN法语,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+CGTN西语,http://livees.cgtn.com/1000e/prog_index.m3u8
+CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
+CGTN西语,https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+CGTN记录,https://livedoc.cgtn.com/500d/prog_index.m3u8
+CGTN记录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8?zshijdynhkwlive-xjp-en/index_1M.m3u8?zshijd
+
 CCTV4欧洲台,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw1798072077_1881739463/migu/kailu/20200324/cctv4ouhd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=125.65.42.193&timestamp=20230426160611&ContentId=265667313&timezone=UTC&mtv_session=a1f0d3ea23dedcfb57026533e0f9fba7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=205e99763af1a2e155df364630a7b05a
 CCTV4美洲台,http://hms344nc1972679590.live.aikan.miguvideo.com/wh7f454c46tw2087320283_-876815993/migu/kailu/20200324/cctv4meihd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=125.65.42.193&timestamp=20230426161100&ContentId=265667335&timezone=UTC&mtv_session=9de016f966bff8e72afcd5fccab460fe&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=79b8d51a3105d0beb31ae1f6db95827e
+
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV4K,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
@@ -129,6 +142,7 @@ CCTV16 4K,https://live.goodiptv.club/api/ghyx.php?id=CCTV16UHD_25000
 央视台球,https://live.goodiptv.club/api/cqyx.php?id=ystqHD
 风云足球,https://live.goodiptv.club/api/cqyx.php?id=fyzqHD
 文化精品,https://live.goodiptv.club/api/cqyx.php?id=yswhHD
+中学生,https://live.goodiptv.club/api/cqyx.php?id=qicai
 
 CHC家庭影院,https://live.goodiptv.club/api/ghyx.php?id=CHCHD_2000
 CHC高清电影,https://live.goodiptv.club/api/ghyx.php?id=CHCHD2_6000
@@ -189,6 +203,7 @@ IPv4 | 卫视,#genre#
 内蒙古卫视,http://222.71.90.218:8888/newlive/live/hls/46/live.m3u8
 新疆卫视,http://222.71.90.218:8888/newlive/live/hls/47/live.m3u8
 
+
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 海南卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
 大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
@@ -199,11 +214,11 @@ IPv4 | 卫视,#genre#
 延边卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
 兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
-江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8?
-深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
-北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
-海南卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8?
-大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
+江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
+北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
+海南卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
+大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 西藏卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
 延边卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
@@ -500,7 +515,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 东森电影,http://120.84.96.82:808/hls/32/index.m3u8
 东森电影,http://120.84.96.87:808/hls/32/index.m3u8
 东森电影,http://120.84.96.89:808/hls/32/index.m3u8
-森电影,http://lcx-olt.8866.org:8181/tsfile/live/1075_1.m3u8
+东森电影,http://lcx-olt.8866.org:8181/tsfile/live/1075_1.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森戏剧,http://123.51.230.108:18538/.m3u8
 东森戏剧,http://61.221.81.93:8078/hls/34/80/ebcdrama.m3u8
@@ -798,9 +813,9 @@ IPv4 | 四川,#genre#
 成都少儿,http://stream.guihet.com/t/cdtv.php?id=6
 成都高新电视,http://livecdgx.chinamcache.com/cdgxq/gxzb01.m3u8
 成都高新电视,http://live.cdht-tv.com:8190/live/cdht.m3u8
-达州通川频道,http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv
-达州文化生活,http://tv.drs.dzxw.net/channellive/ggpd-dz2.flv
 达州新闻综合,http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
+达州文化生活,http://tv.drs.dzxw.net/channellive/ggpd-dz2.flv
+达州通川频道,http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv
 万源,http://live.wanyuannews.com/wytv/hd/live.m3u8
 万源,http://live.wanyuannews.com/wytv/playlist.m3u8
 安州新闻频道,http://live.sctvcloud.com/live/anzhoutv1/playlist.m3u8
@@ -852,9 +867,7 @@ IPv4 | 四川,#genre#
 泸州新闻综合,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
 马边电视台,http://tvfile.mb.lsrm.org.cn/cms/videos/nmip-media/channellive/channel5/playlist.m3u8
 马尔康综合频道,http://live.zmmek.com:90/live/zhxw.m3u8
-眉山公共频道,http://live2.scmstv.cn/ggpd/sd/live.m3u8
 眉山文旅乡村,http://live2.scmstv.cn/ggpd/sd/live.m3u8
-眉山综合,http://live1.scmstv.cn/gqpd/sd/live.m3u8
 眉山综合频道,http://live1.scmstv.cn/gqpd/sd/live.m3u8
 绵阳科教生活,http://live.sctvcloud.com/live/mytvgg.m3u8
 绵阳科教生活,http://live.sctvcloud.com/live/mytvgg/playlist.m3u8
@@ -867,7 +880,6 @@ IPv4 | 四川,#genre#
 南充科教,http://tv.drs.ncntv.com.cn:8100/channellive/nckjpd.flv
 南充新闻,http://tv.drs.ncntv.com.cn:8100/channellive/nczhpd.flv
 宁南新闻综合,http://live.sctvcloud.com/live/ningnantv1/playlist.m3u8
-攀枝花公共频道,http://zb.pzhgd.com:9095/live/ggpd.m3u8
 攀枝花文旅生活,http://zb.pzhgd.com:9095/live/ggpd.m3u8
 攀枝花新闻综合,http://zb.pzhgd.com:9095/live/xwzh.m3u8
 蓬安新闻综合,http://palive.patv123.com:8091/live/xwpd_800K.m3u8
@@ -876,7 +888,6 @@ IPv4 | 四川,#genre#
 青川新闻综合,http://live.sctvcloud.com/live/qctv1/playlist.m3u8
 青川新闻综合,https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel11/playlist.m3u8
 青神综合频道,http://lmt.scqstv.com/live1/live1.m3u8
-渠县城市公共,http://222.208.224.227:81/hls/8ishqdtt.m3u8
 渠县公共,http://222.208.224.227:81/hls/8ishqdtt.m3u8
 渠县新闻综合,http://222.208.224.227:81/hls/cfp2p8m3.m3u8
 仁寿综合频道,http://play.scrstv.com/TV/xwzh.m3u8
