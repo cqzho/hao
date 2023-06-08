@@ -538,7 +538,7 @@ CETV4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 北京卡酷少儿,https://live.goodiptv.club/api/cqyx.php?id=bjkakuSD
 金鹰卡通,https://live.goodiptv.club/api/cqyx.php?id=jinyingSD
 
-📺|体育,#genre#
+体育频道,#genre#
 劲爆体育,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 超级体育,https://live.goodiptv.club/api/bestv.php?id=qcsj8m/8000000
