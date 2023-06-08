@@ -1,4 +1,4 @@
-📺|央视,#genre#
+央视频道,#genre#
 CCTV1,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
 CCTV2,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
 CCTV3,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
@@ -168,7 +168,7 @@ CHC动作电影(IPv6),http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009
 CHC高清电影(IPv6),http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院(IPv6),http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-📺|卫视,#genre#
+卫视频道,#genre#
 浙江卫视,http://125.210.152.19:9120/live/hzgq-zjwsgq-h264.m3u8
 湖南卫视,http://125.210.152.19:9120/live/hzgq-hnwsgq-h264.m3u8
 江苏卫视,http://125.210.152.19:9120/live/hzgq-jswsgq-h264.m3u8
@@ -334,7 +334,7 @@ CHC家庭影院(IPv6),http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009
 安徽卫视(IPv6),http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 湖北卫视(IPv6),http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-📺|港澳台,#genre#
+港 澳 台,#genre#
 凤凰中文,http://iptv.weai.love/live/88888888/fhzw.m3u8
 凤凰资讯,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=fhzx
 凤凰资讯,http://iptv.weai.love/live/88888888/fhzx.m3u8
@@ -504,7 +504,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 中视,http://61.221.81.93:8078/hls/39/80/gtvdrama.m3u8
 中天娱乐,https://dispatch.ulivetv.net/v/live/cg0ifkvu1hhc.m3u8?stream_id=cg0ifkvu1hhc&timestamp=1684387487&rand=h5ZAGkW3j1&uuid=9b647b3816b2a66a&from=web&sign=190c1b05dbf0f302a89ff5463ea6a99c
 
-📺|教育,#genre#
+教育频道,#genre#
 CETV1,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
 CETV1,http://txycetvbl.centv.cn/cetv1/ypd.m3u8
 CETV2,http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
@@ -526,7 +526,7 @@ CETV4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 高二,http://liveplay-kk.rtxapp.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
 高三,http://liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
 
-📺|动漫,#genre#
+动漫频道,#genre#
 动漫秀场,https://live.goodiptv.club/api/cqyx.php?id=dmxcHD
 动漫秀场,https://live.goodiptv.club/api/bestv.php?id=dmxc8m/8000000
 重庆少儿,https://live.goodiptv.club/api/cqyx.php?id=cqseHD
@@ -548,7 +548,7 @@ CETV4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 无线财经体育,http://120.84.96.82:808/hls/86/index.m3u8
 无线财经体育,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts
 
-📺|重庆,#genre#
+重庆频道,#genre#
 重庆新闻,https://live.goodiptv.club/api/cqyx.php?id=CQTVNewsHD
 重庆影视,https://live.goodiptv.club/api/cqyx.php?id=cqyingshiHD
 重庆社会与法,https://live.goodiptv.club/api/cqyx.php?id=CQTVTrendyHD
@@ -574,7 +574,7 @@ CETV4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 万州,http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8
 武隆,https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8
 
-📺|四川,#genre#
+四川频道,#genre#
 成都综合,http://v2.91kds.cn/b9/sccdtv.m3u8?fmt=hls&id=sccdtv1hd&auth=rinimabi
 成都综合,http://stream.guihet.com/t/cdtv.php?id=1
 成都经济,http://v2.91kds.cn/b9/sccdtv.m3u8?fmt=hls&id=sccdtv2hd&auth=rinimabi
@@ -864,7 +864,34 @@ CETV4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 犍为新闻综合(IPv6),https://live.goodiptv.club/api/sxg.php?id=qwxwzh_2000
 筠连TV(IPv6),https://live.goodiptv.club/api/sxg.php?id=ylyt_2000
 
-📺|小品,#genre#
+影视频道,#genre#
+测试,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+4K影视,http://nas.jdshipin.com:8801/4kys.php
+Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+欢笑剧场4K,https://live.goodiptv.club/api/bestv.php?id=hxjc4k/15000000
+欢笑剧场4K,https://live.goodiptv.club/api/bestv.php?id=hxjc8m/8000000
+欢笑剧场4K,https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
+南国都市4K,https://justsometime.gztv.com/sec/shenghuos.m3u8
+都市剧场,https://live.goodiptv.club/api/cqyx.php?id=dsjcHD
+都市剧场,https://live.goodiptv.club/api/bestv.php?id=dsjc8m/8000000
+都市剧场,https://live.goodiptv.club/api/ghyx.php?id=DuShiJuChangHD_6000
+重庆影视,https://live.goodiptv.club/api/cqyx.php?id=cqyingshiHD
+东方影视,https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
+华语影院,https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
+星光影院,https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
+谍战剧场,https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
+热门剧场,https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
+北京影视,https://live.goodiptv.club/api/ghyx.php?id=BTV4HD_6000
+4K修复(IPv6),http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+4KUHD(IPv6),http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+BesTV 4K(IPv6),http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+测试1(IPv6),http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+测试2(IPv6),http://[2409:8087:7001:20:3::5]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226352/index.m3u8
+欢笑剧场4K(IPv6),http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+小品轮播,#genre#
 小品01,https://www.goodiptv.club/yy/1354936177
 小品02,https://www.goodiptv.club/yy/1354889035
 小品03,https://www.goodiptv.club/yy/1382736720
@@ -893,32 +920,13 @@ CETV4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 小品26,http://epg.112114.xyz/douyu/9374862
 小品27,https://www.goodiptv.club/yy/1454553780
 
-📺|影视,#genre#
-测试,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-4K影视,http://nas.jdshipin.com:8801/4kys.php
-Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-欢笑剧场4K,https://live.goodiptv.club/api/bestv.php?id=hxjc4k/15000000
-欢笑剧场4K,https://live.goodiptv.club/api/bestv.php?id=hxjc8m/8000000
-欢笑剧场4K,https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
-南国都市4K,https://justsometime.gztv.com/sec/shenghuos.m3u8
-都市剧场,https://live.goodiptv.club/api/cqyx.php?id=dsjcHD
-都市剧场,https://live.goodiptv.club/api/bestv.php?id=dsjc8m/8000000
-都市剧场,https://live.goodiptv.club/api/ghyx.php?id=DuShiJuChangHD_6000
-重庆影视,https://live.goodiptv.club/api/cqyx.php?id=cqyingshiHD
-东方影视,https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
-华语影院,https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
-星光影院,https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
-谍战剧场,https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
-热门剧场,https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
-北京影视,https://live.goodiptv.club/api/ghyx.php?id=BTV4HD_6000
-4K修复(IPv6),http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
-4KUHD(IPv6),http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-BesTV 4K(IPv6),http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-测试1(IPv6),http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-测试2(IPv6),http://[2409:8087:7001:20:3::5]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226352/index.m3u8
-欢笑剧场4K(IPv6),http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+影视轮播,#genre#
+武林外传,https://www.goodiptv.club/yy/1354752120
+豆瓣高分,http://epg.112114.xyz/douyu/8770422
+虎牙放映厅,https://www.goodiptv.club/huya/11602077
+虎牙影院,https://www.goodiptv.club/huya/11601968
+1905电影,https://www.goodiptv.club/huya/17688549
+淘宝电影,https://www.goodiptv.club/huya/11336575
 埋堆堆01,https://www.goodiptv.club/huya/23865080
 埋堆堆02,https://www.goodiptv.club/huya/23735126
 埋堆堆03,https://www.goodiptv.club/huya/23863804
@@ -927,16 +935,16 @@ BesTV 4K(IPv6),http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/000000010000000600000
 埋堆堆06,https://www.goodiptv.club/huya/23865036
 埋堆堆07,https://www.goodiptv.club/huya/23903196
 港剧慢品汇,https://www.goodiptv.club/huya/23865142
+成龙,https://www.goodiptv.club/yy/1354888751
+洪金宝,https://www.goodiptv.club/yy/1354924839
+张译,https://www.goodiptv.club/yy/1355119593
+周润发,https://www.goodiptv.club/yy/1354888733
+周星驰,https://www.goodiptv.club/yy/1354889048
 喜剧经典,http://epg.112114.xyz/douyu/9650887
-豆瓣高分,http://epg.112114.xyz/douyu/8770422
 漫威影片,http://epg.112114.xyz/douyu/6140589
 变种人,http://epg.112114.xyz/douyu/9651304
 刘德华,http://diyp.112114.xyz/douyu/2516864
-虎牙影院,https://www.goodiptv.club/huya/11601968
 碟中谍,https://www.goodiptv.club/huya/21059585
-虎牙放映厅,https://www.goodiptv.club/huya/11602077
-1905电影,https://www.goodiptv.club/huya/17688549
-淘宝电影,https://www.goodiptv.club/huya/11336575
 X战警,https://www.goodiptv.club/yy/1382736893
 超级英雄,https://www.goodiptv.club/yy/1382736863
 大进军,https://www.goodiptv.club/yy/1382745083
@@ -997,41 +1005,24 @@ X战警,https://www.goodiptv.club/yy/1382736893
 大江大河2,https://www.goodiptv.club/yy/1382736797
 大明宫词,https://www.goodiptv.club/yy/1382745190
 大明王朝,https://www.goodiptv.club/yy/1382736879
-大太监,https://www.goodiptv.club/yy/1382736886
 大唐双龙传,https://www.goodiptv.club/yy/1354930979
 狄仁杰,https://www.goodiptv.club/yy/1354932438
 风筝,https://www.goodiptv.club/yy/1382828770
 父母爱情,https://www.goodiptv.club/yy/1382746276
-公主嫁到,https://www.goodiptv.club/yy/1354930957
-功夫婆媳,https://www.goodiptv.club/yy/1382736883
-宫心计,https://www.goodiptv.club/yy/1354933540
-怪医文三块,https://www.goodiptv.club/yy/1354936154
 好先生,https://www.goodiptv.club/yy/29067617
-河山,https://www.goodiptv.club/yy/1382749952
-红楼梦,https://www.goodiptv.club/yy/1382745084
-换子成龙,https://www.goodiptv.club/yy/1354932397
-黄大妮,https://www.goodiptv.club/yy/1354930904
 回家的诱惑,https://www.goodiptv.club/yy/1354658043
 鸡毛飞上天,https://www.goodiptv.club/yy/1354806550
 济公游记,https://www.goodiptv.club/yy/1355265814
-家有九凤,https://www.goodiptv.club/yy/1354930894
 家族荣耀,https://www.goodiptv.club/yy/1382745103
 金婚,https://www.goodiptv.club/yy/1382736832
 金庸武侠,https://www.goodiptv.club/yy/40959929
 康熙王朝,https://www.goodiptv.club/yy/1382736818
 狂飙,https://www.goodiptv.club/yy/1382773728
-来自星星的你,https://www.goodiptv.club/yy/1354930976
 鹿鼎记（剧集）,https://www.goodiptv.club/yy/28265277
 名媛望族,https://www.goodiptv.club/yy/1354932431
-娘亲舅大,https://www.goodiptv.club/yy/1354932360
 平凡岁月,https://www.goodiptv.club/yy/1382745117
-亲爱的热爱的,https://www.goodiptv.club/yy/1354932433
 情满四合院,https://www.goodiptv.club/yy/1382736888
 请回答1988,https://www.goodiptv.club/yy/1354932362
-缺宅男女,https://www.goodiptv.club/yy/1382745088
-三国演义,https://www.goodiptv.club/yy/1354930932
-上海滩,https://www.goodiptv.club/yy/1382745184
-少年歌行,https://www.goodiptv.club/yy/1450556636
 神雕侠侣,https://www.goodiptv.club/yy/1351762426
 神探狄仁杰,https://www.goodiptv.club/yy/1382705592
 神医喜来乐,https://www.goodiptv.club/yy/1382714119
@@ -1051,7 +1042,6 @@ X战警,https://www.goodiptv.club/yy/1382736893
 我的前半生,https://www.goodiptv.club/yy/1382735564
 我的体育老师,https://www.goodiptv.club/yy/1382745169
 无敌县令,https://www.goodiptv.club/yy/1354932390
-武林外传,https://www.goodiptv.club/yy/1354752120
 仙剑奇侠传,https://www.goodiptv.club/yy/1382749903
 小欢喜,https://www.goodiptv.club/yy/1382737888
 笑傲江湖,https://www.goodiptv.club/yy/1354282410
@@ -1060,18 +1050,11 @@ X战警,https://www.goodiptv.club/yy/1382736893
 雪豹,https://www.goodiptv.club/yy/1450496699
 雪中悍刀行,https://www.goodiptv.club/yy/1354943110
 寻秦记,https://www.goodiptv.club/yy/1382749900
-燕双鹰,https://www.goodiptv.club/yy/1354825244
 一代枭雄,https://www.goodiptv.club/yy/1355917294
 倚天屠龙记,https://www.goodiptv.club/yy/1354585252
 雍正王朝,https://www.goodiptv.club/yy/23206872
-远去的飞鹰,https://www.goodiptv.club/yy/1354930912
 宰相刘罗锅,https://www.goodiptv.club/yy/1382745191
 正阳门下,https://www.goodiptv.club/yy/1453059740
 正阳门下小女人,https://www.goodiptv.club/yy/1508778570
 知否知否应是绿肥红瘦,https://www.goodiptv.club/yy/21881901
 朱元璋,https://www.goodiptv.club/yy/1382765235
-成龙,https://www.goodiptv.club/yy/1354888751
-洪金宝,https://www.goodiptv.club/yy/1354924839
-张译,https://www.goodiptv.club/yy/1355119593
-周润发,https://www.goodiptv.club/yy/1354888733
-周星驰,https://www.goodiptv.club/yy/1354889048
