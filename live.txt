@@ -921,7 +921,9 @@ BesTV 4K(IPv6),http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/000000010000000600000
 小品27,https://www.goodiptv.club/yy/1454553780
 
 影视轮播,#genre#
-武林外传,https://www.goodiptv.club/yy/1354752120
+武林外传1,https://www.goodiptv.club/yy/1354752120
+武林外传2,https://www.goodiptv.club/yy/1355914397
+武林外传3,https://www.goodiptv.club/yy/1353852605
 豆瓣高分,http://epg.112114.xyz/douyu/8770422
 虎牙放映厅,https://www.goodiptv.club/huya/11602077
 虎牙影院,https://www.goodiptv.club/huya/11601968
