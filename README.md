@@ -1,4 +1,6 @@
 配置地址设定流程：设置 --> 配置地址 --> 输入 以下其中任意地址 --> 点击确定 --> 返回首页
+香港：
+https://raw.iqiq.io/cqzho/hao/main/m.json
 
 韩国：
 https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/m.json
