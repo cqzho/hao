@@ -13,7 +13,7 @@
 {"key":"低端","name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"咕噜","name":"咕噜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/咕噜咕噜.json"},
 {"key":"奇优","name":"奇优","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/奇优影院.json"},
-{"key":"酒吧","name":"酒吧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/酒吧.json"},
+//{"key":"酒吧","name":"酒吧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/酒吧.json"},
 {"key":"生火","name":"生火","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/骚火电影.json"},
 {"key":"双十","name":"双十","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/双十电影.json"},
 {"key":"城市","name":"城市","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/城市电影.json"},
