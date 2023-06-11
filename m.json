@@ -14,7 +14,6 @@
 {"key":"奇优","name":"奇优","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/奇优影院.json"},
 {"key":"生火","name":"生火","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/骚火电影.json"},
 {"key":"双十","name":"双十","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/双十电影.json"},
-{"key":"魔力","name":"魔力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/hdmoli.json"},
 {"key":"素白","name":"素白","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/素白白.json"},
 {"key":"奥特","name":"奥特","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Auete.json"},
 {"key":"沃芙","name":"沃芙","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/VOFLIX.json"},
