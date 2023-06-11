@@ -2,7 +2,7 @@
   "站名": "VOFLIX",
   "主页url": "https://www.voflix.me",
   
-  "分类": "国产剧$13#港台剧$14",
+  "分类": "国剧$13#港台$14",
   
   "分类url": "https://www.voflix.me/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
