@@ -1,10 +1,14 @@
 {
   "站名": "城市电影",
   "主页url": "https://www.citydy.com",
+  
   "分类": "电影&剧集",
   "分类值": "1&2",
+  
   "分类url": "https://www.citydy.com/show/id-{cateId}{area}{by}{class}/page/{catePg}{year}.html",
+  
   "副标题": "text-right\">&&</span>",
+  
   "搜索模式": "1",
   "搜索url": "/search.html?wd={wd}",
   "搜索数组": "col-xs-1\">&&</a>",
@@ -12,15 +16,19 @@
   "搜索标题": "title=\"&&\"",
   "搜索链接": "href=\"&&\"",
   "搜索副标题": "text-overflow\">&&</span>",
+  
   "影片年代": "年代：&&</li>",
   "影片地区": "地区：&&</li>",
   "影片类型": "类型：&&</li>",
   "导演": "导演：&&</li>",
   "主演": "主演：&&</li>",
   "简介": "简介：&&</p>",
+  
   "线路数组": "#con_playlist_*\">&&/a>",
   "线路标题": ">&&<[不包含:下载APP播放]",
+  
   "播放数组": "play-div-oa\">&&</div>",
+  
   "筛选":{
 "1":[
   {"key":"class","name":"剧情","value":[
