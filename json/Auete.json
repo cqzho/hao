@@ -1,7 +1,7 @@
 {
   "站名": "Auete",
   "主页url": "https://auete.org",
-  "分类": "电影$Movie#剧集$Tv", 
+  "分类": "电影$Movie#国剧$Tv/neidi#港剧$Tv/tvbgj#台剧$Tv/taiju#网剧$Tv/wangju", 
   "分类url": "https://auete.org/{cateId}{class}/index{catePg}.html[https://auete.org/{cateId}/index.html]",
   "数组": "<li class=\"trans_3&&/button>",
   "副标题": "hdtag\">&&<",
@@ -30,18 +30,5 @@
   {"n":"恐怖片","v":"/kbp"},
   {"n":"惊悚片","v":"/jsp"},
   {"n":"战争片","v":"/zzp"},
-  {"n":"剧情片","v":"/jqp"}]}],
-  
-"Tv":[
-  {"key":"class","name":"剧情","value":[
-  {"n":"全部","v":""},
-  {"n":"美剧","v":"/oumei"},
-  {"n":"韩剧","v":"/hanju"},
-  {"n":"日剧","v":"/riju"},
-  {"n":"泰剧","v":"/yataiju"},
-  {"n":"网剧","v":"/wangju"},
-  {"n":"台剧","v":"/taiju"},
-  {"n":"国产","v":"/neidi"},
-  {"n":"港剧","v":"/tvbgj"},
-  {"n":"英剧","v":"/yingju"}]}]}
+  {"n":"剧情片","v":"/jqp"}]}]}
 }
