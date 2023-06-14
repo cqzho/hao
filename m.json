@@ -48,7 +48,6 @@
 {"key":"高中","name":"高中","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/高中课堂.json"}],
 
 "parses":[
-{"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
 {"name":"B站1","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 {"name":"爱豆","type":0,"url":"https://jx.aidouer.net/?url="},
