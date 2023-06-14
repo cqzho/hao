@@ -21,16 +21,8 @@
 {"key":"范丝","name":"范丝","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/音范丝磁力.json"},
 {"key":"荷塘","name":"荷塘","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/野荷塘.json","jar":"./libs/XYQ.jar"},
 {"key":"星辰","name":"星辰","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/星辰影院.json","jar":"./libs/XYQ.jar"},
-
 {"key":"棉花","name":"棉花","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://api.haokantj.com","jar":"./libs/qj.jar"},
-{"key":"魔力","name":"魔力","api":"csp_HDMOLI","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"./libs/qj.jar"},
-{"key":"蚂蚁","name":"蚂蚁","api":"csp_Mayiys","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"","jar":"./libs/qj.jar"},
-{"key":"哔嘀2","name":"哔滴2","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"./libs/qj.jar"},
 {"key":"乐猪","name":"乐猪","api":"csp_Lezhu","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"","jar":"./libs/qj.jar"},
-{"key":"石榴","name":"石榴","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"","jar":"./libs/qj.jar"},
-{"key":"360","name":"360","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"./libs/qj.jar"},
-{"key":"在线","name":"在线","api":"csp_Zxzj","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"./libs/qj.jar"},
-{"key":"神马","name":"神马","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/qj.jar"},
   
 //采集源，json采集接口type：1，xml采集接口type：0
 {"key":"量子","name":"量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","大陆综艺","短剧"]},
