@@ -26,8 +26,8 @@
 //采集源，json采集接口type：1，xml采集接口type：0
 {"key":"量子","name":"量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","大陆综艺","短剧"]},
 {"key":"非凡","name":"非凡","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","大陆综艺"]},
-{"key":"猫咪","name":"猫咪","type":1,"api":"http://zy.xiaomaomi.vip/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"playUrl":"https://jx.jsonplayer.com/player/?url=","filterable": 0,"categories": ["国产剧","综艺","动漫","香港剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片"]},
-{"key":"暴风","name":"暴风","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
+{"key":"猫咪","name":"猫咪","type":1,"api":"http://zy.xiaomaomi.vip/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"playUrl":"https://jx.jsonplayer.com/player/?url=","filterable": 0,"categories": ["国产剧","香港剧","综艺","动画片","记录片"]},
+{"key":"暴风","name":"暴风","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["国产剧","香港剧","台湾剧","综艺","动画片","记录片"]},
   
 //解析源，影视官方接口
 {"key":"腾讯","name":"腾讯","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1},
