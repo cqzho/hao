@@ -22,7 +22,6 @@
 {"key":"荷塘","name":"荷塘","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/野荷塘.json","jar":"./libs/XYQ.jar"},
 {"key":"星辰","name":"星辰","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/星辰影院.json","jar":"./libs/XYQ.jar"},
 {"key":"棉花","name":"棉花","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://api.haokantj.com","jar":"./libs/qj.jar"},
-{"key":"圣城","name":"圣城","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch": 1,"filterable": 1,"ext": {"请求头": "User-Agent$Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36","二次截取": "1&&-1+module-item-cover","数组": "module-item-pic&&module-item-cover","图片": "data-src\"&&\"","副标题": "module-item-text*>&&</div","链接": "href=\"&&\"","嗅探词": ".m3u8#.mp4#aliyuncs.com","导演": "导演：&&</div>","主演": "主演：&&</div>","简介": "剧情：&&</div>","搜索url": "https://sc1080.top/index.php/vod/search.html?wd={wd}","分类url": "https://sc1080.top/index.php/vod/show/id/{cateId}/page/{catePg}.html;;Y","分类": "电影$1#连续剧$2#综艺$3#动漫$4"}},
   
 //采集源，json采集接口type：1，xml采集接口type：0
 {"key":"量子","name":"量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","大陆综艺","短剧"]},
