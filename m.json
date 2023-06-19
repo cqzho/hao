@@ -45,8 +45,6 @@
 
 //娱乐、少儿节目源
 {"key":"哔哩","name":"哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/哔哩哔哩.json"},
-{"key":"TV","name":"电视","type":3,"api":"csp_XBPQ","ext":{"分类":"央视$1#卫视$2#地方$3#港澳$4#综艺$zhibo/zongyi#体育$zhibo/sports#新闻$zhibo/xinwen#影视$zhibo/yingshi#影视$zhibo/shaoer#财经$zhibo/caijing#科教$zhibo/kejiao","编码":"GBK","图片":"http://hz752.love:63/pictu.php?type=302","分类url":"http://tv.haoqu99.com/{cateId};;z","数组":"<liclass=\"p-item\">&&</li>"}},
-{"key":"广播","name":"广播","type":3,"api":"csp_XBPQ","ext":{"分类":"央视$zy#北京$bj#上海$sh#天津$tj#重庆$cq#广东$gd#四川$sc#山东$sd#江苏$js#浙江$zj#河南$henan#河北$hebei#辽宁$ln#安徽$ah#湖南$hn#湖北$hubei#福建$fj#广西$gx#山西$sxi#云南$yn#贵州$gz#西藏$xz#宁夏$nx#海南$hainan#新疆$xj#甘肃$gs#青海$qh#黑龙江$hlj#内蒙古$nmg#港澳$hk","编码":"GBK","播放数组":"ax-gridax-split-2ax-space-md&&</ul>","线路数组":"ax-btn*ax-paddingax-xl\">&&/a>[不包含:介绍]","分类url":"http://www.guangbomi.com/tv/{cateId}/{catePg}.html[http://www.guangbomi.com/tv/{cateId}/index.html"}},
 {"key":"小贝","name":"小贝","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/兔小贝.json","jar":"./libs/XYQ.jar"},
 {"key":"少儿","name":"少儿","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/少儿教育.json"},
 {"key":"小学","name":"小学","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/小学课堂.json"},
