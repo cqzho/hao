@@ -437,7 +437,6 @@ ELEVEN 2,rtmp://119.81.124.89/sat/tv741
 东方影视,https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
 上视外语,https://live.goodiptv.club/api/bestv.php?id=icshd8m/8000000
 七彩戏剧,https://live.goodiptv.club/api/bestv.php?id=qcxjhd8m/8000000
-热门综艺,https://live.goodiptv.club/api/bestv.php?id=rmzy8m/8000000
 华语影院,https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
 星光影院,https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
 谍战剧场,https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
