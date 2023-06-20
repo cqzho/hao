@@ -124,14 +124,11 @@ CHC家庭影院,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240323_1/en
 
 港 澳 台,#genre#
 凤凰资讯,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=fhzx
-TVBS欢乐台,rtmp://119.81.124.89/sat/tv421
-ELEVEN 1,rtmp://119.81.124.89/sat/tv731
-ELEVEN 2,rtmp://119.81.124.89/sat/tv741
 民视,rtmp://119.81.124.89/sat/tv051
 台视,rtmp://119.81.124.89/sat/tv071
 中视,rtmp://119.81.124.89/sat/tv091
 华视,rtmp://119.81.124.89/sat/tv111
-纬来体育,rtmp://119.81.124.89/sat/tv721
+TVBS欢乐台,rtmp://119.81.124.89/sat/tv421
 MoMo综合台,rtmp://119.81.124.89/sat/tv761
 东森财经,rtmp://119.81.124.89/sat/tv571
 东森超视,rtmp://119.81.124.89/sat/tv331
@@ -309,6 +306,9 @@ CETV4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 魅力足球,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
 魅力足球,https://live.goodiptv.club/api/cqyx.php?id=mlzqHD
 风云足球,https://live.goodiptv.club/api/cqyx.php?id=fyzqHD
+ELEVEN 1,rtmp://119.81.124.89/sat/tv731
+ELEVEN 2,rtmp://119.81.124.89/sat/tv741
+纬来体育,rtmp://119.81.124.89/sat/tv721
 
 重庆频道,#genre#
 重庆新闻,https://live.goodiptv.club/api/cqyx.php?id=CQTVNewsHD
