@@ -19,13 +19,11 @@
 {"key":"独播","name":"独播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/独播库.json"},
 {"key":"六度","name":"六度","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/六度.json"},
 {"key":"范丝","name":"范丝","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/音范丝磁力.json"},
-{"key":"荷塘","name":"荷塘","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/野荷塘.json","jar":"./libs/XYQ.jar"},
 {"key":"星辰","name":"星辰","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/星辰影院.json","jar":"./libs/XYQ.jar"},
 
 //采集源,json采集接口type：1,xml采集接口type：0
 {"key":"量子","name":"量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","大陆综艺","短剧"]},
-{"key":"非凡","name":"非凡","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","大陆综艺"]},
-{"key":"猫咪","name":"猫咪","type":1,"api":"http://zy.xiaomaomi.vip/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"playUrl":"https://jx.jsonplayer.com/player/?url=","filterable":1,"categories":["国产剧","港台剧","综艺","动画片","记录片"]},
+{"key":"非凡","name":"非凡","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","大陆综艺"]},
 {"key":"暴风","name":"暴风","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","香港剧","台湾剧","综艺","动画片","记录片"]},
 
 //解析源,影视官方接口
@@ -42,7 +40,6 @@
 {"key":"二明","name":"二明","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"南柯","name":"南柯","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/南柯.json"},
 {"key":"北川","name":"北川","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/北川.json"},
-{"key":"网盘","name":"网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"./json/Alist.json"},
 
 //娱乐、少儿节目源
 {"key":"哔哩","name":"哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/哔哩哔哩.json"},
