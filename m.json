@@ -20,6 +20,13 @@
 {"key":"六度","name":"六度","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/六度.json"},
 {"key":"范丝","name":"范丝","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/音范丝磁力.json"},
 {"key":"星辰","name":"星辰","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/星辰影院.json","jar":"./libs/XYQ.jar"},
+
+//采集源,json采集接口type：1,xml采集接口type：0
+{"key":"量子","name":"量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","大陆综艺","短剧"]},
+{"key":"非凡","name":"非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","大陆综艺"]},
+{"key":"暴风","name":"暴风","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","香港剧","台湾剧","综艺","动画片","记录片"]},
+{"key":"看看","name":"看看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","国产综艺","国产动漫","动画电影"]},
+
 {"key":"影探","name":"影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://longfei.lfytyl.com/api.php/app/"},
 {"key":"落叶","name":"落叶","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--yeta099v.online:66/api.php/app/"},
 {"key":"如意","name":"如意","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
@@ -29,12 +36,6 @@
 {"key":"酷酷","name":"酷酷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 {"key":"简简","name":"简简","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://1.ahailove.cn:23450/api.php/app/"},
 {"key":"迷你","name":"迷你","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v2/"},
-
-//采集源,json采集接口type：1,xml采集接口type：0
-{"key":"量子","name":"量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","大陆综艺","短剧"]},
-{"key":"非凡","name":"非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","大陆综艺"]},
-{"key":"暴风","name":"暴风","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","香港剧","台湾剧","综艺","动画片","记录片"]},
-{"key":"快看1","name":"快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","国产综艺","国产动漫","动画电影"]},
 
 //解析源,影视官方接口
 {"key":"腾讯","name":"腾讯","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1},
