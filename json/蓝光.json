@@ -3,7 +3,7 @@
   "主页url": "https://www.lgyy.vip",
   
   "分类": "国剧&港台&综艺&动漫",
-  "分类值": "13&14&3&4",
+  "分类值": "13&14&3&5",
   
   "分类url": "https://www.lgyy.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
@@ -69,7 +69,7 @@
   {"n":"人气","v":"hits"},
   {"n":"评分","v":"score"}]}],
     
-"4":[
+"5":[
   {"key":"year","name":"年份","value":[
   {"n":"全部","v":""},
   {"n":"2023","v":"2023"},
