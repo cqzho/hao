@@ -53,6 +53,7 @@
 {"key":"南柯","name":"南柯","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/南柯.json"},
 {"key":"北川","name":"北川","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/北川.json"},
 {"key":"TVB","name":"TVB","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/TVB.json"},
+{"key":"看剧","name":"看剧","type":3,"api":"csp_XBPQ","ext": {"主页url":"https://kankanju.cc","请求头":"Cookie$filter_robot_dd=301","副标题":"pic-text text-right\">&&</b>","嗅探词":".m3u8#.mp4#tos#video_mp4","搜索模式":"1","搜索url":"https://kankanju.cc/vodsearch.html?wd={wd}&submit=","影片类型":"<div class=\"module-info-tag\">&&立即播放","导演":"导演：&&</div>","主演":"主演：&&</div>","简介":"introduction-content\">&&</span>","线路数组":"data-toggle=&&</li>","跳转播放链接":"https://kankanju.cc/jx/play.php?url=+link_pre*url\":\"&&\"","线路标题": "\"tab\">&&</a>[不包含:线路1#线路2#线路3#]","分类":"国剧$guochanju#港台$gangtaiju#综艺$zongyi","分类url": "https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m"}},  
   
 //娱乐、少儿节目源
 {"key":"哔哩","name":"哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/哔哩.json"},
