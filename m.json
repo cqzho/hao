@@ -54,7 +54,7 @@
 {"key":"南柯","name":"南柯","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/南柯.json"},
 {"key":"北川","name":"北川","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/北川.json"},
 {"key":"TVB","name":"TVB","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/TVB.json"},
-{"key":"快看2","name":"快看2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/快看.json"},
+
   
 //娱乐、少儿节目源
 {"key":"哔哩","name":"哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/哔哩哔哩.json"},
