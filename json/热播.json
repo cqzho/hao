@@ -3,9 +3,9 @@
   "主页url": "https://www.reboku.cc/",
   
   "分类": "电影&剧集&动漫",
-  "分类值": "dy&tv&dm",
+  "分类值": "k/dy&k/tv&k/dm",
   
-  "分类url": "https://www.reboku.cc/s/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+  "分类url": "https://www.reboku.cc/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
   "副标题": "></i>&&</span>",
   
@@ -30,7 +30,7 @@
   "播放数组": "<ul class=\"player&&</ul>",
   
   "筛选": {
-"dy":[
+"k/dy":[
   {"key":"class","name":"剧情","value":[
   {"n":"全部","v":""},
   {"n":"喜剧","v":"喜剧"},
@@ -89,7 +89,7 @@
   {"n":"人气","v":"hits"},
   {"n":"评分","v":"score"}]}],
   
-"tv":[
+"k/tv":[
   {"key":"class","name":"剧情","value":[
   {"n":"全部","v":""},
   {"n":"古装","v":"古装"},
@@ -145,7 +145,7 @@
   {"n":"人气","v":"hits"},
   {"n":"评分","v":"score"}]}],
   
-"dm":[
+"k/dm":[
   {"key":"class","name":"剧情","value":[
   {"n":"全部","v":""},
   {"n":"情感","v":"情感"},
