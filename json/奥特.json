@@ -2,7 +2,7 @@
   "站名": "Auete",
   "主页url": "https://auete.art",
   "分类": "电影$Movie#国剧$Tv/neidi#港剧$Tv/tvbgj#台剧$Tv/taiju#网剧$Tv/wangju#综艺$Zy/guozong#动画$Dm/donghua", 
-  "分类url": "https://auete.art/{cateId}{class}/index{catePg}.html[https://auete.org/{cateId}/index.html]",
+  "分类url": "https://auete.art/{cateId}{class}/index{catePg}.html[https://auete.art/{cateId}/index.html]",
   "数组": "<li class=\"trans_3&&/button>",
   "副标题": "hdtag\">&&<",
   "搜索模式": "1",
