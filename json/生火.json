@@ -10,7 +10,7 @@
     "横图显示": "0",
 
     "分类页": "https://shdy3.com/list/{cateId}-{catePg}.html",
-    "分类": "电影$1#剧集$2",
+    "分类": "国剧$20#港剧$21#台剧$26#电影$1",
 
     "shifouercijiequ": "0",
     "jiequqian": "空",
