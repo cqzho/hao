@@ -3,7 +3,7 @@
   "主页url": "https://www.fantuanhd.com",
   "热门": "电视剧$21",
  
-  "分类": "电影&剧集&综艺&动漫&纪录片",
+  "分类": "电影&剧集&综艺&动漫&纪录",
   "分类值": "1&2&3&4&5",
   
   "分类url": "https://www.fantuanhd.com/show/{cateId}{area}{by}{class}/page/{catePg}{year}.html",
