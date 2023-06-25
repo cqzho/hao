@@ -3,7 +3,7 @@
   "主页url": "https://www.reboku.cc",
   
   "分类": "国剧&港剧&台剧&国漫",
-  "分类值": "gcj&xgj&gtj&gm",
+  "分类值": "gcj-----------&xgj-----------&gtj-----------&gm-----------",
   
   "分类url": "https://www.reboku.cc/s/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
