@@ -139,15 +139,11 @@ MoMo综合台,rtmp://119.81.124.89/sat/tv761
 八大第一台,http://123.51.230.108:18539/.m3u8
 东风37,http://123.51.230.108:18560/.m3u8
 东森戏剧,http://123.51.230.108:18538/.m3u8
-纬来体育,http://123.51.230.108:18509/.m3u8
-
 澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳门莲花,http://epg.112114.xyz/lotus
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
-
-
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,http://r.jdshipin.com/qClQf
