@@ -7,6 +7,7 @@
 {"key":"厂长","name":"厂长","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/厂长.json"},
 {"key":"蓝光","name":"蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/蓝光.json"},
 {"key":"哔嘀","name":"哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/XYQ.jar"},
+{"key":"哔嘀〔js〕","name":"哔嘀〔js〕","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/哔嘀.js"},
 {"key":"奇优","name":"奇优","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/奇优.json"},
 {"key":"生火","name":"生火","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/生火.json"},
 {"key":"双十","name":"双十","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/双十.json"},
