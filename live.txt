@@ -125,7 +125,10 @@ CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 西藏卫视,https://live.goodiptv.club/api/cqyx.php?id=xizangSD
 
 港 澳 台,#genre#
-
+凤凰中文,http://113.117.74.45:8081/hls/36/index.m3u8
+凤凰资讯,http://113.117.74.45:8081/hls/37/index.m3u8
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰香港,http://113.117.74.45:8081/hls/38/index.m3u8
 民视,rtmp://119.81.124.89/sat/tv051
 台视,rtmp://119.81.124.89/sat/tv071
 中视,rtmp://119.81.124.89/sat/tv091
