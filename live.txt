@@ -345,7 +345,15 @@ BesTV 4K(IPv6),http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/000000010000000600000
 
 广播频道,#genre#
 清晨音乐台,http://lhttp.qingting.fm/live/4915/64k.mp3
-80后音悦,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+怀集音乐之声,http://lhttp.qingting.fm/live/4804/64k.mp3
+动听音乐台,http://lhttp.qingting.fm/live/5022107/64k.mp3
+星河音乐,http://lhttp.qingting.fm/live/20210755/64k.mp3
+
+90后潮流音悦台,http://stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+80后音悦台,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+楚天音乐广播 FM105.8,http://ls.qingting.fm/live/1289.m3u8
+四川岷江音乐 FM95.5,http://ls.qingting.fm/live/1110.m3u8
+
 CNR大湾区之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
 CNR经典音乐广播,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 CNR经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
@@ -410,15 +418,7 @@ WHIZ Radio 海口音乐广播,http://starfish.sz.aliyun.005.qingting.fm:8000/hai
 山东音乐广播,https://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8
 山西故事广播,rtmp://radiolive.sxrtv.com/live/gushi
 山西音乐广播,https://radiolive.sxrtv.com/live/yinyue/playlist.m3u8
-陕西戏曲广播,https://satellitepull.cnr.cn/live/wxsxxxqgb/playlist.m3u8
-陕西音乐广播,https://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
-四川交通广播,https://satellitepull.cnr.cn/live/wxscjtgb/playlist.m3u8
-四川经济广播,https://satellitepull.cnr.cn/live/wxscjjgb/playlist.m3u8
-四川旅游生活广播,https://satellitepull.cnr.cn/live/wxsclyshgb/playlist.m3u8
-四川岷江音乐,https://satellitepull.cnr.cn/live/wxscmjyyt/playlist.m3u8
-四川私家车广播,https://satellitepull.cnr.cn/live/wxsc925/playlist.m3u8
-四川文艺广播,https://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8
-四川综合广播四川之声,https://satellitepull.cnr.cn/live/wxsczhgb/playlist.m3u8
+
 苏州都市音乐广播,http://audio-live.radio.cn/live/szyy1/playlist.m3u8
 台湾古典音乐台,http://59.120.88.155:8000/live.mp3
 武汉音乐广播,http://stream.appwuhan.com/yypdzb/sd/live.m3u8
