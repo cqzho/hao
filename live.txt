@@ -322,12 +322,8 @@ ELEVEN 2,rtmp://119.81.124.89/sat/tv741
 
 朝天新闻综合,https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
 大竹新闻综合,http://60.255.120.30:89/live1/live1.m3u8
-大竹阳光政务,http://60.255.120.30:89/live2/live2.m3u8
-德格综合频道,http://m3u8.channel.ganzitv.com/vms/videos/nmip-media/channellive/channel5/playlist.m3u8
-德阳公共频道,http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8
 德阳文旅科教,http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8
 德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
-富顺综合频道,http://pili-live-rtmp.145.i2863.com/i2863-145/live_145_906964.m3u8
 甘孜综合频道,http://m3u8.channel.ganzitv.com/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
 甘孜综合频道,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
 珙县综合频道,http://pili-live-hls-cqgx.tianma3600.com/cqgx/ggpd.m3u8
