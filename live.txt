@@ -296,7 +296,6 @@ ELEVEN 2,rtmp://119.81.124.89/sat/tv741
 热门剧场,https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
 都市剧场,https://live.goodiptv.club/api/bestv.php?id=dsjc8m/8000000
 法治天地,https://live.goodiptv.club/api/bestv.php?id=fztd8m/8000000
-
 测试,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 4K影视,http://nas.jdshipin.com:8801/4kys.php
 Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -311,23 +310,6 @@ Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m
 BesTV 4K(IPv6),http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 测试1(IPv6),http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 测试2(IPv6),http://[2409:8087:7001:20:3::5]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226352/index.m3u8
-
-小品轮播,#genre#
-小品01,https://www.goodiptv.club/yy/1354889035
-小品02,https://www.goodiptv.club/yy/1382683959
-小品03,https://www.goodiptv.club/yy/32160832
-小品04,https://www.goodiptv.club/yy/1382773705
-小品05,https://www.goodiptv.club/yy/1382773706
-小品06,https://www.goodiptv.club/yy/1382773708
-小品07,https://www.goodiptv.club/yy/1382773711
-小品08,https://www.goodiptv.club/yy/1382773715
-小品09,https://www.goodiptv.club/yy/1394000564
-小品10,https://www.goodiptv.club/yy/1355555484
-小品11,https://www.goodiptv.club/yy/1382773716
-小品12,https://www.goodiptv.club/yy/1382773717
-小品13,https://www.goodiptv.club/yy/1454553780
-
-影视轮播,#genre#
 豆瓣高分电影,http://epg.112114.xyz/douyu/8770422
 虎牙放映厅,https://www.goodiptv.club/huya/11602077
 虎牙影院,https://www.goodiptv.club/huya/11601968
@@ -360,7 +342,10 @@ BesTV 4K(IPv6),http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/000000010000000600000
 雪中悍刀行,https://www.goodiptv.club/yy/1354943110
 正阳门下小女人,https://www.goodiptv.club/yy/1508778570
 知否知否应是绿肥红瘦,https://www.goodiptv.club/yy/21881901
+
 广播频道,#genre#
+清晨音乐台,http://lhttp.qingting.fm/live/4915/64k.mp3
+80后音悦,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
 CNR大湾区之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
 CNR经典音乐广播,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 CNR经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
