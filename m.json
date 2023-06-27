@@ -55,8 +55,7 @@
 {"key":"奇艺","name":"奇艺","type":3,"api":"csp_Itv","searchable":1,"quickSearch":1,"filterable":1,"categories":["电视","电影","综艺","儿童","记录"]},
 
 //含广告源,影视、影视仓APP可屏蔽广告
-{"key":"csp_DuoX","name":"多线","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Yj1211","name":"网红","type":3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"多线","name":"多线","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/fan.txt"},
 {"key":"一起","name":"一起","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top","categories":["电影","电视剧","综艺","纪录片"]},
 {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"视觉","name":"视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com/"},
