@@ -38,6 +38,7 @@
 {"key":"鸭鸭","name":"鸭鸭","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
 {"key":"酷影","name":"酷影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.222.175.111:89/api.php/app/"},
 {"key":"酷酷","name":"酷酷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
+{"key":"酷云","name":"酷云","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"categories":["4K电影","4K电视剧"],"ext":"http://ys.realdou.cn/api.php/app/"},
 {"key":"简简","name":"简简","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://1.ahailove.cn:23450/api.php/app/"},
 {"key":"迷你","name":"迷你","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v2/"},
 
@@ -58,8 +59,6 @@
 {"key":"北川","name":"北川","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/北川.json"},
 {"key":"TVB","name":"TVB","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/TVB.json"},
 {"key":"看剧","name":"看剧","type":3,"api":"csp_XBPQ","ext": {"主页url":"https://kankanju.cc","请求头":"Cookie$filter_robot_dd=301","副标题":"pic-text text-right\">&&</b>","嗅探词":".m3u8#.mp4#tos#video_mp4","搜索模式":"1","搜索url":"https://kankanju.cc/vodsearch.html?wd={wd}&submit=","影片类型":"<div class=\"module-info-tag\">&&立即播放","导演":"导演：&&</div>","主演":"主演：&&</div>","简介":"introduction-content\">&&</span>","线路数组":"data-toggle=&&</li>","跳转播放链接":"https://kankanju.cc/jx/play.php?url=+link_pre*url\":\"&&\"","线路标题": "\"tab\">&&</a>[不包含:线路1#线路2#线路3#]","分类":"国剧$guochanju#港台$gangtaiju","分类url": "https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m"}},  
-
- {"key":"土豪","name":"土豪","type":3,"api":"csp_XBPQ","ext": {"分类url":"https://www.tuhao.tv/vt/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"国剧$13#港台$14#动漫$42#综艺$23","搜索模式": "1","二次截取": "1&&-1+module-item-cover","数组": "module-item-pic&&module-item-cover","副标题": "module-item-text*>&&</div","搜索url": "https://www.tuhao.tv/vse/-------------.html?wd={wd}","线路数组": "<div class=\"module-tab-item tab-item&&</div[不包含:无尽#闪电#天空#飞速#卧龙]","线路标题": "<span>&&</span","搜索数组": "class=\"module-item-pic&&</div","搜索图片": "data-src=\"&&\"","搜索标题": "alt=\"&&\"","搜索链接": "href=\"&&\"","跳转播放链接": "https://www.tuhao.tv/addons/dp/player/dp.php?key=0&from=+\"from\":\"&&\"+&id=+\"id\":\"&&\"+&api=&url=+vod_class*url\":\"&&\"","二次跳转播放链接": "\"url\"*\"&&\""}},  
 
  //娱乐、少儿节目源
 {"key":"哔哩","name":"哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/哔哩.json"},
