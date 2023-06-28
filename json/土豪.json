@@ -6,7 +6,7 @@
     
     "主页url":"https://www.tuhao.tv/",
     
-    "简介":"公众号《多多APP》大聪明提醒您请勿相信影片中的广告，以免上当受骗。+video-info-content vod_content\"&&</span>",
+    "简介":"+video-info-content vod_content\"&&</span>",
     
     "导演":"导演：&&</div>",
     
@@ -50,7 +50,7 @@
     
     "分类url":"https://www.tuhao.tv/vsh/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak",
     
-    "分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$5#体育$56",
+    "分类":"国剧$13#港台$14#综艺$23#动漫$42#动作片$6#喜剧片$7#犯罪片$21#科幻片$9#战争片$12#悬疑片$27",
     
     "筛选":{
     "1":[
