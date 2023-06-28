@@ -335,6 +335,15 @@ BesTV 4K(IPv6),http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/000000010000000600000
 
 广播频道,#genre#
 萤火虫网络电台,https://live.ximalaya.com/radio-first-page-app/live/1006/64.m3u8
+清晨音乐台,https://live.ximalaya.com/radio-first-page-app/live/1011/64.m3u8
+乐享音乐,https://live.ximalaya.com/radio-first-page-app/live/1027/64.m3u8
+听梦想FM,https://live.ximalaya.com/radio-first-page-app/live/1015/64.m3u8
+卷卷猫电台,https://live.ximalaya.com/radio-first-page-app/live/2690/64.m3u8
+怀集音乐之声,https://live.ximalaya.com/radio-first-page-app/live/966/64.m3u8
+四川岷江音乐广播,https://live.ximalaya.com/radio-first-page-app/live/2802/64.m3u8
+重庆音乐广播,https://live.ximalaya.com/radio-first-page-app/live/131/64.m3u8
+北京音乐广播,https://live.ximalaya.com/radio-first-page-app/live/95/64.m3u8
+
 清晨音乐台,http://lhttp.qingting.fm/live/4915/64k.mp3
 怀集音乐之声,http://lhttp.qingting.fm/live/4804/64k.mp3
 动听音乐台,http://lhttp.qingting.fm/live/5022107/64k.mp3
