@@ -14,7 +14,7 @@
 {"key":"比特","name":"比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧"]},
 {"key":"明明","name":"明明","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"哔嘀","name":"哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/XYQ.jar"},
-{"key":"探探","name":"探探","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1},  
+{"key":"探探","name":"探探","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/fan.txt"},  
 //xbpq
 {"key":"饭团","name":"饭团","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/饭团.json"},
 {"key":"三五","name":"三五","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/555.json"},
