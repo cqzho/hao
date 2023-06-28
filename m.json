@@ -13,7 +13,6 @@
 {"key":"比特","name":"比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧"]},
 {"key":"明明","name":"明明","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"哔嘀","name":"哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/XYQ.jar"},
-{"key":"探探","name":"探探","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/fan.txt"},  
 //xbpq
 {"key":"饭团","name":"饭团","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/饭团.json"},
 {"key":"三五","name":"三五","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/555.json"},
@@ -32,18 +31,15 @@
 {"key":"北川","name":"北川","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/北川.json"},
 {"key":"港剧","name":"港剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/TVB.json"},
 {"key":"看剧","name":"看剧","type":3,"api":"csp_XBPQ","ext":{"主页url":"https://kankanju.cc","请求头":"Cookie$filter_robot_dd=301","副标题":"pic-text text-right\">&&</b>","嗅探词":".m3u8#.mp4#tos#video_mp4","搜索模式":"1","搜索url":"https://kankanju.cc/vodsearch.html?wd={wd}&submit=","影片类型":"<div class=\"module-info-tag\">&&立即播放","导演":"导演：&&</div>","主演":"主演：&&</div>","简介":"introduction-content\">&&</span>","线路数组":"data-toggle=&&</li>","跳转播放链接":"https://kankanju.cc/jx/play.php?url=+link_pre*url\":\"&&\"","线路标题": "\"tab\">&&</a>[不包含:线路1#线路2#线路3#]","分类":"国剧$guochanju#港台$gangtaiju","分类url": "https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m"}},  
-
 //xp
 {"key":"六度","name":"六度","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/六度.json"},
 {"key":"粉丝","name":"粉丝","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/音范丝.json"},
-  
 //xyq
 {"key":"农民","name":"农民","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/农民.json","jar":"./libs/XYQ.jar"},
 {"key":"星辰","name":"星辰","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/星辰.json","jar":"./libs/XYQ.jar"},
 {"key":"欧克","name":"欧克","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/FreeOK.json","jar":"./libs/XYQ.jar"},
 {"key":"三八","name":"三八","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/348.json","jar":"./libs/XYQ.jar"},
 {"key":"小贝","name":"小贝","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/兔小贝.json","jar":"./libs/XYQ.jar"},
-  
 //json采集接口type：1,xml采集接口type：0
 {"key":"天堂","name":"天堂","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺","动漫"]},
 {"key":"明帝","name":"明帝","type":1,"api":"https://ys.md214.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["电影","连续剧","综艺","动漫"]},
@@ -55,7 +51,6 @@
 {"key":"可米","name":"可米","type":1,"api":"https://cj.kemi.lol/api.php/provide/vod/","searchable":1,"quickSearch":1}, 
 {"key":"八仟","name":"八仟","type":1,"api":"http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","海外剧","大陆综艺","国产动漫","早教","亲子","儿歌","幼儿","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","动画片"]}, 
 {"key":"M V","name":"M V","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable":1,"changeable":1,"filterable":1,"changeable":0},
-
 //AppYsV2
 {"key":"落叶","name":"落叶","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--yeta099v.online:66/api.php/app/"},
 {"key":"如意","name":"如意","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
@@ -69,7 +64,6 @@
 {"key":"蛋蛋","name":"蛋蛋","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/","categories":["电影","电视剧"]},
 {"key":"东方","name":"东方","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dfspapp.com/api.php/app/","categories":["电影","连续剧"]},
 {"key":"极狐","name":"极狐","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
-
 //bili
 {"key":"哔哩","name":"哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/哔哩.json"},
 {"key":"少儿","name":"少儿","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/少儿教育.json"},
