@@ -34,7 +34,6 @@
 {"key":"土豪","name":"土豪","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/土豪.json"},
 {"key":"明帝","name":"明帝","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/明帝.json"},
 {"key":"茉莉","name":"茉莉","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/茉莉.json"},
-{"key":"胖虎","name":"胖虎","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/胖虎.json"},
 {"key":"看剧","name":"看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/看剧.json"},
 
 //{"key":"看剧","name":"看剧","type":3,"api":"csp_XBPQ","ext":{"主页url":"https://kankanju.cc","请求头":"Cookie$filter_robot_dd=301","副标题":"pic-text text-right\">&&</b>","嗅探词":".m3u8#.mp4#tos#video_mp4","搜索模式":"1","搜索url":"https://kankanju.cc/vodsearch.html?wd={wd}&submit=","影片类型":"<div class=\"module-info-tag\">&&立即播放","导演":"导演：&&</div>","主演":"主演：&&</div>","简介":"introduction-content\">&&</span>","线路数组":"data-toggle=&&</li>","跳转播放链接":"https://kankanju.cc/jx/play.php?url=+link_pre*url\":\"&&\"","线路标题": "\"tab\">&&</a>[不包含:线路1#线路2#线路3#]","分类":"国剧$guochanju#港台$gangtaiju","分类url": "https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m"}},  
