@@ -93,7 +93,6 @@
 {"key":"扛把","name":"扛把","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/扛把.js"},
 {"key":"七喜","name":"七喜","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/七喜.js"},
 {"key":"九一","name":"九一","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/九一.js"},
-{"key":"l0l","name":"l0l","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/l0l.js"},
 {"key":"纽约","name":"纽约","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/纽约.js"},
 {"key":"楚门","name":"楚门","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/楚门.js"},
 {"key":"师兄","name":"师兄","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/师兄.js"},
