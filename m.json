@@ -70,9 +70,7 @@
 {"key":"迷你","name":"迷你","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 {"key":"鸭鸭","name":"鸭鸭","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
 //js
-{"key":"网盘","name":"网盘","type":3,"api":"./libs/alist.js","ext":"./json/alist.json"},
 {"key":"七七","name":"七七","type":3,"api":"./libs/drpy.js","ext":"./js/七七.js"},
-{"key":"哔哩〔js〕","name":"哔哩〔js〕","type":3,"api":"./libs/drpy.js","ext":"./js/哔哩.js"},
 {"key":"黄瓜","name":"黄瓜","type":3,"api":"./libs/drpy.js","ext":"./js/黄瓜.js"},
 {"key":"创艺","name":"创艺","type":3,"api":"./libs/drpy.js","ext":"./js/创艺.js"},
 {"key":"飞云","name":"飞云","type":3,"api":"./libs/drpy.js","ext":"./js/飞云.js"},
