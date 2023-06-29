@@ -22,8 +22,8 @@ var rule = {
 	filterable:1,//是否启用分类筛选,
 	headers:{'User-Agent':'Dart/2.14 (dart:io)'},
 	timeout:5000,
-	class_name:'电影&连续剧&动漫&综艺&预告片&解说&记录片&体育', // 分类筛选 /api.php/app/nav
-	class_url:'1&2&4&3&32&33&27&34',
+	class_name:'国产剧&港台剧&短剧&大陆综艺', // 分类筛选 /api.php/app/nav
+	class_url:'13&14&52&40',
 	play_parse:true,
 	lazy:'js:input=/m3u8|mp4/.test(input)?input:{jx:0,url:"https://jx.jsonplayer.com/player/?url="+input,parse:1}',
 	limit:6,
