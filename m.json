@@ -103,7 +103,6 @@
 {"key":"米爱","name":"米爱","type":3,"api":"./libs/drpy.js","ext":"./js/米爱.js"},
 {"key":"热播","name":"热播","type":3,"api":"./libs/drpy.js","ext":"./js/热播.js"},
 {"key":"时光","name":"时光","type":3,"api":"./libs/drpy.js","ext":"./js/时光.js"},
-{"key":"网飞","name":"网飞","type":3,"api":"./libs/drpy.js","ext":"./js/网飞.js"},
 {"key":"稀饭","name":"稀饭","type":3,"api":"./libs/drpy.js","ext":"./js/稀饭.js"},
 {"key":"西瓜","name":"西瓜","type":3,"api":"./libs/drpy.js","ext":"./js/西瓜.js"},
 {"key":"蜥蜴","name":"蜥蜴","type":3,"api":"./libs/drpy.js","ext":"./js/蜥蜴.js"},
