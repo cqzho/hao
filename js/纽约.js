@@ -22,8 +22,8 @@ var rule={
         4:{cateId:'4'},
         5:{cateId:'5'}
     },
-    class_name:'电影&电视剧&综艺&动漫&竞技体育&福利&国剧&港台',
-    class_url:'1&2&31&39&5&8&30&16',
+    class_name:'国产剧&港台剧&国产综艺&国产动漫&伦理片',
+    class_url:'30&16&31&39&8',
     detailUrl:'/voddetail/fyid.html',
     推荐:'.list-vod .public-list-box;a&&title;.lazy&&data-src;.public-list-prb&&Text;a&&href',
     double: false, // 推荐内容是否双层定位
