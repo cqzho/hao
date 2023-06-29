@@ -88,8 +88,6 @@
 {"key":"九一","name":"九一","type":3,"api":"./libs/drpy.js","ext":"./js/九一.js"},
 {"key":"l0l","name":"l0l","type":3,"api":"./libs/drpy.js","ext":"./js/l0l.js"},
 {"key":"纽约","name":"纽约","type":3,"api":"./libs/drpy.js","ext":"./js/纽约.js"},
-{"key":"爱迪〔js〕","name":"爱迪〔js〕","type":3,"api":"./libs/drpy.js","ext":"./js/爱迪.js"},
-{"key":"奈飞〔js〕","name":"奈飞〔js〕","type":3,"api":"./libs/drpy.js","ext":"./js/奈飞.js"},
 {"key":"楚门","name":"楚门","type":3,"api":"./libs/drpy.js","ext":"./js/楚门.js"},
 {"key":"师兄","name":"师兄","type":3,"api":"./libs/drpy.js","ext":"./js/师兄.js"},
 {"key":"番茄","name":"番茄","type":3,"api":"./libs/drpy.js","ext":"./js/番茄.js"},
