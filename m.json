@@ -115,11 +115,11 @@
 {"key":"映迷","name":"映迷","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/映迷.js"},
 {"key":"云镜","name":"云镜","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/云镜.js"},
 {"key":"不卡","name":"不卡","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/不卡.js"},
-//{"key":"跟剧","name":"跟剧","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/跟剧.js"},
-//{"key":"七年","name":"七年","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/七年.js"},
-//{"key":"飞兔","name":"飞兔","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/飞兔.js"},
-//{"key":"思古","name":"思古","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/思古.js"},
-//{"key":"UM","name":"UM","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/UM.js"},
+{"key":"跟剧","name":"跟剧","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/跟剧.js"},
+{"key":"七年","name":"七年","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/七年.js"},
+{"key":"飞兔","name":"飞兔","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/飞兔.js"},
+{"key":"思古","name":"思古","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/思古.js"},
+{"key":"UM","name":"UM","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/UM.js"},
 
 //bili
 {"key":"哔哩","name":"哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/哔哩.json"},
