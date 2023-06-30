@@ -2,10 +2,10 @@
   "站名": "热播库",
   "主页url": "https://www.reboku.cc",
   
-  "分类": "电影&剧集&动漫",
-  "分类值": "dy&tv&dm",
+  "分类": "国剧&港剧&台剧&国漫&动作片&喜剧片&科幻片&剧情片&战争片&灾难片&动画片",
+  "分类值": "gcj&xgj&gtj&gm&dzp&xjp&khp&jqp&zzp&zlp&dhp",
   
-  "分类url": "https://www.reboku.cc/k/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+  "分类url": "https://www.reboku.cc/s/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
   "副标题": "></i>&&</span>",
   
