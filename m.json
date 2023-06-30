@@ -39,6 +39,7 @@
 {"key":"明帝","name":"明帝","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/明帝.json"},
 {"key":"茉莉","name":"茉莉","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/茉莉.json"},
 {"key":"看剧","name":"看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/看剧.json"},
+{"key":"热播","name":"热播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/热播.json"},
 //xp
 {"key":"六度","name":"六度","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/六度.json"},
 {"key":"粉丝","name":"粉丝","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/音范丝.json"},
@@ -102,7 +103,7 @@
 {"key":"徕米","name":"徕米","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/徕米.js"},
 {"key":"丽娅","name":"丽娅","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/丽娅.js"},
 {"key":"米爱","name":"米爱","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/米爱.js"},
-{"key":"热播","name":"热播","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/热播.js"},
+//{"key":"热播","name":"热播","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/热播.js"},
 {"key":"时光","name":"时光","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/时光.js"},
 {"key":"稀饭","name":"稀饭","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/稀饭.js"},
 {"key":"西瓜","name":"西瓜","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/西瓜.js"},
