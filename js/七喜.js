@@ -24,5 +24,5 @@ var rule = {
 	},
 	// searchUrl: '/vodsearch/**----------fypage---.html',
 	searchUrl: '/vodsearch/page/fypage/wd/**.html',
-	class_parse: 'body&&.hl-nav li:gt(1):lt(7);a&&Text;a&&href;.*/(.*?).html',
+	class_parse: 'body&&.hl-nav li:gt(1):lt(41);a&&Text;a&&href;.*/(.*?).html',
 }
