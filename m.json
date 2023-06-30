@@ -91,7 +91,6 @@
 {"key":"秋霞","name":"秋霞","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/秋霞.js"},
 {"key":"剧白","name":"剧白","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/剧白.js","categories":["连续剧","综艺","动漫"]},
 {"key":"扛把","name":"扛把","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/扛把.js"},
-{"key":"七喜","name":"七喜","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/七喜.js"},
 {"key":"九一","name":"九一","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/九一.js"},
 {"key":"楚门","name":"楚门","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/楚门.js"},
 {"key":"师兄","name":"师兄","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/师兄.js"},
