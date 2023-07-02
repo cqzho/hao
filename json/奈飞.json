@@ -26,7 +26,7 @@
 "播放标题":"span>&&<",
 "播放链接":"href=\"&&\"",
 "免嗅":"1",
-"分类": "电影$1#剧集$2#动漫$4#综艺$3",
+"分类": "电影$1#剧集$2#综艺$3#动漫$4",
 "分类url":"https://yanetflix.me/vod/type/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
 "筛选":{
 "1":[
