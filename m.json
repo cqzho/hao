@@ -41,7 +41,6 @@
 {"key":"看剧","name":"看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/看剧.json"},
 {"key":"思古","name":"思古","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/思古.json","categories":["国剧","港台","综艺","动漫"]},
 {"key":"不卡","name":"不卡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/不卡.json"},
-{"key":"奈飞","name":"奈飞","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/奈飞.json"},
 //xp
 {"key":"六度","name":"六度","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/六度.json"},
 {"key":"粉丝","name":"粉丝","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/音范丝.json"},
@@ -73,7 +72,7 @@
 {"key":"东方","name":"东方","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dfspapp.com/api.php/app/","categories":["电影","连续剧"]},
 {"key":"极狐","name":"极狐","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 {"key":"布雷","name":"布雷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://117.175.212.198:8088/api.php/app/"},
-//{"key":"奈飞","name":"奈飞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/","categories":["电影","剧集","综艺","动漫"]},
+{"key":"奈飞","name":"奈飞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/","categories":["电影","剧集","综艺","动漫"]},
 {"key":"好看","name":"好看","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.f7hkj.com/api.php/app/"},
 {"key":"影探","name":"影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lfytv.cn/api.php/app/","categories":["国产剧","港台剧","综艺"]},
 {"key":"六九","name":"六九","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
