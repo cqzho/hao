@@ -4,7 +4,7 @@
 	"主页url": "https://xxmsrj.com/",
 	"热门": "",
 	"分类": "国剧$13#港台$14#综艺$21#动漫$25#伦理$20",
-	"分类url": "https://xxmsrj.com/index.php/vod/show/class/{class}/by/{by}/id/{cateId}/page/{catePg}.html",
+	"分类url": "https://xxmsrj.com/index.php/vod/show/class/{class}/area/{area}by/{by}/id/{cateId}/page/{catePg}.html",
 	"数组": "\"vod-item\"&&\"text-row-2\"",
 	"副标题": "\"text-row-1\">&&</span>",
 	"图片": "data-original=\"&&\"",
