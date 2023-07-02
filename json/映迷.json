@@ -3,7 +3,7 @@
   "站名": "映迷",
   "主页url": "https://www.inmi.app",
   
-  "分类": "最新电影$20#电视剧$21#动漫$22#综艺$23",
+  "分类": "电影$20#剧集$21#动漫$22#综艺$23",
   "数组": "<a&&module-poster-item-title",
   "分类url": "https://www.inmi.app/index.php/vod/show{area}{by}{class}/id/{cateId}/page/{catePg}{year}.html",
   
