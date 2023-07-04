@@ -1,11 +1,11 @@
 //厂长资源发布页面https://czzy.site/
 {
   "站名": "厂长资源",
-  "主页url": "http://www.cz4k.com/",
+  "主页url": "https://www.cz4k.com/",
   "头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54#Cookie$myannoun=1; Hm_lvt_c08e84f2c697dc9d0af77ff0dbfb3d6d=1670321007,1671784910,1672743612; Hm_lvt_d06dda04a24e89e1117ee1455e217c30=1670321007,1671784910,1672743612; Hm_lpvt_d06dda04a24e89e1117ee1455e217c30=1672743885; Hm_lpvt_c08e84f2c697dc9d0af77ff0dbfb3d6d=1672743885",
   "分类": "国剧&美剧&韩剧&豆瓣&电影&华语电影&印度电影&美国电影&英国电影&韩国电影&动漫",
   "分类值": "gcj&meijutt&hanjutv&dbtop250&zuixindianying&huayudianying&yindudianying&movie_bt_series/meiguodianying&yingguodianying&hanguodianying&dm",
-  "分类url": "http://www.cz4k.com/{cateId}/page/{catePg}",
+  "分类url": "https://www.cz4k.com/{cateId}/page/{catePg}",
   "数组": "<li>&&</li>",
   "图片": "data-original=\"&&\"",
   "标题": "alt=\"&&\"",
