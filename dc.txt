@@ -4,7 +4,6 @@
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json","name":"0821"},
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json","name":"0826"},
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json","name":"0827"},
-{"url":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json","name":"0828"},
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ.json","name":"XBPQ"},
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json","name":"XYQ"},
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name":"js"},
