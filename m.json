@@ -10,7 +10,7 @@
 //{"key":"天堂","name":"天堂","type":0,"api":"http://vipmv.cc/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺","动漫"]},
 {"key":"暴风","name":"暴风","type":0,"api":"https://bfzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"categories":["国产剧","香港剧","台湾剧","韩国剧","日本剧","欧美剧","动作片","喜剧片","科幻片","爱情片","剧情片","战争片","纪录片","动画片","国产动漫","大陆综艺"]},
 //{"key":"快看","name":"快看","type":0,"api":"https://kuaikan-api.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","韩国剧","日本剧","欧美剧","喜剧片","动作片","科幻片","奇幻片","冒险片","灾难片","国产综艺","国产动漫","动画电影"]},
-{"key":"量子","name":"量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1},
+{"key":"量子","name":"量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产剧","短剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","大陆综艺"]},
 {"key":"非凡","name":"非凡","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","欧美剧","韩国剧","日本剧","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","大陆综艺"]},
 {"key":"爱酷","name":"爱酷","type":0,"api":"https://api.iku.cool/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"categories":["电影","连续剧","动漫","综艺"]}, 
 //XBPQ
