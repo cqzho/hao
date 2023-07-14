@@ -47,6 +47,7 @@
 {"key":"星辰","name":"星辰『影视』","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/星辰.json","jar":"./libs/XYQ.jar"},
 {"key":"欧克","name":"欧克『影视』","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/FreeOK.json","jar":"./libs/XYQ.jar"},
 {"key":"三八","name":"三八『影视』","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/348.json","jar":"./libs/XYQ.jar"},
+{"key":"秋霞","name":"秋霞『影视』","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/秋霞.json","jar":"./libs/XYQ.jar"},
 //json采集接口type：1,xml采集接口type：0
 {"key":"量子","name":"量子『影视』","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","大陆综艺","短剧"]},
 {"key":"非凡","name":"非凡『影视』","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","大陆综艺"]},
@@ -77,7 +78,6 @@
 {"key":"爱看","name":"爱看『影视』","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/爱看.js"},
 {"key":"胖虎","name":"胖虎『影视』","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/胖虎.js","categories":["剧集","综艺","动漫"]},
 {"key":"达龟","name":"达龟『影视』","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/达龟.js"},
-{"key":"秋霞","name":"秋霞『影视』","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/秋霞.js"},
 {"key":"剧白","name":"剧白『影视』","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/剧白.js","categories":["连续剧","综艺","动漫"]},
 {"key":"扛把","name":"扛把『影视』","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/扛把.js"},
 {"key":"九一","name":"九一『影视』","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/九一.js"},
