@@ -53,7 +53,6 @@
 {"key":"三三","name":"三三","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/三三.json","jar":"./libs/XYQ.jar"},
 {"key":"三五","name":"三五","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/三五.json","jar":"./libs/XYQ.jar"},
 {"key":"深蓝","name":"深蓝","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/深蓝.json","jar":"./libs/XYQ.jar"},
-{"key":"速搜","name":"速搜","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/速搜.json","jar":"./libs/XYQ.jar"},
 {"key":"天空","name":"天空","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/天空.json","jar":"./libs/XYQ.jar"},
 {"key":"歪片","name":"歪片","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/歪片.json","jar":"./libs/XYQ.jar"},
 {"key":"五五","name":"五五","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/五五.json","jar":"./libs/XYQ.jar"},
