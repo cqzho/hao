@@ -17,6 +17,7 @@
 {"key":"厂长","name":"厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"卧佛","name":"卧佛","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"奥特","name":"奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"苹果","name":"苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1}, 
 //json采集接口type：1,xml采集接口type：0
 {"key":"暴风","name":"暴风","type":0,"api":"https://bfzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"categories":["国产剧","香港剧","台湾剧","韩国剧","日本剧","欧美剧","动作片","喜剧片","科幻片","爱情片","剧情片","战争片","纪录片","动画片","国产动漫","大陆综艺"]},
 {"key":"量子","name":"量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产剧","短剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","大陆综艺"]},
