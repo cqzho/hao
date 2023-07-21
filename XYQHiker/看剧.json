@@ -11,7 +11,7 @@
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
     "分类链接": "https://kankanju.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类名称": "电影&电视剧&综艺&动漫&纪录片",
+    "分类名称": "电影&剧集&综艺&动漫&纪录",
     "分类名称替换词": "dianying&dianshiju&zongyi&dongman&jilupian",
     "筛选数据": "ext",
     "筛选子分类名称": "动作片&喜剧片&爱情片&科幻片&恐怖片&剧情片&战争片&动画片||国产剧&港台剧&日韩剧&欧美剧&泰国剧",
