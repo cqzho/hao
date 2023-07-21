@@ -35,7 +35,7 @@
 {"key":"三八","name":"三八","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/348.json","jar":"./libs/XYQ.jar"},
 {"key":"秋霞","name":"秋霞","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/秋霞.json","jar":"./libs/XYQ.jar"},
 {"key":"兄弟","name":"兄弟","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/兄弟.json","jar":"./libs/XYQ.jar"},
-{"key":"胖虎","name":"胖虎","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/胖虎.json","jar":"./libs/XYQ.jar"},
+
 {"key":"低端","name":"低端","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/低端.js"},
 {"key":"速看","name":"速看","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/速看.js"},
 {"key":"黄瓜","name":"黄瓜","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/黄瓜.js"},
