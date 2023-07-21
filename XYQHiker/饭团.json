@@ -10,7 +10,8 @@
     "首页片单列表数组规则": "li",
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
-    "分类链接": "https://www.fantuanhd.com/show/{cateId}/by/{by}/page/{catePg}/year/{year}.html",
+    "分类链接": "https://www.fantuanhd.com/show/{cateId}/area/大陆/by/{by}/page/{catePg}/year/{year}.html",
+    1/area/大陆/by/time/class/喜剧/lang/普通话/year/2023
     "分类名称": "电影&电视剧&综艺&动漫&纪录片",
     "分类名称替换词": "1&2&3&4&5",
     //"筛选数据": {},
