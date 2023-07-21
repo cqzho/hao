@@ -34,7 +34,6 @@
 {"key":"思古","name":"思古","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/思古.json","categories":["国剧","港台","综艺","动漫"]},
 {"key":"六度","name":"六度","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/六度.json"},
 {"key":"不卡","name":"不卡","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/不卡.json","jar":"./libs/XYQ.jar"},
-{"key":"臭蛋","name":"臭蛋","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/臭蛋.json","jar":"./libs/XYQ.jar"},
 {"key":"达龟","name":"达龟","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/达龟.json","jar":"./libs/XYQ.jar"},
 {"key":"独播","name":"独播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/独播.json","jar":"./libs/XYQ.jar"},
 {"key":"饭团","name":"饭团","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/饭团.json","jar":"./libs/XYQ.jar"},
