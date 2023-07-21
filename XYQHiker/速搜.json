@@ -13,8 +13,7 @@
     "分类链接": "https://www.sstv.pw/vodshow-{cateId}/area/{area}/by/{by}/class/{class}/year/{year}/page/{catePg}.html",
     "分类名称": "电影&剧集&综艺&动漫",
     "分类名称替换词": "1&2&3&4",
-    "筛选数据": {},
-    //"筛选数据": "ext",
+    "筛选数据": "ext",
     //{cateId}
     "筛选子分类名称": "",
     "筛选子分类替换词": "",
