@@ -76,7 +76,7 @@
 {"name":"17云","type":0,"url":"https://www.1717yun.com/jx/ty.php?url=","mobile":0},
 {"name":"8090","type":0,"url":"https://www.8090g.cn/?url=","mobile":0}],
 
-"spider":"./libs/lm.jar",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/lmclub/box/main/app/jar/loamen_spider.jar",
 "lives":[{"name":"综合直播","type":0,"url":"./live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"百事通源","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"蜀小果源-IPV6","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
