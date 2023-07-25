@@ -81,6 +81,7 @@
 {"key":"稀饭","name":"稀饭","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/稀饭.js"},
 {"key":"蜥蜴","name":"蜥蜴","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/蜥蜴.js"},
 {"key":"映迷","name":"映迷","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/映迷.js"},
+{"key":"荐片","name":"荐片","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/荐片.js"},
 {"key":"酷酷","name":"酷酷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","categories":["电影","电视剧","综艺","动漫"],"jar":"./libs/XYQ.jar"},
 {"key":"爱迪","name":"爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/","jar":"./libs/XYQ.jar"},
 {"key":"奈菲","name":"奈菲","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/","jar":"./libs/XYQ.jar"}, //备用网址https://yanetflix.me/api.php/app/
