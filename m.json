@@ -64,7 +64,6 @@
 {"key":"兄弟","name":"兄弟","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/兄弟.json","jar":"./libs/XYQ.jar"},
 {"key":"一龙","name":"一龙","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/一龙.json","jar":"./libs/XYQ.jar"},
 {"key":"在线","name":"在线","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/在线.json","jar":"./libs/XYQ.jar"},
-{"key":"九零","name":"九零","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/九零.json","jar":"./libs/XYQ.jar"},
 {"key":"低端","name":"低端","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/低端.js"},
 {"key":"速看","name":"速看","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/速看.js"},
 {"key":"黄瓜","name":"黄瓜","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/黄瓜.js"},
