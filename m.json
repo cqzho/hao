@@ -6,9 +6,9 @@
 {"key":"优酷","name":"优酷","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/优酷.js"},
 {"key":"搜狗","name":"搜狗","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/搜狗.js"},
 {"key":"央视","name":"央视","type":3,"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/cctv.py"},
-{"key":"央视2","name":"央视","type":3,"api":"py_cctv_new","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/cctv_new.py"},
+{"key":"CCTV","name":"CCTV","type":3,"api":"py_cctv_new","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/cctv_new.py"},
 {"key":"喜马","name":"拉雅","type":3,"api":"py_xmly","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/xmly.py"},
-
+{"key":"七七","name":"七七","type":3,"api":"py_kunyu77","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/kunyu77.py"},
 
 {"key":"明明","name":"明明","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"哔嘀","name":"哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/XYQ.jar"},
