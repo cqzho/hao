@@ -51,7 +51,7 @@ class Spider(Spider):
 
 	def detailContent(self,array):
 		aid = array[0]
-		url = 'https://ikanys.tv/voddetail/{0}/'.format(aid)
+		url = 'https://akanhd.com/voddetail/{0}/'.format(aid)
 		rsp = self.fetch(url)
 		html = self.html(rsp.text)
 		node = html.xpath("//div[@class='box-width flex between rel']")[0]
@@ -98,14 +98,14 @@ class Spider(Spider):
 		}
 		try:
 			session = requests.session()
-			r = session.post('https://ddddocr.lm317379829.repl.co', json={'url': 'https://ikanys.tv/index.php/verify/index.html', 'comp': 'digit'})
+			r = session.post('https://ddddocr.lm317379829.repl.co', json={'url': 'https://akanhd.com/index.php/verify/index.html', 'comp': 'digit'})
 			jo = r.json()
 			if jo['code'] == 1:
 				code = jo['result']
 				session.cookies.update(jo['cookies'])
 			else:
 				return False, None
-			res = session.post(url="https://ikanys.tv/index.php/ajax/verify_check?type={}&verify={}".format(tag, code), headers=header, timeout=5).json()
+			res = session.post(url="https://akanhd.com/index.php/ajax/verify_check?type={}&verify={}".format(tag, code), headers=header, timeout=5).json()
 			if res["msg"] == "ok":
 				return True, session
 		except:
@@ -117,7 +117,7 @@ class Spider(Spider):
 		header = {
 			"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
 		}
-		url = 'https://ikanys.tv/vodsearch/-------------/?wd={0}'.format(key)
+		url = 'https://akanhd.com/vodsearch/-------------/?wd={0}'.format(key)
 		_, session = self.verifyCode('search')
 		rsp = session.get(url, headers=header)
 		root = self.html(rsp.text)
@@ -143,10 +143,10 @@ class Spider(Spider):
 	def playerContent(self,flag,id,vipFlags):
 		header = {
 			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36",
-			"Referer": "https://ikanys.tv/"
+			"Referer": "https://akanhd.com/"
 		}
 		result = {}
-		url = 'https://ikanys.tv/vodplay/{0}/'.format(id)
+		url = 'https://akanhd.com/vodplay/{0}/'.format(id)
 		rsp = self.fetch(url, headers=header)
 		info = json.loads(self.regStr(reg=r'var player_data=(.*?)</script>', src=self.cleanText(rsp.text)))
 		parse = 0
