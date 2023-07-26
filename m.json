@@ -11,8 +11,8 @@
 {"key":"哔哩〔py〕","name":"哔哩〔py〕","type":3,"api":"py_bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/哔哩.py"},
 {"key":"哔哩〔sp〕","name":"哔哩〔sp〕","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/哔哩.json"},
 
-{"key":"七七〔js〕","name":"七七〔js〕","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kunyu77_open.js","searchable":1,"changeable":1}, 
-//{"key":"七七","name":"七七","type":3,"api":"py_77","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/七七.py"},
+{"key":"七七","name":"七七","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kunyu77_open.js","searchable":1,"changeable":1}, 
+//{"key":"七七〔py〕","name":"七七〔py〕","type":3,"api":"py_77","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/七七.py"},
 
 {"key":"创艺","name":"创艺","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/创艺.js"},
 //{"key":"创艺〔py〕","name":"创艺〔py〕","type":3,"api":"py_chuangyi","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/创艺.py"},
