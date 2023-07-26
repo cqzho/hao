@@ -1,11 +1,11 @@
 {
   "站名": "蓝光影院",
-  "主页url": "https://www.lgyy.vip",
+  "主页url": "https://www.fuxiafood.com",
   
   "分类": "国剧&港台&综艺",
   "分类值": "13&14&3",
   
-  "分类url": "https://www.lgyy.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+  "分类url": "https://www.fuxiafood.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
   "副标题": "module-item-note\">&&</div>",
   
