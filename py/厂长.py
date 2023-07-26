@@ -43,7 +43,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 
     def homeVideoContent(self):
         result = {}
-        url = "https://czzy.fun/"
+        url = "https://cz4k.com/"
         rsp = requests.get(url, headers=self.header, timeout=5)
         root = self.html(self.cleanText(rsp.text))
         aList = root.xpath("//div[@class='mi_btcon']//ul/li")
@@ -74,12 +74,12 @@ class Spider(Spider):  # 元类 默认的元类 type
     def categoryContent(self, tid, pg, filter, extend):
         result = {}
         header = {
-            'Origin': 'https://czzy.fun/',
-            'Referer': 'https://czzy.fun/',
+            'Origin': 'https://cz4k.com/',
+            'Referer': 'https://cz4k.com/',
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36',
             'Cookie': 'esc_search_captcha=1'
         }
-        url = 'https://czzy.fun/{0}/page/{1}'.format(tid,pg)
+        url = 'https://cz4k.com/{0}/page/{1}'.format(tid,pg)
         rsp = self.fetch(url, headers=self.header)
         root = self.html(self.cleanText(rsp.text))
         aList = root.xpath("//div[contains(@class,'bt_img mi_ne_kd mrb')]/ul/li")
@@ -108,7 +108,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 
     def detailContent(self, array):
         tid = array[0]
-        url = 'https://czzy.fun/movie/{0}.html'.format(tid)
+        url = 'https://cz4k.com/movie/{0}.html'.format(tid)
         rsp = self.fetch(url, headers=self.header)
         root = self.html(self.cleanText(rsp.text))
         node = root.xpath("//div[@class='dyxingq']")[0]
@@ -179,7 +179,7 @@ class Spider(Spider):  # 元类 默认的元类 type
         return result
 
     def searchContent(self, key, quick):
-        url = 'https://czzy.fun/?s={0}'.format(urllib.parse.quote(key))
+        url = 'https://cz4k.com/?s={0}'.format(urllib.parse.quote(key))
         rsp = requests.get(url, headers=self.header)
         root = self.html(self.cleanText(rsp.text))
         vodList = root.xpath("//div[contains(@class,'mi_ne_kd')]/ul/li/a")
@@ -209,8 +209,8 @@ class Spider(Spider):  # 元类 默认的元类 type
         "filter": {}
     }
     header = {
-        'Origin': 'https://czzy.fun/',
-        'Referer': 'https://czzy.fun/',
+        'Origin': 'https://cz4k.com/',
+        'Referer': 'https://cz4k.com/',
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36',
         'Cookie': 'esc_search_captcha=1'
     }
@@ -225,7 +225,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 
     def playerContent(self, flag, id, vipFlags):
         result = {}
-        url = 'https://czzy.fun/v_play/{0}.html'.format(id)
+        url = 'https://cz4k.com/v_play/{0}.html'.format(id)
         rsp = self.fetch(url, headers=self.header)
         pat = '\\"([^\\"]+)\\";var [\\d\\w]+=function dncry.*md5.enc.Utf8.parse\\(\\"([\\d\\w]+)\\".*md5.enc.Utf8.parse\\(([\\d]+)\\)'
         html = rsp.text
