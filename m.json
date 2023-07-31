@@ -29,7 +29,7 @@
 {"key":"机器","name":"机器","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/ikanbot_open.js","searchable":1,"changeable":1},
 {"key":"工厂","name":"工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"http://www.ysgc.fun"},
 {"key":"一起","name":"一起","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"https://api-aws.11ty.top","categories":["电影","电视剧"]},
-{"key":"视觉","name":"视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"https://www.6080yy1.com/"},
+//{"key":"视觉","name":"视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"https://www.6080yy1.com/"},
 {"key":"双十","name":"双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar"},
 {"key":"利播","name":"利播","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"https://www.libvio.fun/"},
 {"key":"蓝光〔sp〕","name":"蓝光","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"https://www.lgyy.vip"},
@@ -52,6 +52,7 @@
 
 {"key":"六度","name":"六度","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/六度.json"},
   
+{"key":"视觉","name":"视觉","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/视觉.json"},
 {"key":"可米","name":"可米","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/可米.json"},
 {"key":"不卡","name":"不卡","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/不卡.json"},
 {"key":"达龟","name":"达龟","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/达龟.json"},
