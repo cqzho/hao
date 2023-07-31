@@ -14,7 +14,6 @@
 {"key":"七七","name":"七七","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kunyu77_open.js","searchable":1,"changeable":1}, 
 //{"key":"七七〔py〕","name":"七七〔py〕","type":3,"api":"py_77","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/七七.py"},
 //{"key":"创艺〔py〕","name":"创艺〔py〕","type":3,"api":"py_chuangyi","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/创艺.py"},
-{"key":"跟剧","name":"跟剧","type":3,"api":"py_genju","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/跟剧.py"},
   
 //json采集接口type：1,xml采集接口type：0
 {"key":"暴风","name":"暴风","type":0,"api":"https://bfzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"categories":["国产剧","香港剧","台湾剧","韩国剧","日本剧","欧美剧","动作片","喜剧片","科幻片","爱情片","剧情片","战争片","纪录片","动画片","国产动漫","大陆综艺"]},
@@ -94,6 +93,7 @@
     
 {"key":"低端","name":"低端","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/低端.js"},
 {"key":"创艺","name":"创艺","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/创艺.js"},
+{"key":"跟剧","name":"跟剧","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/跟剧.js"},
 {"key":"速看","name":"速看","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/速看.js"},
 {"key":"黄瓜","name":"黄瓜","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/黄瓜.js"},
 {"key":"咕噜","name":"咕噜","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/咕噜.js"},
