@@ -82,7 +82,8 @@
 {"key":"兄弟","name":"兄弟","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/兄弟.json"},
 {"key":"一龙","name":"一龙","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/一龙.json"},
 {"key":"在线","name":"在线","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/在线.json"},
-
+{"key":"剧迷","name":"剧迷","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/剧迷.json"},
+  
 {"key":"酷酷","name":"酷酷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","categories":["电影","电视剧","综艺","动漫"]},
 {"key":"爱迪","name":"爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 {"key":"奈菲","name":"奈菲","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"}, //备用网址https://yanetflix.me/api.php/app/
