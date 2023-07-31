@@ -51,7 +51,8 @@
 {"key":"土豪","name":"土豪","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/土豪.json"},
 {"key":"明帝","name":"明帝","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/明帝.json"},
 {"key":"思古","name":"思古","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/思古.json","categories":["国剧","港台","综艺","动漫"]},
-
+  
+{"key":"三亿","name":"三亿","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/三亿.json"},
 {"key":"六度","name":"六度","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/六度.json"},
   
 {"key":"可米","name":"可米","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/可米.json"},
