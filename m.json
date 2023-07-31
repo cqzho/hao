@@ -1,5 +1,4 @@
 {"sites":[
-//{"key":"豆瓣〔py〕","name":"豆瓣〔py〕","type":3,"api":"py_douban","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/豆瓣.py"},
 {"key":"豆瓣","name":"豆瓣","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/豆瓣.js"},
 
 {"key":"央视","name":"央视","type":3,"api":"py_cctv_new","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/央视.py"},
@@ -12,8 +11,6 @@
 {"key":"哔哩〔sp〕","name":"哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/哔哩.json"},
 
 {"key":"七七","name":"七七","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kunyu77_open.js","searchable":1,"changeable":1}, 
-//{"key":"七七〔py〕","name":"七七〔py〕","type":3,"api":"py_77","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/七七.py"},
-//{"key":"创艺〔py〕","name":"创艺〔py〕","type":3,"api":"py_chuangyi","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/创艺.py"},
   
 //json采集接口type：1,xml采集接口type：0
 {"key":"暴风","name":"暴风","type":0,"api":"https://bfzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"categories":["国产剧","香港剧","台湾剧","韩国剧","日本剧","欧美剧","动作片","喜剧片","科幻片","爱情片","剧情片","战争片","纪录片","动画片","国产动漫","大陆综艺"]},
@@ -28,8 +25,8 @@
 {"key":"明明","name":"明明","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar"}, 
 {"key":"厂长〔sp〕","name":"厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar"},
 {"key":"厂长〔js〕","name":"厂长","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/czzy_open.js","searchable":1,"changeable":1},
+  
 {"key":"机器","name":"机器","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/ikanbot_open.js","searchable":1,"changeable":1},
-
 {"key":"工厂","name":"工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"http://www.ysgc.fun"},
 {"key":"一起","name":"一起","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"https://api-aws.11ty.top","categories":["电影","电视剧"]},
 {"key":"视觉","name":"视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"https://www.6080yy3.com/"},
@@ -51,8 +48,8 @@
 {"key":"土豪","name":"土豪","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/土豪.json"},
 {"key":"明帝","name":"明帝","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/明帝.json"},
 {"key":"思古","name":"思古","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/思古.json","categories":["国剧","港台","综艺","动漫"]},
-  
 {"key":"三亿","name":"三亿","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/三亿.json"},
+
 {"key":"六度","name":"六度","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/六度.json"},
   
 {"key":"可米","name":"可米","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/可米.json"},
