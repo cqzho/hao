@@ -94,6 +94,7 @@
 {"key":"低端","name":"低端","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/低端.js"},
 {"key":"创艺","name":"创艺","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/创艺.js"},
 {"key":"跟剧","name":"跟剧","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/跟剧.js"},
+{"key":"可米","name":"可米","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/可米.js"},
 {"key":"速看","name":"速看","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/速看.js"},
 {"key":"黄瓜","name":"黄瓜","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/黄瓜.js"},
 {"key":"咕噜","name":"咕噜","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/咕噜.js"},
