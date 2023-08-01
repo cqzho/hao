@@ -1,8 +1,7 @@
 {"sites":[
 {"key":"豆瓣","name":"豆瓣","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/豆瓣.js"},
 
-//{"key":"央视","name":"央视","type":3,"api":"py_cctv_new","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/央视.py"},
-{"key":"央视","name":"央视","type":3,"api":"./py/央视.py","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"央视","name":"央视","type":3,"api":"py_cctv_new","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/央视.py"},
 {"key":"腾讯","name":"腾讯","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"./libs/G.jar"},
 {"key":"奇艺","name":"奇艺","type":3,"api":"csp_Itv","quickSearch":1,"searchable":1,"filterable":1,"changeable":0,"jar":"./libs/G.jar","categories":["电视","电影","动漫","综艺","记录","儿童"]},
 {"key":"芒果","name":"芒果","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"./libs/G.jar"},
