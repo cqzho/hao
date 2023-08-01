@@ -16,8 +16,9 @@
     
     "影片类型":"video-info-aux scroll-content\"&&立即播放",
     
-    "数组":"module-item-pic\">&&<div class=\"module-item\">",
-    
+    //"数组":"module-item-pic\">&&<div class=\"module-item\">",
+    "数组":"<div class=\"module-tab-item tab-item&&</div[不包含:无尽#闪电#天空#飞速#卧龙]",
+        
     "图片":"data-src=\"&&\"",
     
     "标题":"title=\"&&\"",
