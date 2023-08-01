@@ -16,8 +16,7 @@
     
     "影片类型":"video-info-aux scroll-content\"&&立即播放",
     
-    //"数组":"module-item-pic\">&&<div class=\"module-item\">",
-    "数组":"<div class=\"module-tab-item tab-item&&</div[不包含:无尽#闪电#天空#飞速#卧龙]",
+    "数组":"module-item-pic\">&&<div class=\"module-item\">",
         
     "图片":"data-src=\"&&\"",
     
@@ -27,7 +26,8 @@
     
     "链接":"href=\"&&\"",
     
-    "线路数组":"data-dropdown-value=&&</div>",
+    //"线路数组":"data-dropdown-value=&&</div>",
+    "线路数组": "<div class=\"module-tab-item tab-item&&</div[不包含:无尽#闪电#天空#飞速#卧龙]",
     
     "线路标题":"<span>&&</small>[替换:</span><small>>>⚡️共]+集⚡️",
     
