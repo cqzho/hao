@@ -29,7 +29,7 @@
 {"key":"机器","name":"机器","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/ikanbot_open.js","searchable":1,"changeable":1},
 {"key":"工厂","name":"工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"http://www.ysgc.fun"},
 {"key":"一起","name":"一起","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"https://api-aws.11ty.top","categories":["电影","电视剧"]},
-{"key":"利播","name":"利播","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"https://www.libvio.fun/"},
+//{"key":"利播","name":"利播","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"https://www.libvio.fun/"},
 {"key":"比特","name":"比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","categories":["国产剧"]},
 {"key":"奥特","name":"奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar"},
 
@@ -44,7 +44,7 @@
 {"key":"明帝","name":"明帝","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/明帝.json"},
 {"key":"思古","name":"思古","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/思古.json","categories":["国剧","港台","综艺","动漫"]},
 {"key":"三亿","name":"三亿","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/三亿.json"},
-//{"key":"利播","name":"利播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/利播.json"},
+{"key":"利播","name":"利播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/利播.json"},
 {"key":"惊艳","name":"惊艳","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/惊艳.json"},
 {"key":"粉丝","name":"粉丝","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/粉丝.json"},
   
