@@ -17,6 +17,7 @@
 {"key":"量子","name":"量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产剧","短剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","大陆综艺"]},
 {"key":"非凡","name":"非凡","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","欧美剧","韩国剧","日本剧","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","大陆综艺"]},
 {"key":"爱酷","name":"爱酷","type":0,"api":"https://api.iku.cool/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"categories":["电影","连续剧","动漫","综艺"]},
+{"key":"纽约","name":"纽约","type":0,"api":"https://www.nycvod.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1},
 
 {"key":"哔嘀","name":"哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影","电视剧"]},
 {"key":"快看〔sp〕","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -46,7 +47,6 @@
 {"key":"三亿","name":"三亿","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/三亿.json"},
 {"key":"利播","name":"利播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/利播.json"},
 {"key":"惊艳","name":"惊艳","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/惊艳.json"},
-{"key":"纽约","name":"纽约","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/纽约.json"},
 //{"key":"粉丝","name":"粉丝","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/粉丝.json"},
   
 {"key":"六度","name":"六度","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/六度.json"},
