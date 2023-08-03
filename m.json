@@ -95,11 +95,12 @@
 {"key":"迷你","name":"迷你","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},  //备用网址http://www.miniku.cc/xgapp.php/v2/
 {"key":"小艺","name":"小艺","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lg.tvcms.top/api.php/app/"},
 {"key":"六九","name":"六九","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
-
+{"key":"咕噜","name":"咕噜","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://w.996w.top/api.php/app"},
+  
 {"key":"低端","name":"低端","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/低端.js"},
 {"key":"创艺","name":"创艺","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/创艺.js"},
 {"key":"跟剧","name":"跟剧","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/跟剧.js"},
-{"key":"咕噜","name":"咕噜","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/咕噜.js"},
+//{"key":"咕噜","name":"咕噜","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/咕噜.js"},
 {"key":"花猪","name":"花猪","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/花猪.js"},
 {"key":"爱看","name":"爱看","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/爱看.js"},
 {"key":"剧白","name":"剧白","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/剧白.js"},
