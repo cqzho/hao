@@ -18,7 +18,6 @@
 {"key":"非凡","name":"非凡","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","欧美剧","韩国剧","日本剧","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","大陆综艺"]},
 {"key":"爱酷","name":"爱酷","type":0,"api":"https://api.iku.cool/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"categories":["电影","连续剧","动漫","综艺"]},
 {"key":"纽约","name":"纽约","type":0,"api":"https://www.nycvod.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","动作片","喜剧片","科幻片","战争片","犯罪片","冒险片"]},
-//{"key":"速看","name":"速看","type":0,"api":"https://sk100.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","短剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","记录片"]},
 {"key":"红光","name":"红光","type":0,"api":"https://hong.hgyx.vip/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1},
 
 {"key":"哔嘀","name":"哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影","电视剧"]},
