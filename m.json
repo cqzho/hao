@@ -111,7 +111,8 @@
 {"key":"稀饭","name":"稀饭","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/稀饭.js"},
 {"key":"蜥蜴","name":"蜥蜴","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/蜥蜴.js"},
 {"key":"映迷","name":"映迷","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/映迷.js"},
-
+{"key":"荐片","name":"荐片","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/荐片.js"},
+  
 {"key":"体育","name":"体育","type":3,"api":"py_tiyu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/体育.py"},
 {"key":"拉雅","name":"拉雅","type":3,"api":"py_xmly","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/喜马拉雅.py"},
 {"key":"音乐","name":"音乐","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable":1,"changeable":1,"filterable":1,"changeable":0},
