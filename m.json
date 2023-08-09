@@ -20,7 +20,7 @@
 {"key":"纽约","name":"纽约","type":0,"api":"https://www.nycvod.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","动作片","喜剧片","科幻片","战争片","犯罪片","冒险片"]},
 {"key":"红光","name":"红光","type":0,"api":"https://hong.hgyx.vip/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1},
 
-{"key":"哔嘀","name":"哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影","电视剧"]},
+//{"key":"哔嘀","name":"哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影","电视剧"]},
 {"key":"快看〔sp〕","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快看〔js〕","name":"快看","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kkys_open.js","searchable":1,"changeable":1}, 
 
@@ -97,7 +97,8 @@
 {"key":"六九","name":"六九","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 {"key":"咕噜","name":"咕噜","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://w.996w.top/api.php/app/"},
 {"key":"速看","name":"速看","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://sk100.tv/api.php/app/"},
-  
+
+{"key":"哔嘀","name":"哔嘀","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/哔嘀.js"},
 {"key":"低端","name":"低端","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/低端.js"},
 {"key":"创艺","name":"创艺","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/创艺.js"},
 {"key":"花猪","name":"花猪","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/花猪.js"},
