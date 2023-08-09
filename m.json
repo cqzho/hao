@@ -96,7 +96,6 @@
 {"key":"咕噜","name":"咕噜","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://w.996w.top/api.php/app/"},
 {"key":"速看","name":"速看","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://sk100.tv/api.php/app/"},
 
-//{"key":"哔嘀","name":"哔嘀","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/哔嘀.js"},
 {"key":"低端","name":"低端","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/低端.js"},
 {"key":"创艺","name":"创艺","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/创艺.js"},
 {"key":"花猪","name":"花猪","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/花猪.js"},
