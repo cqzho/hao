@@ -114,7 +114,7 @@
 {"key":"荐片","name":"荐片","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/荐片.js"},
   
 {"key":"云盘","name":"云盘","type":3,"api":"csp_AList","searchable":1,"changeable": 0,"ext": "./json/云盘.json","jar":"./libs/G.jar"},
-{"key":"挂载","name":"挂载","type":3,"api":"csp_WebDAV","searchable":1,"changeable": 0,"drives": [{"name": "七米藍","server": "https://al.chirmyram.com/dav","user": "alist","pass": "alist"}],"jar":"./libs/G.jar"},  
+{"key":"挂载","name":"挂载","type":3,"api":"csp_WebDAV","searchable":1,"changeable": 0,"ext": "./json/挂载.json","jar":"./libs/G.jar"},  
   
 {"key":"体育","name":"体育","type":3,"api":"py_tiyu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/体育.py"},
 {"key":"拉雅","name":"拉雅","type":3,"api":"py_xmly","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/喜马拉雅.py"},
