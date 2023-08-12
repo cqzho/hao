@@ -168,7 +168,8 @@ VIU TV,http://r.jdshipin.com/vSJvl$高清
 健康养生,https://live.goodiptv.club/api/bestv.php?id=jkys8m/8000000
 百变课堂,https://live.goodiptv.club/api/bestv.php?id=bbkt8m/8000000
 看天下精选,https://live.goodiptv.club/api/bestv.php?id=ktxjx8m/8000000
-纪实科教,https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000
+BTV纪实科教,https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000
+BTV纪实科教 8K,http://159.75.85.63:6798
 茶频道,https://live.goodiptv.club/api/bestv.php?id=cpdhdavs8m/8000000
 东方财经,https://live.goodiptv.club/api/bestv.php?id=dfcjhd8m/8000000
 
