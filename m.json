@@ -121,7 +121,7 @@
 
 "parses":[
 {"name":"Web聚合","type":3,"url":"Web"},
-{"name":"B站1","type":0,"url":"https://jx.jsonplayer.com/player/?url=","mobile":1},
+{"name":"B站1","type":1,"url":"https://jx.jsonplayer.com/player/?url=","mobile":1},
 {"name":"BL","type":0,"url":"https://vip.bljiex.com/?v=","mobile":0},
 {"name":"冰豆","type":0,"url":"https://bd.jx.cn/?url=","mobile":0},
 {"name":"CK","type":0,"url":"https://www.ckplayer.vip/jiexi/?url=","mobile":0},
@@ -132,7 +132,7 @@
 {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url=","mobile":0},
 {"name":"YT","type":0,"url":"https://jx.yangtu.top/?url=","mobile":0},
 {"name":"云析","type":0,"url":"https://jx.yparse.com/index.php?url=","mobile":0},
-{"name":"G9","type":1,"url":"http://json.g9.pub:66/?url=","mobile":0},
+{"name":"G9","type":0,"url":"http://json.g9.pub:66/?url=","mobile":0},
 {"name":"爱酷","type":0,"url":"https://jx.zhanlangbu.com/?url=","mobile":0},
 {"name":"180","type":0,"url":"https://jx.000180.top/jx/?url=","mobile":0},
 {"name":"8090","type":0,"url":"https://www.8090g.cn/?url=","mobile":0}],
