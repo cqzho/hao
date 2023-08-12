@@ -1,7 +1,7 @@
 {
 "作者":"张弘",
 "站名":"南柯电影网",
-"主页url":"https://www.nkdyw.com/",
+"主页url":"https://www.nkdyw.us/",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
@@ -23,8 +23,8 @@
 "播放标题":"<span>&&</span>",
 "播放链接":"href=\"&&\"",
 "免嗅":"1",
-"分类":"电影$1#电视剧$2#综艺$3#动漫$4",
-"分类url":"https://www.nkdyw.com/show/{cateId}--{by}------{catePg}---{year}.html",
+"分类":"电影$1#剧集$2#综艺$3#动漫$4",
+"分类url":"https://www.nkdyw.us/show/{cateId}--{by}------{catePg}---{year}.html",
 
 "筛选":{
 "1":[
