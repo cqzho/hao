@@ -39,7 +39,7 @@
 {"key":"维度","name":"维度","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/维度.json"},
 {"key":"零七","name":"零七","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/零七.json"},
 {"key":"北川","name":"北川","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/北川.json"},
-{"key":"港剧","name":"港剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/港剧.json"},
+//{"key":"港剧","name":"港剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/港剧.json"},
 {"key":"土豪","name":"土豪","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/土豪.json"},
 {"key":"明帝","name":"明帝","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/明帝.json"},
 {"key":"思古","name":"思古","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/思古.json","categories":["国剧","港台","综艺","动漫"]},
