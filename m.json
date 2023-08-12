@@ -135,6 +135,7 @@
 {"name":"G9","type":1,"url":"http://json.g9.pub:66/?url=","mobile":0},
 {"name":"爱酷","type":0,"url":"https://jx.zhanlangbu.com/?url=","mobile":0},
 {"name":"180","type":1,"url":"https://jx.000180.top/jx/?url=","mobile":0},
+{"name":"晓成","type":1,"url":"https://api.cygc.xyz/analysis/?url=","mobile":0},
 {"name":"8090","type":0,"url":"https://www.8090g.cn/?url=","mobile":0}],
 
 "spider":"./libs/XYQ.jar",
