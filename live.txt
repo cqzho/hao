@@ -163,25 +163,14 @@ VIU TV,http://r.jdshipin.com/vSJvl$高清
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$标清
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv$标清
 金鹰纪实,https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000
-上海第一财经,https://live.goodiptv.club/api/bestv.php?id=dycjhd8m/8000000
-上视新闻,https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
-上海都市,https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
 上海纪实,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
-上视外语,https://live.goodiptv.club/api/bestv.php?id=icshd8m/8000000
-七彩戏剧,https://live.goodiptv.club/api/bestv.php?id=qcxjhd8m/8000000
-上海教育,https://live.goodiptv.club/api/bestv.php?id=setvhd/8000000
-全纪实,https://live.goodiptv.club/api/bestv.php?id=qjshd8m/8000000
-生活时尚,https://live.goodiptv.club/api/bestv.php?id=shss8m/8000000
 热门综艺,https://live.goodiptv.club/api/bestv.php?id=rmzy8m/8000000
 健康养生,https://live.goodiptv.club/api/bestv.php?id=jkys8m/8000000
 百变课堂,https://live.goodiptv.club/api/bestv.php?id=bbkt8m/8000000
 看天下精选,https://live.goodiptv.club/api/bestv.php?id=ktxjx8m/8000000
-陶瓷高清,https://live.goodiptv.club/api/bestv.php?id=taocihd/8000000
 纪实科教,https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000
 茶频道,https://live.goodiptv.club/api/bestv.php?id=cpdhdavs8m/8000000
 东方财经,https://live.goodiptv.club/api/bestv.php?id=dfcjhd8m/8000000
-法治天地,https://live.goodiptv.club/api/bestv.php?id=fztd8m/8000000
-金色学堂,https://live.goodiptv.club/api/bestv.php?id=jingsepd8m/8000000
 
 教育,#genre#
 CETV1,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
