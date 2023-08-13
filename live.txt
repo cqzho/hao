@@ -283,9 +283,6 @@ IPTV淘BABY,http://router.tonyliangli.cn:4022/udp/239.3.1.238:8001
 明珠台,http://r.jdshipin.com/ZQ4kN$全高清
 明珠台,http://lu1.cc/a/play/php/gudou.php?id=mzt$标清
 J2,http://r.jdshipin.com/Nr5jq$全高清
-ViuTV6,https://epg.pw/stream/bb59f78bb7727ff9807a49dd25e65e86375466e8334cd0d08e7de7ca0995f29a.m3u8
-ViuTV HD,https://epg.pw/stream/e75064964d8deac20e6e137a40e2c59b10104b50986230c89c0bf57a58887a3e.m3u8
-ViuTV HD,http://r.jdshipin.com/vSJvl$高清
 凤凰中文,http://117.27.190.42:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$全高清
 凤凰中文,http://r.jdshipin.com/cCCzW$高清
 凤凰中文,http://qspyx.7766.org:9999/tsfile/live/1106_1.m3u8$标清
@@ -309,25 +306,17 @@ ViuTV HD,http://r.jdshipin.com/vSJvl$高清
 ELTA影剧,https://epg.pw/stream/87cc5c3cf3742ba6c4211c62ee71c021ee6cd68630ecf85e15f2340cb37105a5.m3u8
 ELTA综合,https://epg.pw/stream/291da24fd7ecb35199a1210c7b9af7edf3fcf3bbf73622c409ba792d780c9b99.m3u8
 EYETV戏剧,https://epg.pw/stream/f790a498029a23965fb772acee7fbd7fe9ff777da83dd0b93f23da0a3a1b3e01.m3u8
-FOX MOVIES,https://epg.pw/stream/39368ab76e6f809f1cee7a24fe57b35c4d732b6d40cbdcadaf5aa2e3aacdefe6.ctv
 HBO,https://epg.pw/stream/0cc73ab607e13f5de1f04cb571c9b134d9879d0da3a72ddceb8111614fec1240.m3u8
-HBO HITS,https://epg.pw/stream/55b9a9d8ece9e626f852d3ddeab2fbddda71a0ab65b4f6807021fd0442f93b06.m3u8
 HBO HITS,https://epg.pw/stream/c9f94c29357790d04a2e1bf4d0131f5c26aaaa8547b5e1c7bea9acb6a96d2f18.m3u8
 TVBS HD,https://epg.pw/stream/927ca42b884ccdc9448f7b613ffa0e2ef255f048800546c412c36a6036e1d861.m3u8
-TVBS Asia,https://epg.pw/stream/bec78e286aac6635512a9f28b62fd31b8e95a4a6c3d14cfb31cc3924b0f4725c.m3u8
-TVBS Asia,https://epg.pw/stream/1d3fd64401a15fe4c03686bd236262e655ddfa84c99879ae5273532ffd2ae4af.m3u8
 TVB经典台,https://epg.pw/stream/ad61a5f104e206191209ee2bccb78a0ee04edc1a678372a12b1e467e5f52829f.m3u8
 TVB星河台,https://epg.pw/stream/93bdf6ab2273f194988b51904529ae553d58eb27b76dfe0c1df605edd279600f.m3u8
 TVB粤语片台,https://epg.pw/stream/246e349694c21cd08678bb5016be76cbd8be1a0f7b633ff9363d2aedf19408fb.m3u8
 八大娱乐台,https://epg.pw/stream/268ba4117bb8de6de99c3b13749ff956fbbbd05e7189c404545f3aa3c11c9067.m3u8
 八大综合,https://epg.pw/stream/1c56f1de332b6a66a5d4a5b96a45b48df3403811bd49a54c247ac711f1175d5b.m3u8
-八度空间,https://epg.pw/stream/757944ed2a0c3a89adf7ffe400a0d09b07c6da5bc1865233158529a9a6a8efd7.m3u8
-东森超视,https://epg.pw/stream/f4761048a2b81260c01f3e87041c241c524fe61c2c8966d9e9b60fb7ee6ea0bc.m3u8
 东森电影,https://epg.pw/stream/05c7791a4d1db7ba680c3134464550eadb3c82b5fc870c210f38366804382de7.m3u8
 东森电影,https://epg.pw/stream/382dca1621c0aecc0f0ef19a4ef53b453d932600fc491d9f56657e576996d995.m3u8
 东森电影,https://epg.pw/stream/4a62ed9593b78b102478dfb9ee5c49007c9082b303b3056a8c99ea50647847de.m3u8
-东森美洲,https://epg.pw/stream/d9a679454b6c0b5dad7d457df83d71fb9a68adec2c5f603770e94b88152c5d49.m3u8
-东森美洲,https://epg.pw/stream/3f54de58cf44244a3a2e14cd7388cac348a17ada96c4aba4b5a65f1c4ceeabca.m3u8
 东森戏剧,https://epg.pw/stream/af9b73d89f773db240e32b751bedc8b58b0b8ad8a9f0de1f4f008e8475262318.m3u8
 东森戏剧,https://epg.pw/stream/b7ad44978dbadf18d361ec718ab5d8f38d6c6e3b19449dfd5df12deaafc44c40.m3u8
 东森戏剧,https://epg.pw/stream/85f834ef8f7811fc57a55b8d917e79296468aaf03b32dfba68f1b3bee92f01a5.m3u8
