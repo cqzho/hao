@@ -81,7 +81,6 @@
 {"key":"酷影","name":"酷影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","categories":["电影","电视剧","综艺","动漫"]},
 {"key":"阿迪","name":"阿迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},//备用网址https://aidiapp.xyz/xgapp.php/v2/
 {"key":"丫丫","name":"丫丫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"}, //备用网址https://yanetflix.me/api.php/app/
-{"key":"萌蛋","name":"萌蛋","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/","categories":["电影","电视剧"]},
 {"key":"迷你","name":"迷你","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},  //备用网址http://www.miniku.cc/xgapp.php/v2/
 {"key":"六九","name":"六九","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 {"key":"咕噜","name":"咕噜","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://w.996w.top/api.php/app/"},
