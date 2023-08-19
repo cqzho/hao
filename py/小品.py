@@ -7,9 +7,9 @@ from PocketLifeSpider.util.MongoDbUtils import MongoDbUtils
 
 class Piece4Spider(scrapy.Spider):
     name = 'piece4'
-    allowed_domains = ['www.xiaopin.tv']
+    allowed_domains = ['xiaopin.tv']
     start_urls = []
-    origin_url = 'http://www.xiaopin.tv'
+    origin_url = 'http://xiaopin.tv'
     type = 'piece'
     # 电影总数
     total = 0
