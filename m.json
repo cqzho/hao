@@ -98,7 +98,6 @@
 {"key":"米爱","name":"米爱","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/米爱.js"},
 {"key":"时光","name":"时光","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/时光.js"},
 {"key":"蜥蜴","name":"蜥蜴","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/蜥蜴.js"},
-{"key":"影探","name":"影探","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/影探.js"},
 {"key":"荐片","name":"荐片","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/荐片.js"},
   
 {"key":"云盘","name":"云盘","type":3,"api":"csp_AList","searchable":1,"changeable": 0,"ext": "./json/云盘.json","jar":"./libs/G.jar"},
