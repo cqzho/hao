@@ -41,8 +41,8 @@ CCTV17,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
 CCTV-4K,http://159.75.85.63:5679/cctv4k.php$超高清
 CCTV-4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K$超高清
 CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8$全高清
+CCTV-8K,http://159.75.85.63:8654/xx8k50fps.php
 CCTV-8K,http://159.75.85.63:8765/xxtv8k.php
-CCTV-8K(IPv6),http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CCTV16-4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K$高清
 CCTV第一剧场,https://live.goodiptv.club/api/cqyx.php?id=diyijuchangHD
 CCTV风云剧场,https://live.goodiptv.club/api/cqyx.php?id=fyjcHD
@@ -221,6 +221,8 @@ BTV纪实科教 8K,http://159.75.85.63:6798
 虎牙放映厅,https://www.goodiptv.club/huya/11602077$全高清
 虎牙影院,https://www.goodiptv.club/huya/11601968$全高清
 淘宝电影,https://www.goodiptv.club/huya/11336575$全高清
+爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+北京IPTV-4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 
 广播,#genre#
 萤火虫网络电台,https://live.ximalaya.com/radio-first-page-app/live/1006/64.m3u8
