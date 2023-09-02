@@ -22,7 +22,7 @@
 
 {"key":"快看","name":"快看","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kkys_open.js","searchable":1,"changeable":1}, 
 {"key":"厂长","name":"厂长","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/czzy_open.js","searchable":1,"changeable":1},
-{"key":"机器","name":"机器","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/ikanbot_open.js","searchable":1,"changeable":1},
+//{"key":"机器","name":"机器","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/ikanbot_open.js","searchable":1,"changeable":1},
 
 {"key":"酷影","name":"酷影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","categories":["电影","电视剧","综艺","动漫"]},
 {"key":"阿迪","name":"阿迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},//备用网址https://aidiapp.xyz/xgapp.php/v2/
@@ -87,6 +87,7 @@
 {"key":"茉莉","name":"茉莉","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/茉莉.json"},
   
 //{"key":"低端","name":"低端","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/低端.js"},
+{"key":"机器","name":"机器","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/机器.js"},
 {"key":"花猪","name":"花猪","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/花猪.js"},
 {"key":"爱看","name":"爱看","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/爱看.js"},
 {"key":"剧白","name":"剧白","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/剧白.js"},
