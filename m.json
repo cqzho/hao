@@ -93,9 +93,7 @@
 {"key":"师兄","name":"师兄","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/师兄.js"},
 {"key":"光棍","name":"光棍","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/光棍.js"},
 {"key":"花猫","name":"花猫","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/花猫.js"},
-{"key":"徕米","name":"徕米","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/徕米.js"},
 {"key":"米爱","name":"米爱","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/米爱.js"},
-{"key":"时光","name":"时光","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/时光.js"},
 {"key":"蜥蜴","name":"蜥蜴","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/蜥蜴.js"},
 {"key":"荐片","name":"荐片","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/荐片.js"},
   
