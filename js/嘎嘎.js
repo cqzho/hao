@@ -1,7 +1,7 @@
 var rule = {
 	    title:'gaze',
 	    host:'https://gaze.run',
-	    url:'/filter_movielist?fyfilter',
+	    url:'/filter',
 		detailUrl:'/play/fyid',
 	    // searchUrl:'/search?query=**&page=fypage',
 	    searchable:2,
