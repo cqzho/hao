@@ -35,7 +35,7 @@
     "分类片单链接": "a&&href",
     "分类片单图片": ".lazyload&&data-original",
     "分类片单副标题": ".module-item-note&&Text",
-    "分类片单链接加前缀": "https://www.nkvod.com",
+    "分类片单链接加前缀": "https://www.nkdyw.us",
     "分类片单链接加后缀": "",
     "搜索请求头参数": "User-Agent$MOBILE_UA",
     "search_url": "https://www.nkdyw.us/nk/-------------.html?wd={wd}",
