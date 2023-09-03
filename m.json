@@ -91,6 +91,7 @@
 {"key":"三九","name":"三九","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/三九.js"},
 {"key":"云播","name":"云播","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/云播.js"},
 {"key":"优美","name":"优美","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/优美.js"},
+{"key":"嘎嘎","name":"嘎嘎","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/嘎嘎.js"},
 {"key":"厂长","name":"厂长","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/厂长.js"},
 {"key":"机器","name":"机器","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/机器.js"},
 {"key":"花猪","name":"花猪","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/花猪.js"},
