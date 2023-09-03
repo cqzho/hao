@@ -40,7 +40,7 @@
 {"key":"比特","name":"比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","categories":["国产剧"]},
   
 {"key":"奥特","name":"奥特","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/奥特.json"},    
-{"key":"南柯","name":"南柯","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/南柯.json"},  
+//{"key":"南柯","name":"南柯","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/南柯.json"},  
 {"key":"奇优","name":"奇优","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/奇优.json"},
 {"key":"生火","name":"生火","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/生火.json"},
 {"key":"素白","name":"素白","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/素白.json"},
@@ -54,7 +54,8 @@
 {"key":"惊艳","name":"惊艳","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/惊艳.json"},
   
 {"key":"六度","name":"六度","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/六度.json"},
-  
+
+{"key":"耐看","name":"耐看","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/耐看.json"}, 
 {"key":"卧佛","name":"卧佛","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/卧佛.json"},   
 {"key":"蓝光","name":"蓝光","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/蓝光.json"},  
 {"key":"双十","name":"双十","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/双十.json"},
