@@ -12,6 +12,7 @@
 
 {"key":"七七","name":"七七","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kunyu77_open.js","searchable":1,"changeable":1}, 
 {"key":"快看","name":"快看","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kkys_open.js","searchable":1,"changeable":1}, 
+{"key":"机器","name":"机器","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/ikanbot_open.js","searchable":1,"changeable":1}, 
   
 //json采集接口type：1,xml采集接口type：0
 {"key":"暴风","name":"暴风","type":0,"api":"https://bfzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"categories":["国产剧","香港剧","台湾剧","韩国剧","日本剧","欧美剧","动作片","喜剧片","科幻片","爱情片","剧情片","战争片","纪录片","动画片","国产动漫","大陆综艺"]},
@@ -84,7 +85,7 @@
 {"key":"云播","name":"云播","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/云播.js"},
 {"key":"优美","name":"优美","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/优美.js"},
 {"key":"厂长","name":"厂长","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/厂长.js"},
-{"key":"机器","name":"机器","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/机器.js"},
+//{"key":"机器","name":"机器","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/机器.js"},
 {"key":"花猪","name":"花猪","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/花猪.js"},
 {"key":"爱看","name":"爱看","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/爱看.js"},
 {"key":"剧白","name":"剧白","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/剧白.js"},
