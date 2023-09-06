@@ -1,7 +1,5 @@
 {"sites":[
 {"key":"豆瓣","name":"豆瓣","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/豆瓣.js"},
-
-//{"key":"央视","name":"央视","type":3,"api":"py_cctv_new","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/央视.py"},
 {"key":"腾讯","name":"腾讯","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"./libs/G.jar"},
 {"key":"奇艺","name":"奇艺","type":3,"api":"csp_Itv","quickSearch":1,"searchable":1,"filterable":1,"changeable":0,"jar":"./libs/G.jar","categories":["电视","电影","动漫","综艺","记录","儿童"]},
 {"key":"芒果","name":"芒果","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"./libs/G.jar"},
@@ -14,9 +12,6 @@
 {"key":"快看","name":"快看","type":3,"api":"./open/kkys_open.js","searchable":1,"changeable":1}, 
 {"key":"利播","name":"利播","type":3,"api":"./open/libvio_open.js","searchable":1,"changeable":1}, 
 {"key":"南瓜","name":"南瓜","type":3,"api":"./open/ng_open.js","searchable":1,"changeable":1}, 
-{"key":"央视","name":"央视","type":3,"api":"./open/cntv_open.js","searchable":1,"changeable":1}, 
-
-
   
 //json采集接口type：1,xml采集接口type：0
 {"key":"暴风","name":"暴风","type":0,"api":"https://bfzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"categories":["国产剧","香港剧","台湾剧","韩国剧","日本剧","欧美剧","动作片","喜剧片","科幻片","爱情片","剧情片","战争片","纪录片","动画片","国产动漫","大陆综艺"]},
@@ -100,22 +95,25 @@
 {"key":"荐片","name":"荐片","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/荐片.js"},
   
 {"key":"云盘","name":"云盘","type":3,"api":"csp_AList","searchable":1,"changeable": 0,"ext": "./json/云盘.json","jar":"./libs/G.jar"},
-{"key":"体育","name":"体育","type":3,"api":"py_tiyu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/体育.py"},
-{"key":"音乐","name":"音乐","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable":1,"changeable":1,"filterable":1,"changeable":0},
-{"key":"蜻蜓","name":"蜻蜓","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/蜻蜓.js"},
-{"key":"喜雅","name":"喜雅","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/喜雅.js"},
-{"key":"清风","name":"清风","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/清风.js"},
-{"key":"啦啦","name":"啦啦","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/啦啦.js"},
+  
+{"key":"体育","name":"体育","type":3,"api":"py_tiyu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/体育.py"}, 
+{"key":"央视〔py〕","name":"央视","type":3,"api":"py_cctv_new","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/央视.py"},
+{"key":"央视〔js〕","name":"央视","type":3,"api":"./open/cntv_open.js","searchable":1,"changeable":1}, 
 
+{"key":"音乐","name":"音乐MV","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable":1,"changeable":1,"filterable":1,"changeable":0},
+{"key":"蜻蜓FM","name":"蜻蜓FM","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/蜻蜓.js"},
+{"key":"喜马拉雅FM","name":"喜马拉雅FM","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/喜雅.js"},
+{"key":"清风","name":"清风DJ","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/清风.js"},
+{"key":"啦啦","name":"啦啦","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/啦啦.js"},
 
 {"key":"世纪","name":"世纪","type":3,"api":"./open/dj0898_open.js","searchable":1,"changeable":1},
 {"key":"听书","name":"听书","type":3,"api":"./open/230ts_open.js","searchable":1,"changeable":1},  
-{"key":"视频","name":"视频","type":3,"api":"./open/sharenice_open.js","searchable":1,"changeable":1},
-{"key":"乐虎","name":"乐虎","type":3,"api":"./open/ubestkid_open.js","searchable":1,"changeable":1},
+{"key":"短视频","name":"短视频","type":3,"api":"./open/sharenice_open.js","searchable":1,"changeable":1},
+{"key":"贝乐虎","name":"贝乐虎","type":3,"api":"./open/ubestkid_open.js","searchable":1,"changeable":1},
   
-{"key":"小贝","name":"小贝","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/小贝.json"},
-{"key":"少儿","name":"少儿","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/少儿.json"},
+{"key":"兔小贝","name":"兔小贝","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/小贝.json"},
 {"key":"童趣","name":"童趣","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/童趣.js"},
+{"key":"少儿","name":"少儿","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/少儿.json"},
 {"key":"小学","name":"小学","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/小学.json"},
 {"key":"初中","name":"初中","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/初中.json"},
 {"key":"高中","name":"高中","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/高中.json"}],
