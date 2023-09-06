@@ -89,7 +89,6 @@
 {"key":"云播","name":"云播","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/云播.js"},
 {"key":"优美","name":"优美","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/优美.js"},
 {"key":"厂长","name":"厂长","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/厂长.js"},
-{"key":"机器","name":"机器","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/机器.js"},
 {"key":"花猪","name":"花猪","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/花猪.js"},
 {"key":"爱看","name":"爱看","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/爱看.js"},
 {"key":"剧白","name":"剧白","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/剧白.js"},
