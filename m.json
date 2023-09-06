@@ -15,6 +15,7 @@
 {"key":"利播","name":"利播","type":3,"api":"./open/libvio_open.js","searchable":1,"changeable":1}, 
 {"key":"南瓜","name":"南瓜","type":3,"api":"./open/ng_open.js","searchable":1,"changeable":1}, 
 {"key":"在线","name":"在线","type":3,"api":"./open/zxzj_open.js","searchable":1,"changeable":1}, 
+{"key":"机器","name":"机器","type":3,"api":"./open/ikanbot_open.js","searchable":1,"changeable":1}, 
 {"key":"央视","name":"央视","type":3,"api":"./open/cntv_open.js","searchable":1,"changeable":1}, 
 
 
