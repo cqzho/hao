@@ -12,7 +12,6 @@
 {"key":"哔哩","name":"哔哩","type":3,"api":"./open/mybili_open.js","searchable":1,"changeable":1},
 {"key":"七七","name":"七七","type":3,"api":"./open/kunyu77_open.js","searchable":1,"changeable":1}, 
 {"key":"快看","name":"快看","type":3,"api":"./open/kkys_open.js","searchable":1,"changeable":1}, 
-{"key":"机器","name":"机器","type":3,"api":"./open/ikanbot_open.js","searchable":1,"changeable":1}, 
 {"key":"利播","name":"利播","type":3,"api":"./open/libvio_open.js","searchable":1,"changeable":1}, 
 {"key":"南瓜","name":"南瓜","type":3,"api":"./open/ng_open.js","searchable":1,"changeable":1}, 
 {"key":"在线","name":"在线","type":3,"api":"./open/zxzj_open.js","searchable":1,"changeable":1}, 
@@ -111,11 +110,10 @@
 {"key":"啦啦","name":"啦啦","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/啦啦.js"},
 
 
-{"key":"世纪","name":"世纪","type":3,"api":"./open/dj0898_open.js"},
-{"key":"酷奇","name":"酷奇","type":3,"api":"./open/kuqimv_open.js"},
-{"key":"听书","name":"听书","type":3,"api":"./open/230ts_open.js"},  
-{"key":"视频","name":"视频","type":3,"api":"./open/sharenice_open.js"},
-{"key":"乐虎","name":"乐虎","type":3,"api":"./open/ubestkid_open.js"},
+{"key":"世纪","name":"世纪","type":3,"api":"./open/dj0898_open.js","searchable":1,"changeable":1},
+{"key":"听书","name":"听书","type":3,"api":"./open/230ts_open.js","searchable":1,"changeable":1},  
+{"key":"视频","name":"视频","type":3,"api":"./open/sharenice_open.js","searchable":1,"changeable":1},
+{"key":"乐虎","name":"乐虎","type":3,"api":"./open/ubestkid_open.js","searchable":1,"changeable":1},
   
 {"key":"小贝","name":"小贝","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/小贝.json"},
 {"key":"少儿","name":"少儿","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/少儿.json"},
