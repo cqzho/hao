@@ -14,8 +14,6 @@
 {"key":"快看","name":"快看","type":3,"api":"./open/kkys_open.js","searchable":1,"changeable":1}, 
 {"key":"利播","name":"利播","type":3,"api":"./open/libvio_open.js","searchable":1,"changeable":1}, 
 {"key":"南瓜","name":"南瓜","type":3,"api":"./open/ng_open.js","searchable":1,"changeable":1}, 
-{"key":"在线","name":"在线","type":3,"api":"./open/zxzj_open.js","searchable":1,"changeable":1}, 
-{"key":"机器","name":"机器","type":3,"api":"./open/ikanbot_open.js","searchable":1,"changeable":1}, 
 {"key":"央视","name":"央视","type":3,"api":"./open/cntv_open.js","searchable":1,"changeable":1}, 
 
 
@@ -91,7 +89,7 @@
 {"key":"云播","name":"云播","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/云播.js"},
 {"key":"优美","name":"优美","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/优美.js"},
 {"key":"厂长","name":"厂长","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/厂长.js"},
-//{"key":"机器","name":"机器","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/机器.js"},
+{"key":"机器","name":"机器","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/机器.js"},
 {"key":"花猪","name":"花猪","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/花猪.js"},
 {"key":"爱看","name":"爱看","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/爱看.js"},
 {"key":"剧白","name":"剧白","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/剧白.js"},
