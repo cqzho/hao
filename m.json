@@ -35,7 +35,7 @@
 {"key":"比特","name":"比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","categories":["国产剧"]},
   
 {"key":"奥特","name":"奥特","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/奥特.json"},    
-{"key":"奇优","name":"奇优","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/奇优.json"},
+//{"key":"奇优","name":"奇优","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/奇优.json"},
 {"key":"生火","name":"生火","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/生火.json"},
 {"key":"素白","name":"素白","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/素白.json"},
 {"key":"维度","name":"维度","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/维度.json"},
@@ -78,6 +78,7 @@
 
 {"key":"南瓜","name":"南瓜","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/南瓜.js"},
 {"key":"六度","name":"六度","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/六度.js","categories":["电影","电视剧","动漫","综艺"]},
+{"key":"奇优","name":"奇优","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/奇优.js"},
 {"key":"三九","name":"三九","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/三九.js"},
 {"key":"云播","name":"云播","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/云播.js"},
 {"key":"优美","name":"优美","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/优美.js"},
