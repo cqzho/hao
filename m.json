@@ -9,7 +9,6 @@
 //{"key":"哔哩〔sp〕","name":"哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/哔哩.json"},
 {"key":"七七","name":"七七","type":3,"api":"./open/kunyu77_open.js","searchable":1,"changeable":1}, 
 {"key":"快看","name":"快看","type":3,"api":"./open/kkys_open.js","searchable":1,"changeable":1}, 
-{"key":"利播","name":"利播","type":3,"api":"./open/libvio_open.js","searchable":1,"changeable":1}, 
 
   
 //json采集接口type：1,xml采集接口type：0
@@ -48,8 +47,6 @@
 {"key":"三亿","name":"三亿","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/三亿.json"},
 {"key":"惊艳","name":"惊艳","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/G.jar","ext":"./json/惊艳.json"},
   
-//{"key":"六度","name":"六度","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/六度.json"},
-
 {"key":"耐看","name":"耐看","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/耐看.json"}, 
 {"key":"卧佛","name":"卧佛","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/卧佛.json"},   
 {"key":"蓝光","name":"蓝光","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/蓝光.json"},  
@@ -80,6 +77,7 @@
 {"key":"茉莉","name":"茉莉","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/茉莉.json"},
 
 {"key":"南瓜","name":"南瓜","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/南瓜.js"},
+{"key":"利播","name":"利播","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/利播.js"},
 {"key":"六度","name":"六度","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/六度.js","categories":["电影","连续剧","动漫","综艺"]},
 {"key":"三九","name":"三九","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/三九.js"},
 {"key":"云播","name":"云播","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/云播.js"},
