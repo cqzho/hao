@@ -4,6 +4,7 @@
 {"key":"快看","name":"快看","type":3,"api":"./open/kkys_open.js","searchable":1,"changeable":1}, 
 {"key":"厂长","name":"厂长","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/厂长.js"},
 {"key":"南瓜","name":"南瓜","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/南瓜.js"},
+{"key":"视觉","name":"视觉","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/视觉.js"},
 {"key":"比特","name":"比特","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/比特.js","categories":["国产剧"]},
 {"key":"六度","name":"六度","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/六度.js","categories":["电影","电视剧","动漫","综艺"]},
 {"key":"零七","name":"零七","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/零七.js","categories":["电影","电视剧","动漫","综艺"]},
@@ -49,7 +50,7 @@
   
 {"key":"卧佛","name":"卧佛","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/卧佛.json"},   
 {"key":"蓝光","name":"蓝光","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/蓝光.json"},  
-{"key":"视觉","name":"视觉","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/视觉.json"},
+
 {"key":"可米","name":"可米","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/可米.json"},
 {"key":"不卡","name":"不卡","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/不卡.json"},
 {"key":"达龟","name":"达龟","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/达龟.json"},
