@@ -1,12 +1,5 @@
 {"sites":[
 {"key":"豆瓣","name":"豆瓣","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/豆瓣.js"},
-{"key":"腾讯","name":"腾讯","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"./libs/fan.txt"},
-{"key":"奇艺","name":"奇艺","type":3,"api":"csp_Itv","quickSearch":1,"searchable":1,"filterable":1,"changeable":0,"jar":"./libs/fan.txt","categories":["电视","电影","动漫","综艺","记录","儿童"]},
-{"key":"芒果","name":"芒果","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"./libs/fan.txt"},
-{"key":"优酷","name":"优酷","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/优酷.js"},
-{"key":"搜狗","name":"搜狗","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/搜狗.js"},
-{"key":"360","name":"360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"./libs/fan.txt"},
-{"key":"哔哩〔js〕","name":"哔哩","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/哔哩.js","categories":["电影","电视剧","记录片","综艺"]},
 {"key":"七七","name":"七七","type":3,"api":"./open/kunyu77_open.js","searchable":1,"changeable":1}, 
 {"key":"快看","name":"快看","type":3,"api":"./open/kkys_open.js","searchable":1,"changeable":1}, 
 {"key":"利播","name":"利播","type":3,"api":"./open/libvio_open.js","searchable":1,"changeable":1}, 
