@@ -6,7 +6,6 @@
 {"key":"南瓜","name":"南瓜","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/南瓜.js"},
 {"key":"比特","name":"比特","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/比特.js","categories":["国产剧"]},
 {"key":"六度","name":"六度","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/六度.js","categories":["电影","电视剧","动漫","综艺"]},
-{"key":"三九","name":"三九","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/三九.js"},
 {"key":"零七","name":"零七","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/零七.js","categories":["电影","电视剧","动漫","综艺"]},
 {"key":"热播","name":"热播","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/热播.js"},
 {"key":"云播","name":"云播","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/云播.js"},
