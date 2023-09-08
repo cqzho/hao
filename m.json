@@ -54,7 +54,6 @@
 {"key":"红领","name":"红领","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/红领.json"},
 {"key":"看剧","name":"看剧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/看剧.json"},
 {"key":"乐鱼","name":"乐鱼","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/乐鱼.json"},
-{"key":"奈飞","name":"奈飞","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/奈飞.json"},
 {"key":"欧克","name":"欧克","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/欧克.json"},
 {"key":"七侠","name":"七侠","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/七侠.json"},
 {"key":"奇趣","name":"奇趣","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/奇趣.json"},
