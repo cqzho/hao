@@ -39,7 +39,7 @@
 {"key":"北川","name":"北川","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/fan.txt","ext":"./json/北川.json"},
 {"key":"土豪","name":"土豪","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/fan.txt","ext":"./json/土豪.json"},
 {"key":"明帝","name":"明帝","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/fan.txt","ext":"./json/明帝.json"},
-{"key":"思古","name":"思古","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/fan.txt","ext":"./json/思古.json","categories":["国剧","港台","综艺","动漫"]},
+//{"key":"思古","name":"思古","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/fan.txt","ext":"./json/思古.json","categories":["国剧","港台","综艺","动漫"]},
 {"key":"三亿","name":"三亿","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/fan.txt","ext":"./json/三亿.json"},
 {"key":"惊艳","name":"惊艳","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/fan.txt","ext":"./json/惊艳.json"},
   
@@ -74,6 +74,7 @@
 
 {"key":"南瓜","name":"南瓜","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/南瓜.js"},
 {"key":"六度","name":"六度","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/六度.js","categories":["电影","电视剧","动漫","综艺"]},
+{"key":"思古","name":"思古","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/思古.js"},
 {"key":"三九","name":"三九","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/三九.js"},
 {"key":"热播","name":"热播","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/热播.js"},
 {"key":"云播","name":"云播","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/云播.js"},
