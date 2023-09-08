@@ -27,6 +27,7 @@
 {"key":"哔嘀","name":"哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"明明","name":"明明","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/fan.txt"}, 
 {"key":"工厂","name":"工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/fan.txt","ext":"http://www.ysgc.fun"},
+{"key":"一起","name":"一起","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
   
 {"key":"奥特","name":"奥特","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/fan.txt","ext":"./json/奥特.json"},    
 {"key":"素白","name":"素白","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/fan.txt","ext":"./json/素白.json"},
