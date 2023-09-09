@@ -1,10 +1,9 @@
 //首页的栏目可以自己设置标题名称和图片，key不用排序，是列表页的识别标志，每个栏目的顺序也可以手动排序。注意最后一个不用加,号
 {"Home": [
-{"key":"影视","title":"影视点播","pic":"https://pic.netbian.com/uploads/allimg/210114/232459-1610637899a88a.jpg"},
-{"key":"直播","title":"电视直播","pic":"https://pic.netbian.com/uploads/allimg/210114/224605-1610635565f58d.jpg"},
-{"key":"历史","title":"历史记录","pic":"https://pic.netbian.com/uploads/allimg/191116/231011-15739170113efd.jpg"},  
-{"key":"收藏","title":"我的收藏","pic":"https://pic.netbian.com/uploads/allimg/180629/120918-15302453582fb7.jpg"},
-{"key":"推送","title":"远程推送","pic":"https://pic.netbian.com/uploads/allimg/200808/000233-159681615365a2.jpg"}],
+{"key":"APP","title":"APP电影","pic":"http://8.210.232.168/bb/tp/bb/1.png"},
+{"key":"网页","title":"电影网站","pic":"http://8.210.232.168/bb/tp/bb/2.png"},
+{"key":"采集","title":"采集电影","pic":"http://8.210.232.168/bb/tp/bb/3.png"},
+{"key":"直播","title":"电视直播","pic":"http://8.210.232.168/bb/tp/bb/4.png"},
 "去广告规则":[
 {"名字":"LZ",
 "寻找词":"vip.lz#hd.lz",
