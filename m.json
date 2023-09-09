@@ -18,6 +18,7 @@
 {"key":"光棍","name":"光棍","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/光棍.js"},
 {"key":"花猫","name":"花猫","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/花猫.js"},
 {"key":"米爱","name":"米爱","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/米爱.js"},
+{"key":"小狗","name":"小狗","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/小狗.js"},
 {"key":"荐片","name":"荐片","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/荐片.js"},
   
 //json采集接口type：1,xml采集接口type：0
