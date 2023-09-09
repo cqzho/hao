@@ -8,6 +8,7 @@
 {"key":"六度","name":"六度","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/六度.js","categories":["电影","电视剧","动漫","综艺"]},
 {"key":"零七","name":"零七","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/零七.js","categories":["电影","电视剧","动漫","综艺"]},
 {"key":"六九","name":"六九","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/六九.js"},
+{"key":"三五","name":"三五","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/三五.js"},
 {"key":"热播","name":"热播","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/热播.js"},
 {"key":"优美","name":"优美","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/优美.js"},
 {"key":"生活","name":"生活","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/生活.js"},
