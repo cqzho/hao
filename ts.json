@@ -1,11 +1,11 @@
 {"Home": [
-{"key":"APP","title":"APP电影","pic":"./img/1.png"},
-{"key":"网页","title":"电影网站","pic":"./img/2.png"},
-{"key":"采集","title":"采集电影","pic":"./img/3.png"},
-{"key":"直播","title":"电视直播","pic":"./img/4.png"},
-{"key":"历史","title":"历史记录","pic":"./img/5.png"},  
-{"key":"收藏","title":"我的收藏","pic":"./img/6.png"},
-{"key":"推送","title":"远程推送","pic":"./img/7.png"}],
+{"key":"APP","title":"APP电影","pic":"https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/img/1.png"},
+{"key":"网页","title":"电影网站","pic":"https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/img/2.png"},
+{"key":"采集","title":"采集电影","pic":"https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/img/3.png"},
+{"key":"直播","title":"电视直播","pic":"https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/img/4.png"},
+{"key":"历史","title":"历史记录","pic":"https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/img/5.png"},  
+{"key":"收藏","title":"我的收藏","pic":"https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/img/6.png"},
+{"key":"推送","title":"远程推送","pic":"https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/img/7.png"}],
 
 "去广告规则":[
 {"名字":"LZ","寻找词":"vip.lz#hd.lz","正则规则": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
