@@ -36,31 +36,10 @@
 ],
 
 "去广告规则":[
-{"名字":"LZ",
-"寻找词":"vip.lz#hd.lz",
-"正则规则": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-            ]
-},
+{"名字":"LZ","寻找词":"vip.lz#hd.lz","正则规则": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+{"名字":"星星","寻找词":"aws.ulivetv.net","正则规则": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY"]}, 
+{"名字":"FF","寻找词":"vip.ffzy#hd.ffzy","正则规则":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]}],
 
-{"名字":"星星",
-"寻找词":"aws.ulivetv.net",
-"正则规则": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-            ]
-}, 
-{"名字":"FF",
-"寻找词":"vip.ffzy#hd.ffzy",
-"正则规则":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]
-}
-],
-//{"name":"填接口名称","url":"http://xxx/api.php/v1.vod"},
-//{"name":"填接口名称","url":"https://xxx/xgapp.php/v1/"},
-//{"name":"填接口名称","url":"http://xxx/api.php/app/"},
-//{"name":"填接口名称","url":"https://xxx/xgapp.php/v2/"},
-//{"name":"填接口名称","url":"http://xxx/mogai_api.php/v1.vod"},
 //填写APP接口，支持以下5种接口格式。
 "zhuyejiekou": [
 {"name":"影探4K","url":"http://vipcms.lyyytv.cn/api.php/app/"},
@@ -139,7 +118,6 @@
 {"name":"180","url":"https://jx.000180.top/jx/?url=","mobile":0},
 {"name":"8090","url":"https://www.8090g.cn/?url=","mobile":0}],
 
-
 //备用解析是常规格式的解析
 "beiyongjiexi":[
 {"name":"B站1","url":"https://jx.jsonplayer.com/player/?url=","mobile":1},
@@ -155,8 +133,6 @@
 {"name":"云析","url":"https://jx.yparse.com/index.php?url=","mobile":0},
 {"name":"180","url":"https://jx.000180.top/jx/?url=","mobile":0},
 {"name":"8090","url":"https://www.8090g.cn/?url=","mobile":0}],
-
-
 
 //填写电视直播的接口链接
 "dianshizhibo": "https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/live.txt",
@@ -4902,10 +4878,6 @@
 "搜索链接前缀": "空",
 "搜索链接后缀": "空"},
 
-
-
-
-
 {"网站名字": "菠萝蜜APP",
 "网站地址": "https://60539.xyz/",
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
@@ -4960,11 +4932,6 @@
 "搜索链接": "href=\"$$\"",
 "搜索链接前缀": "空",
 "搜索链接后缀": "空"},
-
-
-
-
-
 
 {"网站名字": "中文",
 "网站地址": "https://612188.xyz/",
@@ -5124,136 +5091,6 @@
 "搜索链接前缀": "空",
 "搜索链接后缀": "空"},
 
-
-
-
-
-
-
-{"网站名字": "漫画",
-"网站地址": "https://312521.xyz/",
-"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"访问请求cookie": "空",
-"访问请求referer": "空",
-"播放请求头": "User-Agent$123",
-"图片请求头": "空",
-"网页编码": "utf-8",
-"列表起始页": "1",
-"列表分类": "一区$/cc/1.php?id=2&page=#二区$/c/1.php?id=2&page=#三区$/ca/1.php?id=2&page=#四区$/cb/1.php?id=2&page=#五区$/cd/1.php?id=2&page=#六区$/c/c/1.php?id=2&page=",
-"列表后缀": "",
-"列表二次截取": "class=\"list$$</ul>",
-"列表截取数组": "<a$$</a>",
-"列表图片前缀": "空",
-"列表图片": "data-original=\"$$\"",
-"列表标题": "class=\"title\">$$</div>",
-"列表副标题": "class=\"author\">作者:$$</div>",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "空",
-"列表链接后缀": "空",
-"搜索请求方式": "0",
-"搜索模式": "1",
-"搜索前": "https://312521.xyz/ca/a.php?key=",
-"搜索后": "",
-"搜索连接后缀": "/vod/",
-"搜索二次截取": "class=\"list$$</ul>",
-"搜索截取数组": "<a$$</a>",
-"搜索图片前缀": "空",
-"搜索图片": "data-original=\"$$\"",
-"搜索标题": "class=\"title\">$$</div>",
-"搜索副标题": "last_chapter_name\":\"$$\"",
-"搜索链接": "href=\"$$\"",
-"搜索链接前缀": "空",
-"搜索链接后缀": "空",
-"播放页状态": "狀態：$$</p>",
-"播放页导演": "class=\"author\">作者:$$</div>",
-"播放页演员": "題材：$$</p>",
-"播放页剧情": "class=\"des\">$$</div>",
-"播放页二次截取": "空",
-"播放页截取数组": "class=\"list$$</ul>",
-"播放剧集二次截取": "空",
-"播放剧集截取数组": "<a$$</a>",
-"播放剧集标题": "class=\"content\">$$</div>",
-"播放剧集链接": "href=\"$$\"",
-"播放剧集链接前缀": "空",
-"播放剧集链接后缀": "空",
-"播放页跳转看图": "1"},
-
-{"网站名字": "色小说【点高清跳转】",
-"网站地址": "https://61671.xyz/",
-"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"访问请求cookie": "空",
-"访问请求referer": "空",
-"播放请求头": "User-Agent$123",
-"图片请求头": "空",
-"网页编码": "utf-8",
-"禁用搜索": "0",
-"搜索手动验证": "0",
-"集数倒序": "0",
-"是否启用解析模式": "0",
-"自动点击字符": "空",
-"启用js加载源码":"0",
-"js加载源码时间":"5",
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
-"是否记录历史": "0",
-"直接播放": "1",
-"列表显示": "0",
-"横图显示": "0",
-"列表起始页": "1",
-"列表分类": "小说一区$/dd/a.php?page=#小说二区$/dd/e.php?page=",
-"列表后缀": "",
-"列表二次截取": "空",
-"列表截取数组": "class=\"colNovelList\"$$</a>",
-"列表图片前缀": "空",
-"列表图片": "https://us1.myximage.com/2022/08/14/e12d31359b084b8528a1a85ddb3c8c68.gif$$\"",
-"列表标题": "class=\"container-title\">$$</div>",
-"列表副标题": "class=\"pic-text text-right\">$$</span>",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "空",
-"列表链接后缀": "空",
-"播放页跳转看图": "1"},
-
-
-{"网站名字": "K片{伦理}",
-"网站地址": "",
-"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"访问请求cookie": "空",
-"访问请求referer": "空",
-"播放请求头": "User-Agent$123",
-"图片请求头": "空",
-"网页编码": "utf-8",
- 
-//0：不禁用，1：禁用
-"禁用搜索": "0",
- 
-//0：不启用，1：启用
-"启用js加载源码":"0",
-"js加载源码时间":"5",
- 
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com#?v=",
- 
-//0：记录，1：不记录
-"是否记录历史": "0",
- 
-//0：否，1：是
-"直接播放": "1",
-"列表显示": "0",
-"横图显示": "0",
-"列表起始页": "1",
-"列表分类": "国产伦理$https://www.412516.xyz/b/1.php?id=2&page=&page=#日本伦理$https://www.412516.xyz/b/1.php?id=12&page=#韩国伦理$https://www.412516.xyz/b/1.php?id=3&page=#三级伦理$https://www.412516.xyz/b/1.php?id=1&page=#欧美伦理$https://www.412516.xyz/b/1.php?id=4&page=",
-"列表后缀": "",
-"列表二次截取": "空",
-"列表截取数组": "class=\"photo-elem$$</div>",
-"列表图片前缀": "空",
-"列表图片": "data-original=\"$$\"",
-"列表标题": "mb-3\">$$</a>",
-"列表副标题": "class=\"pic-text text-right\">$$</span>",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "https://www.412516.xyz",
-"列表链接后缀": "空"},
-
-
 {"网站名字": "Y片",
 "网站地址": "https://612259.xyz/",
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
@@ -5377,9 +5214,6 @@
 "播放剧集链接": "\"link\":\"$$\"",
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空"},
-
-
-
 
 {"网站名字": "影視部落VIP專區",
 "网站地址": "https://www.kxfnv2.club/",
