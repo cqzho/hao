@@ -69,6 +69,7 @@
 {"key":"体育","name":"体育","type":3,"api":"py_tiyu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/体育.py"}, 
 {"key":"央视〔py〕","name":"央视","type":3,"api":"py_cctv_new","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/央视.py"},
 {"key":"央视〔js〕","name":"央视","type":3,"api":"./open/cntv_open.js","searchable":1,"changeable":1}, 
+{"key":"博看","name":"博看","type":3,"api":"./open/bookan_open.js","searchable":1,"changeable":1}, 
 {"key":"哔哩","name":"哔哩","type":3,"api":"./open/mybili_open.js","searchable":1,"changeable":1},
 {"key":"乐虎","name":"乐虎","type":3,"api":"./open/ubestkid_open.js","searchable":1,"changeable":1},
 {"key":"小贝","name":"小贝","type":3,"api":"./open/tuxiaobei_open.js","searchable":1,"changeable":1},
