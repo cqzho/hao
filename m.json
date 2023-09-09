@@ -9,6 +9,7 @@
 {"key":"零七","name":"零七","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/零七.js","categories":["电影","电视剧","动漫","综艺"]},
 {"key":"六九","name":"六九","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/六九.js"},
 {"key":"热播","name":"热播","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/热播.js"},
+{"key":"在线","name":"在线","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/在线.js"},
 {"key":"优美","name":"优美","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/优美.js"},
 {"key":"生活","name":"生活","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/生活.js"},
 {"key":"花猪","name":"花猪","type":3,"api":"./libs/drpy.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/花猪.js"},
@@ -37,7 +38,7 @@
 
 {"key":"明明","name":"明明","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/fan.txt"}, 
 {"key":"工厂","name":"工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"jar":"./libs/fan.txt","ext":"http://www.ysgc.fun"},
-{"key":"在线","name":"在线","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzj.pro/","jar":"./libs/fan.txt"},
+//{"key":"在线","name":"在线","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzj.pro/","jar":"./libs/fan.txt"},
 {"key":"影探","name":"影探","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"vip.lyyytv.cn","jar":"./libs/fan.txt"},
 {"key":"农民","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"./json/农民.json","jar":"./libs/fan.txt"},
 {"key":"云盘","name":"云盘","type":3,"api":"csp_AList","searchable":1,"changeable": 0,"ext": "./json/云盘.json","jar":"./libs/fan.txt"},
