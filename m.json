@@ -32,7 +32,6 @@
 {"key":"丫丫","name":"丫丫","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.netfly.tv/api.php/app/"},
 {"key":"迷你","name":"迷你","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},  //备用网址http://www.miniku.cc/xgapp.php/v2/
 {"key":"速看","name":"速看","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://sk100.tv/api.php/app/"},
-{"key":"三五","name":"三五","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.xawqxh.net/api.php/app/"},
 {"key":"明帝","name":"明帝","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://ys.md214.cn/api.php/app/"},
 {"key":"如意","name":"如意","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 {"key":"例子","name":"梨子","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://lzys9.xyz/api.php/app/"},
