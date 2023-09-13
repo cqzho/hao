@@ -22,7 +22,7 @@
 {"key":"荐片","name":"荐片","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/荐片.js"},
   
 //json采集接口type：1,xml采集接口type：0
-{"key":"暴风","name":"暴风","type":0,"api":"https://bfzy.tv/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","韩国剧","日本剧","欧美剧","动作片","喜剧片","科幻片","爱情片","剧情片","战争片","纪录片","动画片","国产动漫","大陆综艺"]},
+//{"key":"暴风","name":"暴风","type":0,"api":"https://bfzy.tv/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","韩国剧","日本剧","欧美剧","动作片","喜剧片","科幻片","爱情片","剧情片","战争片","纪录片","动画片","国产动漫","大陆综艺"]},
 {"key":"量子","name":"量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产剧","短剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","大陆综艺"]},
 {"key":"非凡","name":"非凡","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","欧美剧","韩国剧","日本剧","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","大陆综艺"]},
 {"key":"爱酷","name":"爱酷","type":0,"api":"https://api.iku.cool/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["电影","连续剧","动漫","综艺"]},
@@ -30,10 +30,14 @@
 {"key":"红光","name":"红光","type":0,"api":"https://hong.hgyx.vip/api.php/provide/vod/at/xml","searchable":1,"changeable":1},
 
 {"key":"酷影","name":"酷影","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","categories":["电影","电视剧","综艺","动漫"]},
-{"key":"丫丫","name":"丫丫","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://yanetflix.me/api.php/app/"},
+{"key":"丫丫","name":"丫丫","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.netfly.tv/api.php/app/"},
 {"key":"迷你","name":"迷你","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},  //备用网址http://www.miniku.cc/xgapp.php/v2/
 {"key":"速看","name":"速看","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://sk100.tv/api.php/app/"},
-
+{"key":"三五","name":"三五","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.xawqxh.net/api.php/app/"},
+{"key":"明帝","name":"明帝","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://ys.md214.cn/api.php/app/"},
+{"key":"如意","name":"如意","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
+{"key":"例子","name":"梨子","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://lzys9.xyz/api.php/app/"},
+  
 {"key":"低端","name":"低端","type":3,"api":"csp_Ddys","searchable":1,"changeable":1},
 {"key":"哔嘀","name":"哔嘀","type":3,"api":"csp_Bdys","searchable":1,"changeable":1},
 
