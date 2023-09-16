@@ -20,6 +20,7 @@
 {"key":"米爱","name":"米爱","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/米爱.js"},
 {"key":"小狗","name":"小狗","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/小狗.js"},
 {"key":"荐片","name":"荐片","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/荐片.js"},
+  
 //json采集接口type：1,xml采集接口type：0
 {"key":"量子","name":"量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产剧","短剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","大陆综艺"]},
 {"key":"非凡","name":"非凡","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","欧美剧","韩国剧","日本剧","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","大陆综艺"]},
@@ -58,7 +59,8 @@
 {"key":"悟空","name":"悟空","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://dapi.pntao.com/api.php/v1.vod"},
 {"key":"君离","name":"君离","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://jlys6.top/mogai_api.php/v1.vod"},
 {"key":"苹果","name":"苹果","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://hwdwd.com/mogai_api.php/v1.vod"},
-{"key":"彩虹","name":"彩虹","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://ys.qtw.asia/lvdou_api.php/v1.vod"}
+{"key":"彩虹","name":"彩虹","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://ys.qtw.asia/lvdou_api.php/v1.vod"},
+  
 {"key":"低端","name":"低端","type":3,"api":"csp_Ddys","searchable":1,"changeable":1},
 {"key":"哔嘀","name":"哔嘀","type":3,"api":"csp_Bdys","searchable":1,"changeable":1},
 {"key":"明明","name":"明明","type":3,"api":"csp_AppMr","searchable":1,"changeable":1,"jar":"./libs/fan.txt"}, 
@@ -66,12 +68,14 @@
 {"key":"影探","name":"影探","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"changeable":1,"ext":"vip.lyyytv.cn","jar":"./libs/fan.txt"},
 {"key":"农民","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"changeable":1,"ext":"./json/农民.json","jar":"./libs/fan.txt"},
 {"key":"云盘","name":"云盘","type":3,"api":"csp_AList","searchable":1,"changeable":1,"ext": "./json/云盘.json","jar":"./libs/fan.txt"},
+  
 {"key":"奥特","name":"奥特","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/奥特.json"},    
 {"key":"素白","name":"素白","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/素白.json"},
 {"key":"维度","name":"维度","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/维度.json"},
 {"key":"北川","name":"北川","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/北川.json"},
 {"key":"土豪","name":"土豪","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/土豪.json"},
 {"key":"惊艳","name":"惊艳","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/惊艳.json"},
+  
 {"key":"卧佛","name":"卧佛","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/卧佛.json"},   
 {"key":"蓝光","name":"蓝光","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/蓝光.json"},  
 {"key":"达龟","name":"达龟","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/达龟.json"},
@@ -89,9 +93,10 @@
 {"key":"五五","name":"五五","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/五五.json"},
 {"key":"兄弟","name":"兄弟","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/兄弟.json"},
 {"key":"茉莉","name":"茉莉","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/茉莉.json"},
-//{"key":"音乐","name":"音乐","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable":1,"changeable":1},  
-//{"key":"体育","name":"体育","type":3,"api":"py_tiyu","searchable":1,"changeable":1,"ext":"./py/体育.py"}, 
-//{"key":"央视〔py〕","name":"央视","type":3,"api":"py_cctv_new","searchable":1,"changeable":1,"ext":"./py/央视.py"},
+
+{"key":"音乐","name":"音乐","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable":1,"changeable":1},  
+{"key":"体育","name":"体育","type":3,"api":"py_tiyu","searchable":1,"changeable":1,"ext":"./py/体育.py"}, 
+{"key":"央视〔py〕","name":"央视","type":3,"api":"py_cctv_new","searchable":1,"changeable":1,"ext":"./py/央视.py"},
 {"key":"央视〔js〕","name":"央视","type":3,"api":"./open/cntv_open.js","searchable":1,"changeable":1}, 
 {"key":"哔哩","name":"哔哩","type":3,"api":"./open/mybili_open.js","searchable":1,"changeable":1},
 {"key":"乐虎","name":"乐虎","type":3,"api":"./open/ubestkid_open.js","searchable":1,"changeable":1},
