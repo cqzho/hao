@@ -2,6 +2,7 @@
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/m.json","name":"线路①"},
 {"url":"https://fongmi.cachefly.net/cqzho/hao/main/m.json","name":"线路②"},
 {"url":"https://6666.eu.org/m.json","name":"线路③"},
+{"url":"https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/open.json","name":"open线路"},
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json","name":"高天流云 No.1"},
 {"url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json","name":"高天流云 PG"},
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json","name":"高天流云 FTY"},
