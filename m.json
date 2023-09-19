@@ -27,7 +27,6 @@
 {"key":"纽约","name":"纽约","type":0,"api":"https://www.nycvod.com/api.php/provide/vod/at/xml","searchable":1,"changeable":1,"categories":["国产剧","港台剧","动作片","喜剧片","科幻片","战争片","犯罪片","冒险片"]},
 {"key":"红光","name":"红光","type":0,"api":"https://hong.hgyx.vip/api.php/provide/vod/at/xml","searchable":1,"changeable":1},
 
-{"key":"kuaikan","name":"kkys","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://api1.baibaipei.com:8899/api.php/"},
 {"key":"酷影","name":"酷影","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","categories":["电影","电视剧","综艺","动漫"]},
 {"key":"丫丫","name":"丫丫","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.netfly.tv/api.php/app/","categories":["电影","剧集","综艺","动漫"]},
 {"key":"速看","name":"速看","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://sk100.tv/api.php/app/","categories":["电影","连续剧","综艺","动漫"]},
