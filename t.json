@@ -1,5 +1,5 @@
 {"Home": [
-{"key":"APP","title":"APP","pic":"https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/img/Movie.png"},
+{"key":"APP","title":"APP","pic":"https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/img/APP.jpg"},
 {"key":"网页","title":"网页","pic":"https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/img/wy.jpg"},
 {"key":"采集","title":"采集","pic":"https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/img/cj.jpg"},
 {"key":"直播","title":"直播","pic":"https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/img/zb.jpg"},
@@ -25,7 +25,7 @@
 "custom": "CnsibmFtZSI6ICLkvZPogrItemI4IiwKInVybCI6ICJodHRwczovL3d3dy56aGlibzgubmV0IiwKIlVzZXIiOiAi56m6IiwKIuaYr+WQpuiusOW9leWOhuWPsiI6ICIxIiwKIuebtOaOpeaSreaUviI6ICIxIiwKIuWIl+ihqOaYvuekuiI6ICIxIiwKImZlbmxlaSI6ICLkvZPogrIk56m6IiwKImhvdXpodWkiOiAiIiwKInNoaWZvdWVyY2lqaWVxdSI6ICIwIiwKImppZXF1cWlhbiI6ICLnqboiLAoiamllcXVob3UiOiAi56m6IiwKImppZXF1c2h1enVxaWFuIjogImNsYXNzPVwibWF0Y2gtaXRlbVwiIiwKImppZXF1c2h1enVob3UiOiAiPC9hPiIsCiJ0dXBpYW5xaWFuIjogImh0dHBzOi8vaW1nMC5iYWlkdS5jb20vaXQvdT05NTk2MDcwNDMsMTA1NDIzNzUyMCZmbT0yNTMmZm10PWF1dG8mYXBwPTEzOCZmPUpQRUc/dz00MTcmaD01MDAiLAoidHVwaWFuaG91IjogIlwiIiwKImJpYW90aXFpYW4iOiAiY2xhc3M9XCJjb2wtaG9tZSBmbGV4XCI+IiwKImJpYW90aWhvdSI6ICI8L2Rpdj4iLAoidHVwaWFucWlhbnpodWkiOiAi56m6IiwKImxpYW5qaWVxaWFuIjogImhyZWY9XCIiLAoibGlhbmppZWhvdSI6ICJcIiIsCiJsanFpYW56aHVpIjogIuepuiIsCiJmdWJpYW90aXFpYW4iOiAiY2xhc3M9XCJjb2wtdGltZVwiPiIsCiJmdWJpYW90aWhvdSI6ICIgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+In0="},
 {"key": "自选网页",
 "title": "音乐",
-"pic": "https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/img/Music.png",
+"pic": "https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/img/YY.png",
 "custom": "eyJuYW1lIjogIkRK6Z+z5LmQIiwKInVybCI6ICJodHRwOi8vd3d3LmRqdXUuY29tIiwKIlVzZXIiOiAi56m6IiwKIuebtOaOpeaSreaUviI6ICIxIiwKIuWIl+ihqOaYvuekuiI6ICIxIiwKImZlbmxlaSI6ICLng63mkq0kL3NlYXJjaD9tdXNpY25hbWU954Ot5pKtJmxpc3Q9MiZjaWQ9MCZwYWdlPSPmipbpn7Png63pl6gkL3NlYXJjaD9tdXNpY25hbWU9JUU2JThBJTk2JUU5JTlGJUIzJmxpc3Q9MiZjaWQ9MCZwYWdlPSPnu4/lhbjml4vlvoskL3NlYXJjaD9tdXNpY25hbWU957uP5YW45peL5b6LJmxpc3Q9MiZjaWQ9MCZwYWdlPSPov6rpq5jkuLLng6ckL2RqbGlzdC8xXyPllorpuqbkuLLng6ckL2RqbGlzdC8xMl8j5Lit5paH5Liy54OnJC9kamxpc3QvMTNfI+WkluivreS4sueDpyQvZGpsaXN0LzE0XyPkuK3oi7HkuLLng6ckL2RqbGlzdC85Nl8j5oWi5pGH5Liy54OnJC9kamxpc3QvMl8j5ZaK6bqm5Liy54OnJC9kamxpc3QvMTVfI0VsZWN0cm8kL2RqbGlzdC8yMl8jUHJvZ0hvdXNlJC9kamxpc3QvMjZfI0Z1bmt5SG91c2UkL2RqbGlzdC85OV8j5ZaK6bqm5pu05aSaJC9kamxpc3QvMjdfI+aFouaRh+S4reaWh+S4sueDpyQvZGpsaXN0LzE2XyPmhaLmrYzkuLLng6ckL2RqbGlzdC8zXyPkuK3mlodSZW1peCQvZGpsaXN0LzRfI+WkluaWh1JlbWl4JC9kamxpc3QvNV8j6LaK5Y2X6byTJC9kamxpc3QvNl8j6YWS5ZCn6aOO5qC8JC9kamxpc3QvN18jTWFzaHVwJC9kamxpc3QvOF8j5Lit5paHRElTQ08kL2RqbGlzdC85XyPlpJbmlodESVNDTyQvZGpsaXN0LzEwXyPkuqTosIroiJ7mm7IkL2RqbGlzdC8xMV8iLAoiaG91emh1aSI6ICIuaHRtbCIsCiJxaXNoaXllIjogIjEiLAoic2hpZm91ZXJjaWppZXF1IjogIjAiLAoiamllcXVxaWFuIjogIuepuiIsCiJqaWVxdWhvdSI6ICLnqboiLAoiamllcXVzaHV6dXFpYW4iOiAiY2xhc3M9XCJpc2dvb2RfbGlzdFwiPiIsCiJqaWVxdXNodXp1aG91IjogIjwvdGQ+IiwKInR1cGlhbnFpYW4iOiAiaW1nIHNyYz1cIiIsCiJ0dXBpYW5ob3UiOiAiXCIiLAoidHVwaWFucWlhbnpodWkiOiAiaHR0cDoiLAoiZnViaWFvdGlxaWFuIjogImNsYXNzPVwic2NfMVwiPlRJTUUiLAoiZnViaWFvdGlob3UiOiAiPC9zcGFuPiIsCiJsaWFuamllcWlhbiI6ICJocmVmPVwiIiwKImxpYW5qaWVob3UiOiAiXCIiLAoibGpxaWFuemh1aSI6ICLnqboiLAoiYmlhb3RpcWlhbiI6ICJ0aXRsZT1cIiIsCiJiaWFvdGlob3UiOiAiXCIifQ=="},
 {"key": "自选网页",
 "title": "电台",
@@ -33,8 +33,7 @@
 "custom": "eyJuYW1lIjogIkZN55S15Y+wIiwKInVybCI6ICJodHRwczovL3d3dy5xaW5ndGluZy5mbS9yYWRpb3BhZ2UvIiwKInVhIjogIk1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTUwIFNhZmFyaS81MzcuMzYiLAoiVXNlciI6ICLnqboiLAoi5piv5ZCm6K6w5b2V5Y6G5Y+yIjogIjEiLAoi55u05o6l5pKt5pS+IjogIjEiLAoiZmVubGVpIjogIuWMl+S6rCQzLyPlpKnmtKUkNS8j5rKz5YyXJDcvI+S4iua1tyQ4My8j5bGx6KW/JDE5LyPlhoXokpnlj6QkMzEvI+i+veWugSQ0NC8j5ZCJ5p6XJDU5LyPpu5HpvpnmsZ8kNjkvI+axn+iLjyQ4NS8j5rWZ5rGfJDk5LyPlronlvr0kMTExLyPnpo/lu7okMTI5LyPmsZ/opb8kMTM5LyPlsbHkuJwkMTUxLyPmsrPljZckMTY5LyPmuZbljJckMTg3LyPmuZbljZckMjAyLyPlub/kuJwkMjE3LyPlub/opb8kMjM5LyPmtbfljZckMjU0LyPph43luoYkMjU3LyPlm5vlt50kMjU5LyPotLXlt54kMjgxLyPkupHljZckMjkxLyPpmZXopb8kMzE2LyPnlJjogoMkMzI3LyPlroHlpI8kMzUxLyPmlrDnloYkMzU3LyPopb/ol48kMzA4LyPpnZLmtbckMzQyLyPnvZHnu5zlj7AkNDA3LyPotYTorq/lj7AkNDMzLyPpn7PkuZDlj7AkNDQyLyPkuqTpgJrlj7AkNDI5LyPnu4/mtY7lj7AkNDM5LyPmlofoibrlj7AkNDMyLyPpg73luILlj7AkNDQxLyPkvZPogrLlj7AkNDMwLyPlj4zor63lj7AkNDMxLyPnu7zlkIjlj7AkNDQwLyPnlJ/mtLvlj7AkNDM4LyPml4XmuLjlj7AkNDM1LyPmm7Loibrlj7AkNDM2LyPmlrnoqIDlj7AkNDM0LyIsCiJob3V6aHVpIjogIiIsCiJxaXNoaXllIjogIjEiLAoic2hpZm91ZXJjaWppZXF1IjogIjAiLAoiamllcXVxaWFuIjogIlsiLAoiamllcXVob3UiOiAiXSIsCiJqaWVxdXNodXp1cWlhbiI6ICJjbGFzcz1cImNvbnRlbnQtaXRlbS1yb290IiwKImppZXF1c2h1enVob3UiOiAiY2xhc3M9XCJpdGVtVGl0bGVSYWRpb1wiIiwKInR1cGlhbnFpYW56aHVpIjogImh0dHBzOiIsCiJ0dXBpYW5xaWFuIjogInNyYz1cIiIsCiJ0dXBpYW5ob3UiOiAiXCIiLAoiYmlhb3RpcWlhbiI6ICJhbHQ9XCIiLAoiYmlhb3RpaG91IjogIlwiIiwKImxpYW5qaWVxaWFuIjogIi9yYWRpb3MvIiwKImxpYW5qaWVob3UiOiAiXCIiLAoibGpxaWFuemh1aSI6ICJodHRwczovL2xodHRwLnFpbmd0aW5nLmZtL2xpdmUvIiwKImxqaG91emh1aSI6ICIvNjRrLm1wMyJ9"},
 {"key":"历史","title":"历史","pic":"https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/img/ls.jpg"},
 {"key":"收藏","title":"收藏","pic":"https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/img/sc.jpg"},
-{"key":"推送","title":"推送","pic":"https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/img/ts.jpg"}
-],
+{"key":"推送","title":"推送","pic":"https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/img/ts.jpg"}],
 
 "去广告规则":[
 {"名字":"LZ","寻找词":"vip.lz#hd.lz","正则规则": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
@@ -100,9 +99,7 @@
 
 "zhujiexi":[
 {"name":"解析1","url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
-{"name":"解析2","url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
-{"name":"解析3","url":"http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="},
-{"name":"解析4","url":"http://47.119.122.235:5566/json/free.php?url="}],
+{"name":"解析2","url":"http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="}],
   
 "beiyongjiexi": [
 {"name":"B站1","url":"https://jx.jsonplayer.com/player/?url="},
