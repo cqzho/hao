@@ -9,10 +9,12 @@
 {"key":"南瓜","name":"南瓜","type":3,"api":"./open/ng_open.js","searchable":1,"changeable":1},
 {"key":"利播","name":"利播","type":3,"api":"./open/libvio_open.js","searchable":1,"changeable":1},
 {"key":"素白","name":"素白","type":3,"api":"./open/subaibai_open.js","searchable":1,"changeable":1},
-  
+{"key":"在线","name":"在线","type":3,"api":"./open/zxzj_open.js","searchable":1,"changeable":1},
+
 {"key":"酷影","name":"酷影","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","categories":["电影","电视剧","综艺","动漫"]},
 {"key":"丫丫","name":"丫丫","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"https://www.netfly.tv/api.php/app/","categories":["电影","剧集","综艺","动漫"]},
 {"key":"速看","name":"速看","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"https://sk100.tv/api.php/app/","categories":["电影","连续剧","综艺","动漫"]},
+{"key":"明帝","name":"明帝","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"https://ys.md214.cn/api.php/app/"},
 {"key":"如意","name":"如意","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/","categories":["电影","电视剧","综艺","动漫"]},
 {"key":"梨子","name":"梨子","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"http://lzys9.xyz/api.php/app/","categories":["电影","连续剧","综艺","动漫"]},
 {"key":"光影","name":"光影","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"http://gymcms.xn--654a.cc/api.php/app/"},
@@ -25,9 +27,7 @@
 {"key":"无限","name":"无限","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"https://www.wxtv.net/api.php/app/"},
 {"key":"天天","name":"天天","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"https://www.ttmja.com/api.php/app/"},
 {"key":"迷你","name":"迷你","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/","categories":["电影","剧集","综艺","动漫"]},
-{"key":"爱迪","name":"爱迪","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 {"key":"酷酷","name":"酷酷","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"http://cms.realdou.cn:35264/api.php/app/"},
-{"key":"天堂","name":"天堂","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"http://dytt996.com/api.php/app/"},
 {"key":"公社","name":"公社","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key":"萌蛋","name":"萌蛋","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},
 {"key":"霹雳","name":"霹雳","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"https://plyy.cc/api.php/v1.vod","categories":["电视剧","综艺","动漫"]},
@@ -37,16 +37,13 @@
 {"key":"阿里","name":"阿里","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"http://aliys.cn:91/api.php/v1.vod"},
 {"key":"零刻","name":"零刻","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"https://ys.51bro.cn/mogai_api.php/v1.vod"},
 {"key":"零六","name":"零六","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"http://max.1006.tk/api.php/v1.vod"},
-{"key":"容易","name":"容易","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"http://51.161.153.234/api.php/v1.vod"},
 {"key":"悟空","name":"悟空","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"http://dapi.pntao.com/api.php/v1.vod"},
 {"key":"君离","name":"君离","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"http://jlys6.top/mogai_api.php/v1.vod"},
 {"key":"苹果","name":"苹果","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"http://hwdwd.com/mogai_api.php/v1.vod"},
-{"key":"彩虹","name":"彩虹","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"http://ys.qtw.asia/lvdou_api.php/v1.vod"},
   
 {"key":"央视","name":"央视","type":3,"api":"./open/cntv_open.js","searchable":1,"changeable":1}, 
 {"key":"哔哩","name":"哔哩","type":3,"api":"./open/mybili_open.js","searchable":1,"changeable":1},
 {"key":"乐虎","name":"乐虎","type":3,"api":"./open/ubestkid_open.js","searchable":1,"changeable":1},
 {"key":"小贝","name":"小贝","type":3,"api":"./open/tuxiaobei_open.js","searchable":1,"changeable":1},
 {"key":"童趣","name":"童趣","type":3,"api":"./open/boosj_open.js","searchable":1,"changeable":1}],
-"rules":[{"name":"海外看","hosts":["haiwaikan"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:2.93[\\s\\S]*?#EXT-X-DISCONTINUITY"]},{"name":"lz","hosts":["vip.lz","hd.lz","v.cdnlz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"ff","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"bf","hosts":["bfzy","s5.bfzycdn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"hs","hosts":["huoshan.com"],"regex":["item_id="]},{"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},{"name":"cl","hosts":["magnet"],"regex":["更多","社區","xuu","最新","最新","直播","更新","社区","有趣","有趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]}]
-}
+"rules":[{"name":"海外看","hosts":["haiwaikan"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:2.93[\\s\\S]*?#EXT-X-DISCONTINUITY"]},{"name":"lz","hosts":["vip.lz","hd.lz","v.cdnlz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"ff","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"bf","hosts":["bfzy","s5.bfzycdn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"hs","hosts":["huoshan.com"],"regex":["item_id="]},{"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},{"name":"cl","hosts":["magnet"],"regex":["更多","社區","xuu","最新","最新","直播","更新","社区","有趣","有趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]}]}
