@@ -18,6 +18,7 @@
 {"key":"花猫","name":"花猫","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/花猫.js"},
 {"key":"米爱","name":"米爱","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/米爱.js"},
 {"key":"小狗","name":"小狗","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/小狗.js"},
+{"key":"达龟","name":"达龟","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/达龟.js"},
 {"key":"荐片","name":"荐片","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/荐片.js"},
   
 //json采集接口type：1,xml采集接口type：0
@@ -74,8 +75,6 @@
   
 {"key":"卧佛","name":"卧佛","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/卧佛.json"},   
 {"key":"蓝光","name":"蓝光","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/蓝光.json"},  
-{"key":"达龟","name":"达龟","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/达龟.json"},
-{"key":"干饭","name":"干饭","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/干饭.json"},
 {"key":"红领","name":"红领","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/红领.json"},
 {"key":"看剧","name":"看剧","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/看剧.json"},
 {"key":"乐鱼","name":"乐鱼","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/乐鱼.json"},
