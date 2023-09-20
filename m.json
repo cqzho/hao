@@ -19,6 +19,14 @@
 {"key":"米爱","name":"米爱","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/米爱.js"},
 {"key":"小狗","name":"小狗","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/小狗.js"},
 {"key":"茉莉","name":"茉莉","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/茉莉.js"},
+
+{"key":"奥特","name":"奥特","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/奥特.js"},
+{"key":"素白","name":"素白","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/素白.js"},
+{"key":"北川","name":"北川","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/北川.js"},
+{"key":"卧佛","name":"卧佛","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/卧佛.js"},
+{"key":"蓝光","name":"蓝光","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/蓝光.js"},
+{"key":"西瓜","name":"西瓜","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/西瓜.js"},
+  
 {"key":"荐片","name":"荐片","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/荐片.js"},
   
 //json采集接口type：1,xml采集接口type：0
@@ -66,15 +74,15 @@
 {"key":"农民","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"changeable":1,"ext":"./json/农民.json","jar":"./libs/fan.txt"},
 {"key":"云盘","name":"云盘","type":3,"api":"csp_AList","searchable":1,"changeable":1,"ext": "./json/云盘.json","jar":"./libs/fan.txt"},
   
-{"key":"奥特","name":"奥特","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/奥特.json"},    
-{"key":"素白","name":"素白","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/素白.json"},
+//{"key":"奥特","name":"奥特","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/奥特.json"},    
+//{"key":"素白","name":"素白","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/素白.json"},
 {"key":"维度","name":"维度","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/维度.json"},
-{"key":"北川","name":"北川","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/北川.json"},
+//{"key":"北川","name":"北川","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/北川.json"},
 {"key":"土豪","name":"土豪","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/土豪.json"},
 {"key":"惊艳","name":"惊艳","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/惊艳.json"},
   
-{"key":"卧佛","name":"卧佛","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/卧佛.json"},   
-{"key":"蓝光","name":"蓝光","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/蓝光.json"},  
+//{"key":"卧佛","name":"卧佛","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/卧佛.json"},   
+//{"key":"蓝光","name":"蓝光","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/蓝光.json"},  
 {"key":"红领","name":"红领","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/红领.json"},
 {"key":"看剧","name":"看剧","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/看剧.json"},
 {"key":"乐鱼","name":"乐鱼","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/乐鱼.json"},
