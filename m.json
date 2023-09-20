@@ -43,9 +43,7 @@
 {"key":"无限","name":"无限","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.wxtv.net/api.php/app/"},
 {"key":"天天","name":"天天","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.ttmja.com/api.php/app/"},
 {"key":"迷你","name":"迷你","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/","categories":["电影","剧集","综艺","动漫"]},
-{"key":"爱迪","name":"爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 {"key":"酷酷","name":"酷酷","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://cms.realdou.cn:35264/api.php/app/"},
-{"key":"天堂","name":"天堂","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://dytt996.com/api.php/app/"},
 {"key":"公社","name":"公社","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key":"萌蛋","name":"萌蛋","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},
 {"key":"霹雳","name":"霹雳","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://plyy.cc/api.php/v1.vod","categories":["电视剧","综艺","动漫"]},
@@ -55,12 +53,10 @@
 {"key":"阿里","name":"阿里","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://aliys.cn:91/api.php/v1.vod"},
 {"key":"零刻","name":"零刻","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://ys.51bro.cn/mogai_api.php/v1.vod"},
 {"key":"零六","name":"零六","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://max.1006.tk/api.php/v1.vod"},
-{"key":"容易","name":"容易","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://51.161.153.234/api.php/v1.vod"},
 {"key":"悟空","name":"悟空","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://dapi.pntao.com/api.php/v1.vod"},
 {"key":"君离","name":"君离","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://jlys6.top/mogai_api.php/v1.vod"},
 {"key":"苹果","name":"苹果","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://hwdwd.com/mogai_api.php/v1.vod"},
-{"key":"彩虹","name":"彩虹","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://ys.qtw.asia/lvdou_api.php/v1.vod"},
-  
+
 {"key":"低端","name":"低端","type":3,"api":"csp_Ddys","searchable":1,"changeable":1},
 {"key":"哔嘀","name":"哔嘀","type":3,"api":"csp_Bdys","searchable":1,"changeable":1},
 {"key":"明明","name":"明明","type":3,"api":"csp_AppMr","searchable":1,"changeable":1,"jar":"./libs/fan.txt"}, 
