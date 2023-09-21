@@ -12,6 +12,7 @@
 {"key":"兄弟","name":"兄弟","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/兄弟.js"},
 {"key":"视觉","name":"视觉","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/视觉.js"},
 {"key":"工场","name":"工场","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/工场.js"},
+{"key":"三八","name":"三八","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/三八.js"},
 {"key":"比特","name":"比特","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/比特.js","categories":["国产剧"]},
 {"key":"六度","name":"六度","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/六度.js","categories":["电影","电视剧","动漫","综艺"]},
 {"key":"零七","name":"零七","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/零七.js","categories":["电影","电视剧","动漫","综艺"]},
@@ -92,7 +93,7 @@
 {"key":"奇趣","name":"奇趣","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/奇趣.json"},
 {"key":"锐行","name":"锐行","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/锐行.json"},
 {"key":"三三","name":"三三","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/三三.json"},
-{"key":"三八","name":"三八","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/三八.json"},
+//{"key":"三八","name":"三八","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/三八.json"},
 {"key":"深蓝","name":"深蓝","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/深蓝.json"},
 {"key":"五五","name":"五五","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/五五.json"},
 
