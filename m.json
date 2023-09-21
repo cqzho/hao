@@ -30,9 +30,7 @@
 {"key":"茉莉","name":"茉莉","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/茉莉.js"},
 {"key":"卧佛","name":"卧佛","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/卧佛.js"},
 {"key":"蓝光","name":"蓝光","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/蓝光.js"},
-{"key":"干饭","name":"干饭","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/干饭.js"},
 {"key":"荐片","name":"荐片","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/荐片.js"},
-{"key":"六威","name":"六威","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/六威.js"},
 {"key":"熊磁","name":"熊磁","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/熊磁.js"},
   
 //json采集接口type：1,xml采集接口type：0
