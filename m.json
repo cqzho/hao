@@ -1,5 +1,10 @@
 {"sites":[
 {"key":"豆瓣","name":"豆瓣","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/豆瓣.js"},
+{"key":"奇艺","name":"奇艺","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/奇艺.js"},
+{"key":"芒果","name":"芒果","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/芒果.js"},
+{"key":"腾讯","name":"腾讯","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/腾讯.js"},
+{"key":"优酷","name":"优酷","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/优酷.js"},
+{"key":"搜狗","name":"搜狗","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/搜狗.js"},
 {"key":"七七","name":"七七","type":3,"api":"./open/kunyu77_open.js","searchable":1,"changeable":1}, 
 {"key":"快看","name":"快看","type":3,"api":"./open/kkys_open.js","searchable":1,"changeable":1}, 
 {"key":"厂长","name":"厂长","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/厂长.js"},
