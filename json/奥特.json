@@ -1,8 +1,8 @@
 {
-  "站名": "Auete",
-  "主页url": "https://auete.art",
+  "站名": "Auete--https://auete.site",
+  "主页url": "https://haozhansou.com",
   "分类": "国剧$Tv/neidi#港剧$Tv/tvbgj#台剧$Tv/taiju#网剧$Tv/wangju#综艺$Zy/guozong#动画$Dm/donghua#喜剧$Movie/xjp#动作$Movie/dzp#爱情$Movie/aqp#科幻$Movie/khp#恐怖$Movie/kbp#惊悚$Movie/jsp#战争$Movie/zzp#剧情$Movie/jqp", 
-  "分类url": "https://auete.art/{cateId}{class}/index{catePg}.html[https://auete.art/{cateId}/index.html]",
+  "分类url": "https://haozhansou.com/{cateId}{class}/index{catePg}.html[https://haozhansou.com/{cateId}/index.html]",
   "数组": "<li class=\"trans_3&&/button>",
   "副标题": "hdtag\">&&<",
   "搜索模式": "1",
