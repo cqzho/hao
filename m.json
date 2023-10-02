@@ -91,7 +91,6 @@
 
 {"key":"哔嘀","name":"哔嘀","type":3,"api":"csp_Bdys","searchable":1,"changeable":1},
 {"key":"明明","name":"明明","type":3,"api":"csp_AppMr","searchable":1,"changeable":1,"jar":"./libs/fan.txt"}, 
-//{"key":"影探","name":"影探","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"changeable":1,"ext":"vip.lyyytv.cn","jar":"./libs/fan.txt"},
 {"key":"农民","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"changeable":1,"ext":"./json/农民.json","jar":"./libs/fan.txt"},
 {"key":"云盘","name":"云盘","type":3,"api":"csp_AList","searchable":1,"changeable":1,"ext": "./json/云盘.json","jar":"./libs/fan.txt"},
   
