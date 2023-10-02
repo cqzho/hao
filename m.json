@@ -64,6 +64,7 @@
 {"key":"索尼","name":"索尼","type":0,"api":"https://suoniapi.com/api.php/provide/vod/at/xml","searchable":1,"changeable":1,"categories":["国产剧","港剧","台剧","日剧","韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","记录片","动画片","大陆综艺"]},
 {"key":"快帆","name":"快帆","type":0,"api":"https://api.kuaifan.tv/api.php/provide/vod/at/xml","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","古装片","记录片","动画片","大陆综艺"]},
 
+{"key":"77","name":"77","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://api.tyun77.cn/api.php/provide/"},
 {"key":"影探","name":"影探","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
 {"key":"酷影","name":"酷影","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","categories":["电影","电视剧","综艺","动漫"]},
 {"key":"丫丫","name":"丫丫","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.netfly.tv/api.php/app/","categories":["电影","剧集","综艺","动漫"]},
