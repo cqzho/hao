@@ -106,7 +106,7 @@
 {"key":"惊艳","name":"惊艳","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/惊艳.json"},
   
 {"key":"红领","name":"红领","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/红领.json"},
-{"key":"看剧","name":"看剧","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/看剧.json"},
+{"key":"看剧","name":"看剧","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/剧圈.json"},
 {"key":"欧克","name":"欧克","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/欧克.json"},
 {"key":"奇趣","name":"奇趣","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/奇趣.json"},
 {"key":"锐行","name":"锐行","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/锐行.json"},
