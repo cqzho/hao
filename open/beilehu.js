@@ -1,6 +1,6 @@
 // 无搜索功能
 import { _ } from './lib/cat.js';
-let key = '🐯贝乐虎';
+let key = '贝乐虎';
 let HOST = 'https://vd.ubestkid.com';
 let siteKey = '';
 let siteType = 0;
