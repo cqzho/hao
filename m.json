@@ -71,7 +71,6 @@
 {"key":"丫丫","name":"丫丫","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.netfly.tv/api.php/app/","categories":["电影","剧集","综艺","动漫"]},
 {"key":"速看","name":"速看","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://sk100.tv/api.php/app/","categories":["电影","连续剧","综艺","动漫"]},
 {"key":"明帝","name":"明帝","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://ys.md214.cn/api.php/app/"},
-{"key":"映迷","name":"映迷","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.inmi.app/xgapp.php/v1/"},
 {"key":"如意","name":"如意","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/","categories":["电影","电视剧","综艺","动漫"]},
 {"key":"光影","name":"光影","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://gymcms.xn--654a.cc/api.php/app/"},
 {"key":"可可","name":"可可","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://4k.953365.cn:8090/xgapp.php/v1/"},
