@@ -11,6 +11,7 @@
 {"key":"在线","name":"在线","type":3,"api":"./open/zaixianzhijia.js","searchable":1,"changeable":1},
 
 {"key":"影探","name":"影探","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
+{"key":"映迷","name":"映迷","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"https://www.inmi.app/xgapp.php/v1/"},
 {"key":"丫丫","name":"丫丫","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"https://www.netfly.tv/api.php/app/","categories":["电影","剧集","综艺","动漫"]},
 {"key":"速看","name":"速看","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"https://sk100.tv/api.php/app/","categories":["电影","连续剧","综艺","动漫"]},
 {"key":"五三","name":"五三","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"https://532kan.com/api.php/app/"},
