@@ -111,7 +111,6 @@
   
 {"key":"红领","name":"红领","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/红领.json"},
 {"key":"剧圈","name":"剧圈","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/剧圈.json"},
-{"key":"欧克","name":"欧克","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/欧克.json"},
 {"key":"奇趣","name":"奇趣","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/奇趣.json"},
 {"key":"锐行","name":"锐行","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/锐行.json"},
 {"key":"三三","name":"三三","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/三三.json"},
