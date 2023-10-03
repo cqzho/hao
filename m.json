@@ -51,6 +51,7 @@
 {"key":"孜然","name":"孜然","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/孜然.js"},
 {"key":"子子","name":"子子","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/子子.js"},
 {"key":"三四","name":"三四","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/三四.js"},
+{"key":"三五","name":"三五","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/三五.js"},
 {"key":"富瑞","name":"富瑞","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/富瑞.js"},
   
 {"key":"荐片","name":"🧲荐片","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/荐片.js"},
@@ -98,8 +99,8 @@
 {"key":"零六","name":"零六","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://max.1006.tk/api.php/v1.vod"},
 {"key":"苹果","name":"苹果","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://hwdwd.com/mogai_api.php/v1.vod"},
 
-{"key":"哔嘀","name":"哔嘀","type":3,"api":"csp_Bdys","searchable":1,"changeable":1},
-{"key":"明明","name":"明明","type":3,"api":"csp_AppMr","searchable":1,"changeable":1,"jar":"./libs/fan.txt"}, 
+{"key":"哔嘀","name":"🕷︎哔嘀","type":3,"api":"csp_Bdys","searchable":1,"changeable":1},
+{"key":"明明","name":"🕷︎明明","type":3,"api":"csp_AppMr","searchable":1,"changeable":1,"jar":"./libs/fan.txt"}, 
 {"key":"农民","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"changeable":1,"ext":"./json/农民.json","jar":"./libs/fan.txt"},
 {"key":"云盘","name":"🅰云盘","type":3,"api":"csp_AList","searchable":1,"changeable":1,"ext": "./json/云盘.json","jar":"./libs/fan.txt"},
 
