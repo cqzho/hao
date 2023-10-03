@@ -52,6 +52,10 @@
 {"key":"子子","name":"子子","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/子子.js"},
 {"key":"荐片","name":"荐片","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/荐片.js"},
 {"key":"熊磁","name":"熊磁","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/熊磁.js"},
+{"key":"六位","name":"六位","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/六位.js"},
+{"key":"电杆","name":"电杆","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/电杆.js"},
+{"key":"冒泡","name":"冒泡","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/冒泡.js"},
+{"key":"酷比","name":"酷比","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/酷比.js"},
   
 //json采集接口type：1,xml采集接口type：0
 {"key":"暴风","name":"暴风","type":0,"api":"https://bfzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","记录片","动画片","大陆综艺"]},
