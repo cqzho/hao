@@ -10,6 +10,7 @@
 		"电影": "topic/bluray-movie/movie/page",
 		"4K": "topic/4k/page",
 		"3D": "topic/3dmovie/page",
+		"演唱会": "topic/bluray-movie/song/page",
 		"纪录片": "topic/bluray-movie/documentry/page"
 	},
 	"homeVodNode": "//div[contains(@class,'mainleft')]/ul/li/div[contains(@class,'thumbnail')]",
