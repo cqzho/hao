@@ -54,7 +54,6 @@
 {"key":"三五","name":"三五","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/三五.js"},
 {"key":"富瑞","name":"富瑞","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/富瑞.js"},
 {"key":"九一","name":"九一","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/九一.js","categories":["电影","电视剧"]},
-{"key":"温度","name":"温度","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/温度.js"},
   
 {"key":"荐片","name":"🧲荐片","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/荐片.js"},
 {"key":"熊磁","name":"🧲熊磁","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/熊磁.js"},
@@ -111,6 +110,7 @@
 {"key":"素白","name":"素白","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/素白.json"},
 {"key":"北川","name":"北川","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/北川.json"},
 {"key":"惊艳","name":"惊艳","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/惊艳.json"},
+{"key":"温度","name":"温度","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/温度.json"},
   
 {"key":"红领","name":"红领","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/红领.json"},
 {"key":"奇趣","name":"奇趣","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/奇趣.json"},
