@@ -53,7 +53,7 @@
 {"key":"三四","name":"三四","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/三四.js"},
 {"key":"三五","name":"三五","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/三五.js"},
 {"key":"富瑞","name":"富瑞","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/富瑞.js"},
-{"key":"九一","name":"九一","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/九一.js"},
+{"key":"九一","name":"九一","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/九一.js","categories":["电影","电视剧"]},
   
 {"key":"荐片","name":"🧲荐片","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/荐片.js"},
 {"key":"熊磁","name":"🧲熊磁","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/熊磁.js"},
