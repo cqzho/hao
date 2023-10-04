@@ -1,6 +1,5 @@
 {"sites":[
 {"key":"豆瓣","name":"豆瓣","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/豆瓣.js"},
-{"key":"片场","name":"片场","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/片场.js"},
 {"key":"七七","name":"七七","type":3,"api":"./open/kunyu77.js","searchable":1,"changeable":1}, 
 {"key":"快看","name":"快看","type":3,"api":"./open/kkys.js","searchable":1,"changeable":1}, 
 {"key":"厂长","name":"厂长","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/厂长.js"},
@@ -119,7 +118,9 @@
 {"key":"深蓝","name":"深蓝","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/深蓝.json"},
 {"key":"五五","name":"五五","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./XYQHiker/五五.json"},
 
-{"key":"音乐","name":"音乐","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable":1,"changeable":1},  
+{"key":"片场","name":"片场","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/片场.js"},
+{"key":"蜻蜓","name":"📻蜻蜓FM","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/蜻蜓.js"},
+{"key":"音乐","name":"🎵音乐","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable":1,"changeable":1},  
 {"key":"央视","name":"央视","type":3,"api":"./open/cntv.js","searchable":1,"changeable":1}, 
 {"key":"哔哩","name":"🅱️哔哩","type":3,"api":"./open/bili.js","searchable":1,"changeable":1},
 {"key":"乐虎","name":"乐虎","type":3,"api":"./open/beilehu.js","searchable":1,"changeable":1},
