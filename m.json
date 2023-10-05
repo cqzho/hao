@@ -120,6 +120,7 @@
 
 {"key":"片场","name":"片场","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/片场.js"},
 {"key":"蜻蜓","name":"📻蜻蜓FM","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/蜻蜓.js"},
+{"key":"喜马拉雅","name":"📻喜马拉雅FM","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/喜马拉雅.js"},
 {"key":"音乐","name":"🎵音乐","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable":1,"changeable":1},  
 {"key":"央视","name":"央视","type":3,"api":"./open/cntv.js","searchable":1,"changeable":1}, 
 {"key":"哔哩","name":"🅱️哔哩","type":3,"api":"./open/bili.js","searchable":1,"changeable":1},
