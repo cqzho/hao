@@ -1,10 +1,10 @@
 {"Home": [
-{"key":"APP","title":"APP","pic":"https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/img/app.jpg"},
-{"key":"采集","title":"采集","pic":"https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/img/cj.jpg"},
-{"key":"网页","title":"网页","pic":"https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/img/wy.jpg"},
-{"key":"直播","title":"直播","pic":"https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/img/zb.jpg"},
-{"key":"历史","title":"历史","pic":"https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/img/ls.jpg"},
-{"key":"收藏","title":"收藏","pic":"https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/img/sc.jpg"}],
+{"key":"APP","title":"APP","pic":"http://www.f8.free.fr/img/app.jpg"},
+{"key":"采集","title":"采集","pic":"http://www.f8.free.fr/img/caiji.jpg"},
+{"key":"网页","title":"网页","pic":"http://www.f8.free.fr/img/wangye.jpg"},
+{"key":"直播","title":"直播","pic":"http://www.f8.free.fr/img/zhibo.jpg"},
+{"key":"历史","title":"历史","pic":"http://www.f8.free.fr/img/lishi.jpg"},
+{"key":"收藏","title":"收藏","pic":"http://www.f8.free.fr/img/shouchang.jpg"}],
 
 "去广告规则":[
 {"名字":"LZ","寻找词":"vip.lz#hd.lz","正则规则": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
