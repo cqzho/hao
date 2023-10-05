@@ -59,7 +59,7 @@ CCTV4欧洲,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw17980
 CCTV4美洲,http://hms344nc1972679590.live.aikan.miguvideo.com/wh7f454c46tw2087320283_-876815993/migu/kailu/20200324/cctv4meihd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=125.65.42.193&timestamp=20230426161100&ContentId=265667335&timezone=UTC&mtv_session=9de016f966bff8e72afcd5fccab460fe&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=79b8d51a3105d0beb31ae1f6db95827e
 CGTN,http://china.733240.com/cqyx.php?id=cgtnSD
 CGTN,https://live.goodiptv.club/api/cqyx.php?id=cgtnSD
-CCTV风云剧场,http://china.733240.com/cqyx.php?id=shandongHD
+
 CCTV风云剧场,http://china.733240.com/cqyx.php?id=fyjcHD
 CCTV风云音乐,http://china.733240.com/cqyx.php?id=fyyyHD
 CCTV风云足球,http://china.733240.com/cqyx.php?id=fyzqHD
