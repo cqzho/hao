@@ -57,9 +57,7 @@
 {"key":"六位","name":"🧲六位","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/六位.js"},
 {"key":"电杆","name":"🧲电杆","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/电杆.js"},
 {"key":"冒泡","name":"🧲冒泡","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/冒泡.js"},
-{"key":"酷比","name":"🧲酷比","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/酷比.js"},
-{"key":"片场","name":"片场","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/片场.js"},
-{"key":"蜻蜓","name":"📻蜻蜓FM","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/蜻蜓.js"}],
+{"key":"酷比","name":"🧲酷比","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/酷比.js"}],
 
 "parses":[
 {"name":"Web聚合","type":3,"url":"Web"},
