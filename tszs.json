@@ -39,7 +39,7 @@
 "caijizhan": [
 {"name":"七七","url":"http://api.tyun77.cn/api.php"},
 {"name":"非凡","url":"http://www.ffzy.tv/api.php"}, 
-{"name":"8090","url":"http://47.97.248.238:8090/api.php/"}, 
+{"name":"八零","url":"http://47.97.248.238:8090/api.php/"}, 
 {"name":"龙腾","url":"http://175.178.7.35:2020/api.php"},
 {"name":"遇见","url":"https://yjtv.top/api.php/"}, 
 {"name":"大漠","url":"https://www.damozy.com/api.php/"}, 
@@ -74,7 +74,7 @@
 "guolvdizhi": ".html#51.la#?url=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com#.pw#.svg#.js",
 
 "zidingyi": [ 
-{"name": "低端影视",
+{"name": "低端",
 "url": "https://ddys.pro",
 "ua": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://ddys.pro/",
 "User": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://ddys.pro/",
@@ -140,7 +140,7 @@
 "bfqianzhui": "https://v.ddys.zip",
 "bfhouzhui": ""},
   
-{"网站名字": "电影港磁力",
+{"网站名字": "电磁",
 "网站地址": "https://www.dyg123.cc",
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "播放请求头": "空",
@@ -264,7 +264,7 @@
 "播放剧集链接前缀": "",
 "播放剧集链接后缀": ""},
   
-{"网站名字": "素白白",
+{"网站名字": "素白",
 "网站地址": "https://www.subaibaiys.com/",
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
@@ -324,7 +324,7 @@
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空"},
 
-{"网站名字": "Libvio",
+{"网站名字": "立播",
 "网站地址": "https://www.libvio.me",
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "播放请求头": "User-Agent$123",
@@ -396,7 +396,7 @@
 "播放剧集链接后缀": "空",
 "播放页跳转看图": "0"},
   
-{"网站名字": "厂长资源",
+{"网站名字": "厂长",
 "网站地址": "https://cz01.pw/",//导航发布页www.czzy.site
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
@@ -460,7 +460,7 @@
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空"},
   
-{"网站名字": "爱看影院",
+{"网站名字": "爱看",
 "网站地址": "https://www.3wyy.com/",
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
@@ -555,7 +555,7 @@
 "官源是否走解析": "0",
 "播放页跳转看图": "0"},
 
-{"网站名字": "熊猫影院",
+{"网站名字": "熊猫",
 "网站地址": "https://xmvod520.com/",
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
@@ -655,7 +655,7 @@
 "官源是否走解析": "0",
 "播放页跳转看图": "0"},
  
- {"网站名字": "孜然影视",
+ {"网站名字": "孜然",
 "网站地址": "https://zrys1.top/",
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
@@ -744,7 +744,7 @@
 "官源是否走解析": "0",
 "播放页跳转看图": "0"},
 
- {"网站名字": "voflix HD",
+ {"网站名字": "卧佛",
 "网站地址": "https://www.voflix.me/",
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
@@ -838,7 +838,7 @@
 "官源是否走解析": "0",
 "播放页跳转看图": "0"},
 
- {"网站名字": "魔方影视",
+ {"网站名字": "魔方",
 "网站地址": "https://mfysvip.site/",
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "访问请求cookie": "空",
@@ -1261,7 +1261,6 @@
 "播放剧集链接": "href=\"https://www.bttwo.net/$$\"",
 "播放剧集链接前缀": "空",
 "播放剧集链接后缀": "空"},
-
 
 {"网站名字": "老虎",
 "网站地址": "https://www.yse12345.com",
