@@ -11,6 +11,7 @@
   
 {"key":"影探","name":"影探","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
 {"key":"三五","name":"三五","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"https://555uu.online/api.php/app/"},
+{"key":"可米","name":"可米","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"https://cokemv.co/xgapp.php/v2/"},
 {"key":"吼吼","name":"吼吼","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"https://hoho.tv/api.php/app/","categories":["连续剧","综艺","动漫"]},
 {"key":"丫丫","name":"丫丫","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"https://www.netfly.tv/api.php/app/","categories":["电影","剧集","综艺","动漫"]},
 {"key":"速看","name":"速看","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"https://sk100.tv/api.php/app/","categories":["电影","连续剧","综艺","动漫"]},
