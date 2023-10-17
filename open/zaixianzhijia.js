@@ -2,7 +2,7 @@
 import { Crypto, load, _ } from './lib/cat.js';
 
 let key = '在线之家';
-let HOST = 'https://www.zxzj.site'; // 地址发布页
+let HOST = 'https://www.zxzjhd.com'; // 地址发布页
 let host = '';
 let siteKey = '';
 let siteType = 0;
