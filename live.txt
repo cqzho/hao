@@ -220,15 +220,6 @@ clarity 4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8$超高清
 潼南,http://183.230.184.51:65500/tntv1.m3u8$全高清
 
 四川,#genre#
-四川卫视,https://scgctvshow.sctv.com/hdlive/sctv1/1.m3u8
-四川经济,https://scgctvshow.sctv.com/hdlive/sctv2/1.m3u8
-四川文化旅游,https://scgctvshow.sctv.com/hdlive/sctv3/1.m3u8
-四川新闻,https://scgctvshow.sctv.com/hdlive/sctv4/1.m3u8
-四川影视文艺,https://scgctvshow.sctv.com/hdlive/sctv5/1.m3u8
-四川妇女儿童,https://scgctvshow.sctv.com/hdlive/sctv7/1.m3u8
-四川乡村,https://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
-四川康巴卫视,https://scgctvshow.sctv.com/hdlive/kangba/1.m3u8
-
 达州新闻综合,http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv$全高清
 达州文化生活,http://tv.drs.dzxw.net/channellive/ggpd-dz2.flv$全高清
 达州通川频道,http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv$全高清
