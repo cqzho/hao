@@ -300,5 +300,11 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/str
 中国乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
 环球资讯广播,https://cnlive.cnr.cn/hls/huanqiuzixunguangbo.m3u8
 海南之声,https://cnlive.cnr.cn/hls/nanhaizhisheng.m3u8
-北京交通广播,https://cnlive.cnr.cn/hls/bjjtgb.m3u8
 北京音乐广播,https://cnlive.cnr.cn/hls/bjyygb.m3u8
+四川岷江音乐,http://satellitepull.cnr.cn/live/wxscmjyyt/playlist.m3u8
+四川新闻频率,http://satellitepull.cnr.cn/live/wxsclyshgb/playlist.m3u8
+重庆音乐广播,http://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8
+重庆新闻广播,http://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
+贵州音乐广播,http://satellitepull.cnr.cn/live/wx32gzyygb/playlist.m3u8
+贵州故事广播,http://satellitepull.cnr.cn/live/wx32gzgsgb/playlist.m3u8
+贵州综合广播,http://satellitepull.cnr.cn/live/wx32gzwxwzhgb/playlist.m3u8
