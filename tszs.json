@@ -51,8 +51,7 @@
 
 "zhujiexi":[
 {"name":"主解1","url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
-{"name":"主解2","url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
-{"name":"主解3","url":"http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="}],
+{"name":"主解2","url":"http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="}],
   
 "beiyongjiexi": [
 {"name":"B站1","url":"https://jx.jsonplayer.com/player/?url="},
@@ -69,7 +68,7 @@
 {"name":"180","url":"https://jx.000180.top/jx/?url="},
 {"name":"8090","url":"https://www.8090g.cn/?url="}],
 
-"dianshizhibo": "https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/live.txt",
+"dianshizhibo": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
 "嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=#.mkv#rtmp://",
 "guolvdizhi": ".html#51.la#?url=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com#.pw#.svg#.js",
 
