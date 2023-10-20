@@ -76,11 +76,13 @@
 {"name":"8090","type":0,"url":"https://www.8090g.cn/?url=","mobile":0}],
 
 "lives":[{"name":"综合","type":0,"url":"./live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"南风","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"范明","type":0,"url":"https://live.fanmingming.com/tv/m3u/global.m3u","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"小果","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"重庆","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"乌云","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/wuyun999/wuyun/main/zb/aptv.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"EPG","type":0,"url":"https://epg.pw/test_channels.m3u","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
