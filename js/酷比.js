@@ -1,6 +1,6 @@
 var rule = {
 	title:'kuba',
-	host:'https://www.kuba222.com',
+	host:'https://www.kubady1.com',
         homeUrl: '/',
 	url: '/vodtypehtml/fyclass.html?',
 	filter_url:'{{fl.class}}',
@@ -12,7 +12,7 @@ var rule = {
 	filterable:0,
 	headers:{
 		'User-Agent': 'PC_UA',
-		'Referer': 'https://www.kuba222.com/'
+		'Referer': 'https://www.kubady1.com/'
 	},
 	timeout:5000,
 	class_name: '电视剧&动作片&喜剧片&爱情片&科幻片&恐怖片&剧情片&战争片&纪录片&动漫&4K',
