@@ -2,7 +2,7 @@ muban.mxone5.二级.desc = '.video-info-items:eq(4)&&Text;;;.video-info-actor:eq
 var rule = {
     title:'万能影视',
     模板:'mxone5',
-    host:'https://wnvod.net',
+    host:'https://www.wnvod.cc',
     homeUrl:'/vodshow/1--hits---------.html',
     // url: '/vodshow/fyclass--------fypage---.html',
     url: '/vodshow/fyclassfyfilter.html',
