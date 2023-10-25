@@ -15,6 +15,7 @@
 {"key":"爱看","name":"爱看","type":3,"api":"./open/ikanbot.js","searchable":1,"changeable":1}, 
 {"key":"立播","name":"立播","type":3,"api":"./open/libvio.js","searchable":1,"changeable":1}, 
 {"key":"素白","name":"素白","type":3,"api":"./open/subaibai.js","searchable":1,"changeable":1}, 
+{"key":"在线","name":"在线","type":3,"api":"./open/zaixianzhijia.js","searchable":1,"changeable":1}, 
 {"key":"JOJO","name":"JOJO","type":3,"api":"./open/jiohub.js","searchable":1,"changeable":1}, 
   
 {"key":"影探","name":"影探","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
