@@ -74,7 +74,6 @@
 {"key":"土豪","name":"土豪","type":0,"api":"https://www.tuhao.tv/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产剧","港台剧","台湾剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","奇幻片","剧情片","战争片","犯罪片","记录片","动画片","邵氏电影","大陆综艺"]},
 {"key":"四九","name":"四九","type":0,"api":"https://49zyw.com/api.php/provide/vod/at/xml","searchable":1,"changeable":1,"categories":["国产剧","香港剧","韩国剧","欧美剧","动作片","喜剧片","爱情片","科幻片","奇幻片","剧情片","战争片","犯罪片","动画片","大陆综艺"]},
 {"key":"快看（采集）","name":"快看","type":0,"api":"https://kuaikan-api.com/api.php/provide/vod/at/xml","searchable":1,"changeable":1,"categories":["国产剧","港台剧","韩国剧","欧美剧","动作片","喜剧片","爱情片","科幻片","奇幻片","剧情片","战争片","犯罪片","动画片","国产综艺"]},
-{"key":"琪琪","name":"琪琪","type":0,"api":"http://www.csykkj.club/api.php/provide/vod/at/xml","searchable":1,"changeable":1},
   
 {"key":"影探","name":"影探","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
 {"key":"酷影","name":"酷影","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","categories":["电影","电视剧","综艺","动漫"]},
