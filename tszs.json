@@ -54,19 +54,17 @@
 {"name":"龙腾","url":"http://175.178.7.35:2020/api.php"},
 {"name":"遇见","url":"https://yjtv.top/api.php/"}, 
 {"name":"大漠","url":"https://www.damozy.com/api.php/"}, 
-{"name":"土豪","url":"https://www.tuhao.tv/api.php/"},
 {"name":"开乐","url":"http://server.sztuotai.com/api.php/Chengcheng/vod/"},
 {"name":"宿舍","url":"http://150.158.102.76/api.php/"},
 {"name":"哆咪","url":"https://www.vbuyu.cn/api.php/"},
 {"name":"最大","url":"http://zuidazy.me/api.php/"}],
 
 "zhujiexi":[
-{"name":"主解1","url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
-{"name":"主解2","url":"http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="}],
+{"name":"JP","url":"https://jx.jsonplayer.com/player/?url="},
+{"name":"云析","url":"https://jx.yparse.com/index.php?url="},
+{"name":"BL","url":"https://vip.bljiex.com/?v="}],
   
 "beiyongjiexi": [
-{"name":"B站1","url":"https://jx.jsonplayer.com/player/?url="},
-{"name":"BL","url":"https://vip.bljiex.com/?v="},
 {"name":"冰豆","url":"https://bd.jx.cn/?url="},
 {"name":"CK","url":"https://www.ckplayer.vip/jiexi/?url="},
 {"name":"JY","url":"https://jx.playerjy.com/?url="},
@@ -75,7 +73,6 @@
 {"name":"七哥","url":"https://jx.nnxv.cn/tv.php?url="},
 {"name":"虾米","url":"https://jx.xmflv.com/?url="},
 {"name":"YT","url":"https://jx.yangtu.top/?url="},
-{"name":"云析","url":"https://jx.yparse.com/index.php?url="},
 {"name":"180","url":"https://jx.000180.top/jx/?url="},
 {"name":"8090","url":"https://www.8090g.cn/?url="}],
 
