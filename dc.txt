@@ -1,10 +1,7 @@
 {"urls":[
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/m.json","name":"线路①"},
-{"url":"https://fongmi.cachefly.net/cqzho/hao/main/m.json","name":"线路②"},
-{"url":"https://6666.eu.org/m.json","name":"线路③"},
+{"url":"https://6666.eu.org/m.json","name":"线路②"},
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/js.json","name":"js线路①"},
-{"url":"https://fongmi.cachefly.net/cqzho/hao/main/js.json","name":"js线路②"},
-{"url":"https://6666.eu.org/js.json","name":"js线路③"},
+{"url":"https://6666.eu.org/js.json","name":"js线路②"},
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/open.json","name":"open线路①"},
-{"url":"https://fongmi.cachefly.net/cqzho/hao/main/open.json","name":"open线路②"},
-{"url":"https://6666.eu.org/open.json","name":"open线路③"}]}
+{"url":"https://6666.eu.org/open.json","name":"open线路②"}]}
