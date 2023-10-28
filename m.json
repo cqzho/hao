@@ -113,11 +113,8 @@
   
 {"key":"世界","name":"🧲世界","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/世界.json"},  
 {"key":"哔嘀2","name":"🧲哔嘀","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/哔嘀.json"},  
-{"key":"极影","name":"🧲极影","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/极影.json"},  
 {"key":"比特2","name":"🧲比特","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/比特.json"},  
-{"key":"蚂蚁","name":"🧲蚂蚁","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/蚂蚁.json"},  
-{"key":"高清","name":"🧲高清","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/高清.json"}, 
-  
+
 {"key":"红领","name":"红领","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/红领.json"},
 {"key":"奇趣","name":"奇趣","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/奇趣.json"},
 {"key":"锐行","name":"锐行","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/锐行.json"},
