@@ -56,7 +56,7 @@
 {"key":"九一","name":"九一","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/九一.js","categories":["电影","电视剧"]},
 {"key":"秋霞","name":"秋霞","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/秋霞.js"},
 {"key":"荐片","name":"🧲荐片","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/荐片.js"},
-{"key":"熊磁","name":"🧲熊磁","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/熊磁.js"},
+{"key":"熊熊","name":"🧲熊熊","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/熊熊.js"},
 {"key":"六位","name":"🧲六位","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/六位.js"},
 {"key":"电杆","name":"🧲电杆","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/电杆.js"},
 {"key":"冒泡","name":"🧲冒泡","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/冒泡.js"},
@@ -110,6 +110,13 @@
 {"key":"北川","name":"北川","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/北川.json"},
 {"key":"惊艳","name":"惊艳","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/惊艳.json"},
 {"key":"温度","name":"温度","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/温度.json"},
+  
+{"key":"世界","name":"🧲世界","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/世界.json"},  
+{"key":"哔嘀2","name":"🧲哔嘀","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/哔嘀.json"},  
+{"key":"极影","name":"🧲极影","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/极影.json"},  
+{"key":"比特2","name":"🧲比特","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/比特.json"},  
+{"key":"蚂蚁","name":"🧲蚂蚁","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/蚂蚁.json"},  
+{"key":"高清","name":"🧲高清","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/高清.json"}, 
   
 {"key":"红领","name":"红领","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/红领.json"},
 {"key":"奇趣","name":"奇趣","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/奇趣.json"},
