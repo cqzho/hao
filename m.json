@@ -103,7 +103,6 @@
 {"key":"农民","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"changeable":1,"ext":"./json/农民.json","jar":"./libs/fan.txt"},
 {"key":"云盘","name":"🅰云盘","type":3,"api":"csp_AList","searchable":1,"changeable":1,"ext": "./json/云盘.json","jar":"./libs/fan.txt"},
 
-{"key":"360_spider","name":"🐞360","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Kuaikan","name":"🐞快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Czsapp","name":"🐞厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy88.com"},
 {"key":"csp_Bdys","name":"🐞哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},
@@ -117,7 +116,6 @@
 {"key":"csp_KubaCL","name":"🧲酷吧","type":3,"api":"csp_KubaCL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MeijuTT","name":"🧲美剧天堂","type":3,"api":"csp_MeijuTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MeijuMi","name":"🧲美剧迷","type":3,"api":"csp_MeijuMi","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_BLSGod","name":"🧲80S","type":3,"api":"csp_BLSGod","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xunlei8","name":"🧲迅雷","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
   
 {"key": "世界","name":"🧲世界","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/世界.json"},
