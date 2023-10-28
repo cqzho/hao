@@ -99,10 +99,10 @@
 {"key":"零六","name":"零六","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://max.1006.tk/api.php/v1.vod"},
 {"key":"苹果","name":"苹果","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://hwdwd.com/mogai_api.php/v1.vod"},
 
-{"key":"明明","name":"🐞明明","type":3,"api":"csp_AppMr","searchable":1,"changeable":1,"jar":"./libs/fan.txt"}, 
+{"key":"明明","name":"明明","type":3,"api":"csp_AppMr","searchable":1,"changeable":1,"jar":"./libs/fan.txt"}, 
 {"key":"农民","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"changeable":1,"ext":"./json/农民.json","jar":"./libs/fan.txt"},
 {"key":"云盘","name":"🅰云盘","type":3,"api":"csp_AList","searchable":1,"changeable":1,"ext": "./json/云盘.json","jar":"./libs/fan.txt"},
-{"key":"哔嘀","name":"🐞哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"哔嘀","name":"哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"范丝","name":"🧲范丝","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/范丝.json"},   
 {"key":"奥特","name":"奥特","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/奥特.json"},    
@@ -111,9 +111,9 @@
 {"key":"惊艳","name":"惊艳","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/惊艳.json"},
 {"key":"温度","name":"温度","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/温度.json"},
   
-{"key":"世界","name":"🧲世界","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/世界.json"},  
-{"key":"哔嘀2","name":"🧲哔嘀","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/哔嘀.json"},  
-{"key":"比特2","name":"🧲比特","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/比特.json"},  
+{"key":"世界","name":"🧲世界","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/世界.json"},
+{"key":"哔嘀2","name":"🧲哔嘀","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/哔嘀.json"},
+{"key":"比特2","name":"🧲比特","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/比特.json"},
 
 {"key":"红领","name":"红领","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/红领.json"},
 {"key":"奇趣","name":"奇趣","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/奇趣.json"},
