@@ -32,11 +32,7 @@
 {"key":"酷酷","name":"酷酷","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"http://cms.realdou.cn:35264/api.php/app/"},
 {"key":"公社","name":"公社","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key":"萌蛋","name":"萌蛋","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},
-{"key":"酷影","name":"酷影","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","categories":["电影","电视剧","综艺","动漫"]},
 {"key":"嘉靓","name":"嘉靓","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"http://api.jialiangos.com:81/api.php/app/"},
-{"key":"官采","name":"官采","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"http://154.12.90.7:86/api.php/app/"}, 
-{"key":"明帝","name":"明帝","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"https://ys.md214.cn/api.php/app/"},
-{"key":"如意","name":"如意","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/","categories":["电影","电视剧","综艺","动漫"]},
 {"key":"可可","name":"可可","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"http://4k.953365.cn:8090/xgapp.php/v1/"},
 {"key":"旧梦","name":"旧梦","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"http://43.139.139.17:4433/api.php/app/"},
 {"key":"北极","name":"北极","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"https://www.kuin.one/api.php/app/"},
@@ -52,21 +48,5 @@
 {"key":"乐虎","name":"乐虎","type":3,"api":"./open/beilehu.js","searchable":1,"changeable":1},
 {"key":"小贝","name":"小贝","type":3,"api":"./open/tuxiaobei.js","searchable":1,"changeable":1},
 {"key":"童趣","name":"童趣","type":3,"api":"./open/tongqu.js","searchable":1,"changeable":1}],
-  
-"parses":[
-{"name":"Web聚合","type":3,"url":"Web"},
-{"name":"B站1","type":0,"url":"https://jx.jsonplayer.com/player/?url=","mobile":1},
-{"name":"BL","type":0,"url":"https://vip.bljiex.com/?v=","mobile":0},
-{"name":"冰豆","type":0,"url":"https://bd.jx.cn/?url=","mobile":0},
-{"name":"CK","type":0,"url":"https://www.ckplayer.vip/jiexi/?url=","mobile":0},
-{"name":"JY","type":0,"url":"https://jx.playerjy.com/?url=","mobile":0},
-{"name":"PM","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url=","mobile":0},
-{"name":"M3U8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","mobile":0},
-{"name":"七哥","type":0,"url":"https://jx.nnxv.cn/tv.php?url=","mobile":0},
-{"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url=","mobile":0},
-{"name":"YT","type":0,"url":"https://jx.yangtu.top/?url=","mobile":0},
-{"name":"云析","type":0,"url":"https://jx.yparse.com/index.php?url=","mobile":0},
-{"name":"180","type":0,"url":"https://jx.000180.top/jx/?url=","mobile":0},
-{"name":"8090","type":0,"url":"https://www.8090g.cn/?url=","mobile":0}],
 
 "rules":[{"name":"海外看","hosts":["haiwaikan"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:2.93[\\s\\S]*?#EXT-X-DISCONTINUITY"]},{"name":"lz","hosts":["vip.lz","hd.lz","v.cdnlz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"ff","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"bf","hosts":["bfzy","s5.bfzycdn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"hs","hosts":["huoshan.com"],"regex":["item_id="]},{"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},{"name":"cl","hosts":["magnet"],"regex":["更多","社區","xuu","最新","最新","直播","更新","社区","有趣","有趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]}]}
