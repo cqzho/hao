@@ -42,7 +42,6 @@
 {"name":"迁居","url":"http://app.qianju.cc/api.php/v1.vod"},
 {"name":"小乐","url":"http://www.kuloo.xyz/mogai_api.php/v1.vod"}, 
 {"name":"苹果","url":"http://hwdwd.com/mogai_api.php/v1.vod"}],  
-
   
 "caijizhan": [
 {"name":"七七","url":"http://api.tyun77.cn/api.php"},
@@ -69,11 +68,13 @@
 {"name":"最大","url":"http://zuidazy.me/api.php"}],
 
 "zhujiexi":[
-{"name":"JP","url":"https://jx.jsonplayer.com/player/?url="},
-{"name":"云析","url":"https://jx.yparse.com/index.php?url="},
-{"name":"BL","url":"https://vip.bljiex.com/?v="}],
+{"name":"主解1","url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
+{"name":"主解2","url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="}],
   
 "beiyongjiexi": [
+{"name":"JP","url":"https://jx.jsonplayer.com/player/?url="},
+{"name":"云析","url":"https://jx.yparse.com/index.php?url="},
+{"name":"BL","url":"https://vip.bljiex.com/?v="},
 {"name":"冰豆","url":"https://bd.jx.cn/?url="},
 {"name":"CK","url":"https://www.ckplayer.vip/jiexi/?url="},
 {"name":"JY","url":"https://jx.playerjy.com/?url="},
