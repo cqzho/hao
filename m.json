@@ -72,7 +72,7 @@
 {"key":"零六","name":"零六","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://max.1006.tk/api.php/v1.vod"},
 {"key":"苹果","name":"苹果","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://hwdwd.com/mogai_api.php/v1.vod"},
 
-{"key":"云盘","name":"🅰云盘","type":3,"api":"csp_AList","searchable":1,"changeable":1,"ext": "./json/云盘.json","jar":"./libs/fan.txt"},
+{"key":"云盘","name":"云盘","type":3,"api":"csp_AList","searchable":1,"changeable":1,"ext": "./json/云盘.json","jar":"./libs/fan.txt"},
 {"key":"哔嘀","name":"哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"素白","name":"素白","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/素白.json"},
@@ -88,7 +88,7 @@
 {"key":"五五","name":"五五","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/五五.json"},
 
 {"key":"央视","name":"央视","type":3,"api":"./open/cntv.js","searchable":1,"changeable":1}, 
-{"key":"哔哩","name":"🅱️哔哩","type":3,"api":"./open/bili.js","searchable":1,"changeable":1},
+{"key":"哔哩","name":"哔哩","type":3,"api":"./open/bili.js","searchable":1,"changeable":1},
 {"key":"乐虎","name":"乐虎","type":3,"api":"./open/beilehu.js","searchable":1,"changeable":1},
 {"key":"小贝","name":"小贝","type":3,"api":"./open/tuxiaobei.js","searchable":1,"changeable":1},
 {"key":"童趣","name":"童趣","type":3,"api":"./open/tongqu.js","searchable":1,"changeable":1},
