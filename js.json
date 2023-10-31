@@ -34,8 +34,7 @@
 {"key":"三四","name":"三四","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/三四.js"},
 {"key":"三五","name":"三五","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/三五.js"},
 {"key":"富瑞","name":"富瑞","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/富瑞.js"},
-{"key":"秋霞","name":"秋霞","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/秋霞.js"},
-{"key":"哔哩","name":"哔哩","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/哔哩.js"}],
+{"key":"秋霞","name":"秋霞","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/秋霞.js"}],
 
 "parses":[
 {"name":"Web聚合","type":3,"url":"Web"},
