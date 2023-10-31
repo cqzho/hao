@@ -1,6 +1,6 @@
 var rule = {
     title:'剧白白',
-    host:'https://www.jubaibaic.com',
+    host:'https://v.jubaibaic.com',
     url:'/s/fyclassfyfilter.html',
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.area}}{{fl.by}}{{fl.class}}{{fl.lang}}{{fl.letter}}/page/fypage{{fl.year}}',
