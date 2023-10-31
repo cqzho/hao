@@ -55,9 +55,7 @@
 {"key":"酷影","name":"酷影","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","categories":["电影","电视剧","综艺","动漫"]},
 {"key":"嘉靓","name":"嘉靓","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://api.jialiangos.com:81/api.php/app/"},
 {"key":"官采","name":"官采","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://154.12.90.7:86/api.php/app/"}, 
-{"key":"丫丫①","name":"丫丫①","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.netfly.tv/api.php/app/","categories":["电影","剧集","综艺","动漫"]},
-{"key":"丫丫②","name":"丫丫②","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/","categories":["电影","剧集","综艺","动漫"]},
-
+{"key":"丫丫","name":"丫丫","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.netfly.tv/api.php/app/","categories":["电影","剧集","综艺","动漫"]},
 {"key":"速看","name":"速看","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://sk100.tv/api.php/app/","categories":["电影","连续剧","综艺","动漫"]},
 {"key":"明帝","name":"明帝","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://ys.md214.cn/api.php/app/"},
 {"key":"如意","name":"如意","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/","categories":["电影","电视剧","综艺","动漫"]},
@@ -73,24 +71,13 @@
 {"key":"零刻","name":"零刻","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://ys.51bro.cn/mogai_api.php/v1.vod"},
 {"key":"零六","name":"零六","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://max.1006.tk/api.php/v1.vod"},
 {"key":"苹果","name":"苹果","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://hwdwd.com/mogai_api.php/v1.vod"},
-  
-{"key":"恶魔","name":"恶魔","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://one3.emofun.top/mogai_api.php/v1.vod"},
-//{"key":"优美","name":"优美","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.umkan.cc/mogai_api.php/v1.vod"},
-{"key":"映迷","name":"映迷","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.inmi.app/xgapp.php/v1/"},
 {"key":"信心","name":"信心","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://yingszj.xn--654a.cc/api.php/app/"},
-{"key":"思古","name":"思古","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://siguyy.cc/api.php/app/"},
 {"key":"曲奇","name":"曲奇","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://1234567.weixiaolove.cn/api.php/app/"},
 {"key":"来狗","name":"来狗","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://netflixdog.club/api.php/app/"},
-{"key":"益达","name":"益达","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.myd666.tv/api.php/v1.vod"},
 {"key":"宫格","name":"宫格","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.lggys.com/api.php/app/"},
-{"key":"路人","name":"路人","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://dytt996.com/api.php/app/"},
 {"key":"吼吼","name":"吼吼","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://hoho.tv/api.php/app/"},
-{"key":"咕噜","name":"咕噜","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://w.996w.top/api.php/app/"},
-{"key":"先生","name":"先生","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://app.dianyi.ng/api.php/v1.vod"},
-{"key":"大米","name":"大米","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.dmxq.vip/api.php/app/"},
 {"key":"创艺","name":"创艺","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://www.30dian.cn/api.php/v1.vod"},
-
-
+{"key":"益达","name":"益达","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.myd666.tv/api.php/v1.vod"},
   
 {"key":"云盘","name":"云盘","type":3,"api":"csp_AList","searchable":1,"changeable":1,"ext": "./json/云盘.json","jar":"./libs/fan.txt"},
 {"key":"哔嘀","name":"哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},
