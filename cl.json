@@ -6,8 +6,8 @@
 {"key":"冒泡","name":"🧲冒泡","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/冒泡.js"},
 {"key":"酷比","name":"🧲酷比","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/酷比.js"},
 {"key":"范丝","name":"🧲范丝","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/范丝.json"},   
-{"key":"哔嘀2","name":"🧲哔嘀","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/哔嘀.json"},
-{"key":"比特2","name":"🧲比特","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/比特.json"}],
+{"key":"哔嘀","name":"🧲哔嘀","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/哔嘀.json"},
+{"key":"比特","name":"🧲比特","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/比特.json"}],
 
 "spider":"./libs/XYQ.jar",
 "lives":[{"name":"综合","type":0,"url":"./live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
