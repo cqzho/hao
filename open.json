@@ -35,7 +35,14 @@
 {"key":"看剧","name":"看剧","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"http://app.ishen520.com/api.php/v1.vod"},
 {"key":"零六","name":"零六","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"http://max.1006.tk/api.php/v1.vod"},
 {"key":"苹果","name":"苹果","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"http://hwdwd.com/mogai_api.php/v1.vod"},
-
+{"key":"信心","name":"信心","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"http://yingszj.xn--654a.cc/api.php/app/"},
+{"key":"曲奇","name":"曲奇","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"https://1234567.weixiaolove.cn/api.php/app/"},
+{"key":"来狗","name":"来狗","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"https://netflixdog.club/api.php/app/"},
+{"key":"宫格","name":"宫格","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"https://www.lggys.com/api.php/app/"},
+{"key":"吼吼","name":"吼吼","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"https://hoho.tv/api.php/app/"},
+{"key":"创艺","name":"创艺","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"http://www.30dian.cn/api.php/v1.vod"},
+{"key":"益达","name":"益达","type":3,"api":"./open/AppYsV2.js","searchable":1,"changeable":1,"ext":"https://www.myd666.tv/api.php/v1.vod"},
+  
 {"key":"暴风","name":"暴风","type":3,"api":"./open/caiji.js","ext":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","记录片","动画片","大陆综艺"]},
 {"key":"量子","name":"量子","type":3,"api":"./open/caiji.js","ext":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["国产剧","短剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","大陆综艺"]},
 {"key":"非凡","name":"非凡","type":3,"api":"./open/caiji.js","ext":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","欧美剧","韩国剧","日本剧","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","大陆综艺"]},
