@@ -5,7 +5,7 @@
 {"key":"机器","name":"机器","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/机器.js"},
 {"key":"南瓜","name":"南瓜","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/南瓜.js"},
 {"key":"兄弟","name":"兄弟","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/兄弟.js"},
-{"key":"视觉","name":"视觉","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/视觉.js"},
+//{"key":"视觉","name":"视觉","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/视觉.js"},
 {"key":"工场","name":"工场","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/工场.js"},
 {"key":"比特","name":"比特","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/比特.js"},
 {"key":"六度","name":"六度","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/六度.js","categories":["电影","电视剧","动漫","综艺"]},
