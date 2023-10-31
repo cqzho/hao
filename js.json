@@ -46,6 +46,7 @@
 {"key":"三五","name":"三五","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/三五.js"},
 {"key":"富瑞","name":"富瑞","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/富瑞.js"},
 {"key":"秋霞","name":"秋霞","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/秋霞.js"},
+{"key":"西瓜","name":"西瓜","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/西瓜.js"},
 {"key":"荐片","name":"🧲荐片","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/荐片.js"},
 {"key":"熊熊","name":"🧲熊熊","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/熊熊.js"},
 {"key":"六位","name":"🧲六位","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/六位.js"},
