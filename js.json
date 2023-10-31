@@ -6,7 +6,6 @@
 {"key":"兄弟","name":"兄弟","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/兄弟.js"},
 {"key":"工场","name":"工场","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/工场.js"},
 {"key":"比特","name":"比特","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/比特.js"},
-{"key":"北川","name":"北川","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/北川.js"},
 {"key":"零七","name":"零七","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/零七.js","categories":["电影","电视剧","动漫","综艺"]},
 {"key":"六九","name":"六九","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/六九.js"},
 {"key":"优美","name":"优美","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/优美.js"},
