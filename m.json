@@ -6,6 +6,7 @@
 {"key":"豆瓣","name":"豆瓣","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/豆瓣.js"},
 {"key":"厂长","name":"厂长","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/厂长.js"},
 {"key":"南瓜","name":"南瓜","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/南瓜.js"},
+{"key":"奥特","name":"奥特","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/奥特.js"},
 {"key":"兄弟","name":"兄弟","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/兄弟.js"},
 {"key":"工场","name":"工场","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/工场.js"},
 {"key":"比特","name":"比特","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/比特.js"},
@@ -82,7 +83,6 @@
 {"key":"云盘","name":"🅰云盘","type":3,"api":"csp_AList","searchable":1,"changeable":1,"ext": "./json/云盘.json","jar":"./libs/fan.txt"},
 {"key":"哔嘀","name":"哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"奥特","name":"奥特","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/奥特.json"},    
 {"key":"素白","name":"素白","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/素白.json"},
 {"key":"北川","name":"北川","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/北川.json"},
 {"key":"惊艳","name":"惊艳","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/惊艳.json"},
