@@ -105,10 +105,7 @@
 {"key":"乐虎","name":"乐虎","type":3,"api":"./open/beilehu.js","searchable":1,"changeable":1},
 {"key":"小贝","name":"小贝","type":3,"api":"./open/tuxiaobei.js","searchable":1,"changeable":1},
 {"key":"童趣","name":"童趣","type":3,"api":"./open/tongqu.js","searchable":1,"changeable":1},
-{"key":"少儿","name":"少儿","type":3,"api":"csp_Bili","searchable":1,"changeable":1,"ext":"./json/少儿.json"},
-{"key":"小学","name":"小学","type":3,"api":"csp_Bili","searchable":1,"changeable":1,"ext":"./json/小学.json"},
-{"key":"初中","name":"初中","type":3,"api":"csp_Bili","searchable":1,"changeable":1,"ext":"./json/初中.json"},
-{"key":"高中","name":"高中","type":3,"api":"csp_Bili","searchable":1,"changeable":1,"ext":"./json/高中.json"}],
+{"key":"少儿","name":"少儿","type":3,"api":"csp_Bili","searchable":1,"changeable":1,"ext":"./json/少儿.json"}],
 
 "parses":[
 {"name":"Web聚合","type":3,"url":"Web"},
