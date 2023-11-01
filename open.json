@@ -51,7 +51,6 @@
 {"key":"快看","name":"快看","type":3,"api":"./open/caiji.js","ext":"https://kuaikan-api.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["国产剧","港台剧","韩国剧","欧美剧","动作片","喜剧片","爱情片","科幻片","奇幻片","剧情片","战争片","犯罪片","动画片","国产综艺"]},
 
 {"key":"央视","name":"央视","type":3,"api":"./open/cntv.js","searchable":1,"changeable":1}, 
-{"key":"哔哩","name":"哔哩","type":3,"api":"./open/bili.js","searchable":1,"changeable":1},
 {"key":"乐虎","name":"乐虎","type":3,"api":"./open/beilehu.js","searchable":1,"changeable":1},
 {"key":"小贝","name":"小贝","type":3,"api":"./open/tuxiaobei.js","searchable":1,"changeable":1},
 {"key":"童趣","name":"童趣","type":3,"api":"./open/tongqu.js","searchable":1,"changeable":1}],
