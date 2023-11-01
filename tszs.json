@@ -34,6 +34,13 @@
 {"name":"何以","url":"http://www.heyik.cn/api.php/app/"},//https://www.heyiys.cn/index.html
 {"name":"天天","url":"https://www.ttmja.com/api.php/app/"},
 {"name":"公社","url":"https://www.gsjtlxy.top/xgapp.php/v3/"},
+{"name":"信心","url":"http://yingszj.xn--654a.cc/api.php/app/"},
+{"name":"曲奇","url":"https://1234567.weixiaolove.cn/api.php/app/"},
+{"name":"来狗","url":"https://netflixdog.club/api.php/app/"},
+{"name":"宫格","url":"https://www.lggys.com/api.php/app/"},
+{"name":"吼吼","url":"https://hoho.tv/api.php/app/"},
+{"name":"创艺","url":"http://www.30dian.cn/api.php/v1.vod"},
+{"name":"益达","url":"https://www.myd666.tv/api.php/v1.vod"},
 {"name":"零刻","url":"https://ys.51bro.cn/mogai_api.php/v1.vod"}, 
 {"name":"看剧","url":"http://app.ishen520.com/api.php/v1.vod"}, 
 {"name":"零六","url":"http://max.1006.tk/api.php/v1.vod"}, 
@@ -43,6 +50,7 @@
 {"name":"小乐","url":"http://www.kuloo.xyz/mogai_api.php/v1.vod"}, 
 {"name":"苹果","url":"http://hwdwd.com/mogai_api.php/v1.vod"}],  
   
+
 "caijizhan": [
 {"name":"七七","url":"http://api.tyun77.cn/api.php"},
 {"name":"暴风","url":"https://bfzyapi.com/api.php"},
