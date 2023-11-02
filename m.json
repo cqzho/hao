@@ -86,7 +86,8 @@
 {"key":"北川","name":"北川","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/北川.json"},
 {"key":"惊艳","name":"惊艳","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/惊艳.json"},
 {"key":"温度","name":"温度","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/温度.json"},
-
+  
+{"key":"JOJO","name":"JOJO","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/JOJO.json"},
 {"key":"红领","name":"红领","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/红领.json"},
 {"key":"奇趣","name":"奇趣","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/奇趣.json"},
 {"key":"锐行","name":"锐行","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/锐行.json"},
