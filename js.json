@@ -35,6 +35,8 @@
 {"key":"三五","name":"三五","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/三五.js"},
 {"key":"富瑞","name":"富瑞","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/富瑞.js"},
 {"key":"阿布","name":"阿布","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/阿布.js"},
+{"key":"视觉","name":"视觉","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/视觉.js"},
+{"key":"短剧","name":"短剧","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/短剧.js"},
 {"key":"秋霞","name":"秋霞","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/秋霞.js"}],
 
 "parses":[
