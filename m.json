@@ -50,7 +50,7 @@
   
 {"key":"七七","name":"七七","type":3,"api":"./open/kunyu77.js","searchable":1,"changeable":1}, 
 {"key":"奈飞","name":"奈飞","type":3,"api":"./open/naifei.js","searchable":1,"changeable":1}, 
-{"key":"4K网","name":"4K网","type":3,"api":"./open/4kdyw.js","searchable":1,"changeable":1,"categories":["追剧","动漫","综艺"]}, 
+{"key":"科迪","name":"科迪","type":3,"api":"./open/4kdyw.js","searchable":1,"changeable":1,"categories":["追剧","动漫","综艺"]}, 
 {"key":"免费","name":"免费","type":3,"api":"./open/free.js","searchable":1,"changeable":1}, 
 {"key":"悠久","name":"悠久","type":3,"api":"./open/youjiu.js","searchable":1,"changeable":1}, 
   
