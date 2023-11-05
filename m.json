@@ -53,7 +53,9 @@
 {"key":"4K网","name":"4K网","type":3,"api":"./open/4kdyw.js","searchable":1,"changeable":1,"categories":["追剧","动漫","综艺"]}, 
 {"key":"免费","name":"免费","type":3,"api":"./open/free.js","searchable":1,"changeable":1}, 
 {"key":"悠久","name":"悠久","type":3,"api":"./open/youjiu.js","searchable":1,"changeable":1}, 
-
+{"key":"素白","name":"素白","type":3,"api":"./open/subaibai.js","searchable":1,"changeable":1,"categories":["国产剧"]}, 
+{"key":"哔哩①","name":"哔哩①","type":3,"api":"./open/bili1.js","searchable":1,"changeable":1}, 
+{"key":"哔哩②","name":"哔哩②","type":3,"api":"./open/bili2.js","searchable":1,"changeable":1}, 
   
 //json采集接口type：1,xml采集接口type：0
 {"key":"暴风","name":"暴风","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","记录片","动画片","大陆综艺"]},
