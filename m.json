@@ -37,7 +37,8 @@
 {"key":"富瑞","name":"富瑞","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/富瑞.js"},
 {"key":"阿布","name":"阿布","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/阿布.js"},
 {"key":"视觉","name":"视觉","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/视觉.js"},
-{"key":"短剧","name":"短剧","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/短剧.js"},
+{"key":"短剧①","name":"短剧①","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/短剧.js"},
+{"key":"短剧②","name":"短剧②","type":3,"api":"./open/duanju2.js","searchable":1,"changeable":1}, 
 {"key":"秋霞","name":"秋霞","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/秋霞.js"},
 {"key":"荐片","name":"🧲荐片","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/荐片.js"},
 {"key":"熊熊","name":"🧲熊熊","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/熊熊.js"},
@@ -48,6 +49,13 @@
 {"key":"范丝","name":"🧲范丝","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/范丝.json"},   
 {"key":"哔嘀","name":"🧲哔嘀","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/哔嘀.json"},
 {"key":"比特2","name":"🧲比特","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/比特.json"},
+{"key":"迷迷","name":"迷迷","type":3,"api":"./open/mimiju.js","searchable":1,"changeable":1}, 
+{"key":"奈飞","name":"奈飞","type":3,"api":"./open/naifei.js","searchable":1,"changeable":1}, 
+{"key":"4K网","name":"4K网","type":3,"api":"./open/4kdyw.js","searchable":1,"changeable":1,"categories":["追剧","动漫","综艺"]}, 
+{"key":"免费","name":"免费","type":3,"api":"./open/free.js","searchable":1,"changeable":1}, 
+{"key":"悠久","name":"悠久","type":3,"api":"./open/youjiu.js","searchable":1,"changeable":1}, 
+{"key":"追剧","name":"追剧","type":3,"api":"./open/zjm.js","searchable":1,"changeable":1}, 
+{"key":"JOJO","name":"JOJO","type":3,"api":"./open/jojo.js","searchable":1,"changeable":1}, 
   
 //json采集接口type：1,xml采集接口type：0
 {"key":"暴风","name":"暴风","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","记录片","动画片","大陆综艺"]},
