@@ -40,7 +40,7 @@
 
 "caijizhan": [
 {"name":"七七","url":"http://api.tyun77.cn/api.php"},
-{"name":"南瓜","url":"http://ys.changmengyun.com/api.php/"},
+{"name":"南瓜","url":"http://ys.changmengyun.com/api.php/provide/home_nav"},
 {"name":"非凡","url":"http://www.ffzy.tv/api.php"}, 
 {"name":"索尼","url":"https://suoniapi.com/api.php"}, 
 {"name":"土豪","url":"https://www.tuhao.tv/api.php"}, 
