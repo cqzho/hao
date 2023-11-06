@@ -14,6 +14,7 @@
 "zhuyejiekou": [
 {"name":"影探","url":"http://vipcms.lyyytv.cn/api.php/app/"},
 {"name":"三五","url":"https://www.555fl2.com/api.php/app/"},
+{"name":"南瓜","url":"http://ys.changmengyun.com/api.php/provide/"},
 {"name":"如意","url":"http://cms.maoyingshi.cc/api.php/app/"},
 {"name":"酷影","url":"https://www.tvkuys.xyz/api.php/app/"},
 {"name":"可米","url":"https://cokemv.org/xgapp.php/v3/"},
@@ -40,7 +41,6 @@
 
 "caijizhan": [
 {"name":"七七","url":"http://api.tyun77.cn/api.php"},
-{"name":"南瓜","url":"http://ys.changmengyun.com/api.php/provide/home_nav"},
 {"name":"非凡","url":"http://www.ffzy.tv/api.php"}, 
 {"name":"索尼","url":"https://suoniapi.com/api.php"}, 
 {"name":"土豪","url":"https://www.tuhao.tv/api.php"}, 
