@@ -3,7 +3,6 @@
 {"key":"厂长","name":"厂长","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/厂长.js"},
 {"key":"南瓜","name":"南瓜","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/南瓜.js"},
 {"key":"奥特","name":"奥特","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/奥特.js"},
-{"key":"视界","name":"视界","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/视界.js"},
 {"key":"兄弟","name":"兄弟","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/兄弟.js"},
 {"key":"工场","name":"工场","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/工场.js"},
 {"key":"比特","name":"比特","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/比特.js"},
@@ -50,6 +49,7 @@
 {"key":"比特2","name":"🧲比特","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/比特.json"},
   
 {"key":"七七","name":"七七","type":3,"api":"./open/kunyu77.js","searchable":1,"changeable":1}, 
+{"key":"视界","name":"视界","type":3,"api":"./open/4kdyw.js","searchable":1,"changeable":1,"categories":["追剧","动漫","综艺"]}, 
 {"key":"奈飞","name":"奈飞","type":3,"api":"./open/naifei.js","searchable":1,"changeable":1}, 
 {"key":"免费","name":"免费","type":3,"api":"./open/free.js","searchable":1,"changeable":1}, 
 {"key":"悠久","name":"悠久","type":3,"api":"./open/youjiu.js","searchable":1,"changeable":1}, 
