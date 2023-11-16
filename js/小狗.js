@@ -5,7 +5,7 @@ var rule={
     模板:'首图',
     host:'https://pupvod.com',
     // url:'/pupshow/fyclassppppppppfypageppp.html',
-    url:'/pupshow/fyclassfyfilter.html',
+    url:'/puptype/fyclassfyfilter.html',
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.area}}p{{fl.by}}p{{fl.class}}p{{fl.lang}}ppppfypageppp{{fl.year}}',
     filter:{
