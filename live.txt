@@ -307,15 +307,6 @@ RTHK31,http://r.jdshipin.com/bl38I
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 Channel [V],http://j.cxctu.cf:4000/udp/239.93.0.157:2194
-HBO家庭影院,http://pull-l3-cny.douyincdn.com/third/stream-1279e1fd458348b32fd60381b1017c09.m3u8
-HBO原创电影,http://pull-l3-cny.douyincdn.com/third/stream-9bfb4b08fec367ed3850357a853250d5.m3u8
-龙祥电影台,http://pull-l3-cny.douyincdn.com/third/stream-c32278dece9f79334a2a878aaa730e95.m3u8
-星城经典台,https://dwz.mk/v6kgy
-星城功夫台,https://dwz.mk/mpd4e
-古龙影院,http://maomao.kandiantv.cn/m3u8.php?/migu/639528313
-东方影视,http://maomao.kandiantv.cn/m3u8.php?/migu/617290047
-过瘾大片,http://maomao.kandiantv.cn/m3u8.php?/migu/627198610
-经典电影,http://maomao.kandiantv.cn/m3u8.php?/migu/625703337
 
 地方,#genre#
 浙江公共新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
@@ -326,6 +317,12 @@ HBO原创电影,http://pull-l3-cny.douyincdn.com/third/stream-9bfb4b08fec367ed38
 浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+HTV-1,http://183.129.242.178:3333/tsfile/live/1015_1.m3u8
+HTV-2,http://183.129.242.178:3333/tsfile/live/1016_1.m3u8
+HTV-3,http://183.129.242.178:3333/tsfile/live/1017_1.m3u8
+HTV-4,http://183.129.242.178:3333/tsfile/live/1018_1.m3u8
+HTV-5,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
+
 内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
 内蒙古少儿频道,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
