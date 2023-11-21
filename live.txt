@@ -40,12 +40,6 @@ CCTV17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061
 CCTV4欧洲,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw1798072077_1881739463/migu/kailu/20200324/cctv4ouhd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=125.65.42.193&timestamp=20230426160611&ContentId=265667313&timezone=UTC&mtv_session=a1f0d3ea23dedcfb57026533e0f9fba7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=205e99763af1a2e155df364630a7b05a
 CCTV4美洲,http://hms344nc1972679590.live.aikan.miguvideo.com/wh7f454c46tw2087320283_-876815993/migu/kailu/20200324/cctv4meihd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=125.65.42.193&timestamp=20230426161100&ContentId=265667335&timezone=UTC&mtv_session=9de016f966bff8e72afcd5fccab460fe&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=79b8d51a3105d0beb31ae1f6db95827e
 
-CGTN,https://live.goodiptv.club/api/cqyx.php?id=cgtnSD
-CGTN记录,https://livedoc.cgtn.com/500d/prog_index.m3u8
-CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
-CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
-CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
-CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 第一剧场,https://live.goodiptv.club/api/cqyx.php?id=diyijuchangHD
 风云剧场,https://live.goodiptv.club/api/cqyx.php?id=fyjcHD
 兵器科技,https://live.goodiptv.club/api/cqyx.php?id=bqkjHD
@@ -129,7 +123,6 @@ CETV早期教育,https://live.goodiptv.club/api/cqyx.php?id=zaojiaoHD
 动漫秀场,https://live.goodiptv.club/api/cqyx.php?id=dmxcHD
 新动漫,https://live.goodiptv.club/api/cqyx.php?id=dongman
 优优宝贝,https://live.goodiptv.club/api/cqyx.php?id=youxi
-
 嘉佳卡通,https://php.17186.eu.org/gdtv/web/jjkt.m3u8
 金色学堂,http://nas.jdshipin.com:8801/bst.php?id=jingsepd8m/8000000
 动漫秀场,http://nas.jdshipin.com:8801/bst.php?id=dmxc8m/8000000
@@ -148,7 +141,6 @@ CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 M1905电影网,http://nas.jdshipin.com:8801/1905.php?id=1905dy
 西部电影,http://nas.jdshipin.com:8801/qly.php?id=6332
-
 华语影院,http://nas.jdshipin.com:8801/bst.php?id=hyyy8m/8000000
 星光影院,http://nas.jdshipin.com:8801/bst.php?id=xgyy8m/8000000
 全球大片,http://nas.jdshipin.com:8801/bst.php?id=qqdp8m/8000000
@@ -221,8 +213,8 @@ clarity 4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8$超高清
 达州新闻综合,http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv$全高清
 达州文化生活,http://tv.drs.dzxw.net/channellive/ggpd-dz2.flv$全高清
 达州通川频道,http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv$全高清
-万源,http://live.wanyuannews.com/wytv/hd/live.m3u8$全高清
-万源,http://live.wanyuannews.com/wytv/playlist.m3u8$全高清
+万源新闻综合,http://live.wanyuannews.com/wytv/hd/live.m3u8$全高清
+万源新闻综合,http://live.wanyuannews.com/wytv/playlist.m3u8$全高清
 大竹新闻综合,http://60.255.120.30:89/live1/live1.m3u8$全高清
 德阳文旅科教,http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8$高清
 德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8$高清
@@ -354,9 +346,12 @@ Channel [V],http://j.cxctu.cf:4000/udp/239.93.0.157:2194
 内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
 
 云南影视,http://mqiptv.com:8014/ch/custom20/mqlive.m3u8
+云南21,http://mqiptv.com:8014/ch/custom21/mqlive.m3u8
 云南娱乐,http://mqiptv.com:8014/ch/custom22/mqlive.m3u8
-云南都市,http://mqiptv.com:8014/ch/custom25/mqlive.m3u8
 云南康旅,http://mqiptv.com:8014/ch/custom23/mqlive.m3u8
+云南24,http://mqiptv.com:8014/ch/custom24/mqlive.m3u8
+云南都市,http://mqiptv.com:8014/ch/custom25/mqlive.m3u8
+
 
 广播,#genre#
 中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
