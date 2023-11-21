@@ -46,12 +46,11 @@
 {"key":"七七","name":"七七","type":3,"api":"./open/kunyu77.js","searchable":1,"changeable":1}, 
 {"key":"奈飞","name":"奈飞","type":3,"api":"./open/naifei.js","searchable":1,"changeable":1}, 
 {"key":"迷迷","name":"迷迷","type":3,"api":"./open/mimiju.js","searchable":1,"changeable":1}, 
-{"key":"素白","name":"素白","type":3,"api":"./open/subaibai.js","searchable":1,"changeable":1}, 
-{"key":"免费①","name":"免费①","type":3,"api":"./open/free.js","searchable":1,"changeable":1}, 
-{"key":"免费②","name":"免费②","type":3,"api":"./open/mfk.js","searchable":1,"changeable":1}, 
+
+{"key":"免费","name":"免费","type":3,"api":"./open/free.js","searchable":1,"changeable":1}, 
 {"key":"视界","name":"视界","type":3,"api":"./open/4kdyw.js","searchable":1,"changeable":1,"categories":["追剧","动漫","综艺"]}, 
 {"key":"悠久","name":"悠久","type":3,"api":"./open/youjiu.js","searchable":1,"changeable":1}, 
-{"key":"JOJO","name":"JOJO","type":3,"api":"./open/jojo.js","searchable":1,"changeable":1}, 
+
 {"key":"快看①","name":"快看①","type":3,"api":"./open/kkys.js","searchable":1,"changeable":1}, 
   
 //json采集接口type：1,xml采集接口type：0
@@ -94,7 +93,7 @@
 {"key":"深蓝","name":"深蓝","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/深蓝.json"},
 {"key":"五五","name":"五五","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/五五.json"},
   
-{"key":"哔哩①","name":"哔哩①","type":3,"api":"./open/bili1.js","searchable":1,"changeable":1}, 
+{"key":"哔哩①","name":"哔哩①","type":3,"api":"./open/bili1.js","searchable":1,"changeable":1,"ext":{"categories":"沙雕动画#沙雕穿越#沙雕"}}, 
 {"key":"哔哩②","name":"哔哩②","type":3,"api":"./open/bili2.js","searchable":1,"changeable":1}, 
 {"key":"央视","name":"央视","type":3,"api":"./open/cntv.js","searchable":1,"changeable":1}, 
 {"key":"乐虎","name":"乐虎","type":3,"api":"./open/beilehu.js","searchable":1,"changeable":1},
