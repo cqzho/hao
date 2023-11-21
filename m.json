@@ -91,7 +91,7 @@
 {"key":"深蓝","name":"深蓝","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/深蓝.json"},
 {"key":"五五","name":"五五","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/五五.json"},
   
-{"key":"哔哩①","name":"哔哩①","type":3,"api":"./open/bili1.js","searchable":1,"changeable":1,"ext":{"categories":"小猪佩奇#超级宝贝JOJO#汪汪队立大功#熊出没#喜羊羊与灰太狼#萌鸡小队#贝乐虎儿歌#迷你特工队阿哦星球大作战#飞狗MOCO#精灵梦叶罗丽#兔子姐姐#恐龙#奥特曼"}}, 
+{"key":"哔哩①","name":"哔哩①","type":3,"api":"./open/bili1.js","searchable":1,"changeable":1,"ext":{"categories":"小猪佩奇#超级宝贝JOJO#汪汪队立大功#熊出没#喜羊羊与灰太狼#萌鸡小队#贝乐虎儿歌#迷你特工队阿哦星球大作战#飞狗MOCO#精灵梦叶罗丽#兔子姐姐#恐龙#奥特曼#宝宝巴士"}}, 
 {"key":"哔哩②","name":"哔哩②","type":3,"api":"./open/bili2.js","searchable":1,"changeable":1}, 
 {"key":"央视","name":"央视","type":3,"api":"./open/cntv.js","searchable":1,"changeable":1}, 
 {"key":"乐虎","name":"乐虎","type":3,"api":"./open/beilehu.js","searchable":1,"changeable":1},
