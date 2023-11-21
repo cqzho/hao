@@ -346,10 +346,8 @@ Channel [V],http://j.cxctu.cf:4000/udp/239.93.0.157:2194
 内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
 
 云南影视,http://mqiptv.com:8014/ch/custom20/mqlive.m3u8
-云南21,http://mqiptv.com:8014/ch/custom21/mqlive.m3u8
 云南娱乐,http://mqiptv.com:8014/ch/custom22/mqlive.m3u8
 云南康旅,http://mqiptv.com:8014/ch/custom23/mqlive.m3u8
-云南24,http://mqiptv.com:8014/ch/custom24/mqlive.m3u8
 云南都市,http://mqiptv.com:8014/ch/custom25/mqlive.m3u8
 
 
@@ -375,6 +373,4 @@ Channel [V],http://j.cxctu.cf:4000/udp/239.93.0.157:2194
 四川新闻频率,http://satellitepull.cnr.cn/live/wxsclyshgb/playlist.m3u8
 重庆音乐广播,http://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8
 重庆新闻广播,http://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
-贵州音乐广播,http://satellitepull.cnr.cn/live/wx32gzyygb/playlist.m3u8
-贵州故事广播,http://satellitepull.cnr.cn/live/wx32gzgsgb/playlist.m3u8
-贵州综合广播,http://satellitepull.cnr.cn/live/wx32gzwxwzhgb/playlist.m3u8
+
