@@ -1,5 +1,6 @@
 {"sites":[
 {"key":"豆瓣","name":"豆瓣","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/豆瓣.js"},
+{"key":"腾讯","name":"腾讯","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/腾讯.js"},
 {"key":"厂长","name":"厂长","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/厂长.js"},
 {"key":"南瓜","name":"南瓜","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/南瓜.js"},
 {"key":"奥特","name":"奥特","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/奥特.js"},
@@ -44,9 +45,14 @@
   
 {"key":"七七","name":"七七","type":3,"api":"./open/kunyu77.js","searchable":1,"changeable":1}, 
 {"key":"奈飞","name":"奈飞","type":3,"api":"./open/naifei.js","searchable":1,"changeable":1}, 
-{"key":"免费","name":"免费","type":3,"api":"./open/free.js","searchable":1,"changeable":1}, 
+{"key":"迷迷","name":"迷迷","type":3,"api":"./open/mimiju.js","searchable":1,"changeable":1}, 
+{"key":"素白","name":"素白","type":3,"api":"./open/subaibai.js","searchable":1,"changeable":1}, 
+{"key":"免费①","name":"免费①","type":3,"api":"./open/free.js","searchable":1,"changeable":1}, 
+{"key":"免费②","name":"免费②","type":3,"api":"./open/mfk.js","searchable":1,"changeable":1}, 
 {"key":"视界","name":"视界","type":3,"api":"./open/4kdyw.js","searchable":1,"changeable":1,"categories":["追剧","动漫","综艺"]}, 
 {"key":"悠久","name":"悠久","type":3,"api":"./open/youjiu.js","searchable":1,"changeable":1}, 
+{"key":"JOJO","name":"JOJO","type":3,"api":"./open/jojo.js","searchable":1,"changeable":1}, 
+{"key":"快看①","name":"快看①","type":3,"api":"./open/kkys.js","searchable":1,"changeable":1}, 
   
 //json采集接口type：1,xml采集接口type：0
 {"key":"暴风","name":"暴风","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","记录片","动画片","大陆综艺"]},
@@ -54,7 +60,7 @@
 {"key":"索尼","name":"索尼","type":1,"api":"https://suoniapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["国产剧","港剧","台剧","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","记录片","动画片","大陆综艺"]},
 {"key":"土豪","name":"土豪","type":1,"api":"https://www.tuhao.tv/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["国产剧","港台剧","台湾剧","动作片","喜剧片","爱情片","科幻片","奇幻片","剧情片","战争片","犯罪片","记录片","动画片","邵氏电影","大陆综艺"]},
 {"key":"四九","name":"四九","type":1,"api":"https://49zyw.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","动作片","喜剧片","爱情片","科幻片","奇幻片","剧情片","战争片","犯罪片","动画片","大陆综艺"]},
-{"key":"快看","name":"快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["国产剧","港台剧","动作片","喜剧片","爱情片","科幻片","奇幻片","剧情片","战争片","犯罪片","动画片","国产综艺"]},
+{"key":"快看②","name":"快看②","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["国产剧","港台剧","动作片","喜剧片","爱情片","科幻片","奇幻片","剧情片","战争片","犯罪片","动画片","国产综艺"]},
 {"key":"星影","name":"星影","type":1,"api":"https://www.xy1080.net/api.php/provide/vod/","searchable":1,"changeable":1},
   
 {"key":"影探","name":"影探","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
@@ -87,7 +93,9 @@
 {"key":"三三","name":"三三","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/三三.json"},
 {"key":"深蓝","name":"深蓝","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/深蓝.json"},
 {"key":"五五","name":"五五","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/五五.json"},
-
+  
+{"key":"哔哩①","name":"哔哩①","type":3,"api":"./open/bili1.js","searchable":1,"changeable":1}, 
+{"key":"哔哩②","name":"哔哩②","type":3,"api":"./open/bili2.js","searchable":1,"changeable":1}, 
 {"key":"央视","name":"央视","type":3,"api":"./open/cntv.js","searchable":1,"changeable":1}, 
 {"key":"乐虎","name":"乐虎","type":3,"api":"./open/beilehu.js","searchable":1,"changeable":1},
 {"key":"小贝","name":"小贝","type":3,"api":"./open/tuxiaobei.js","searchable":1,"changeable":1},
