@@ -50,6 +50,7 @@
 {"key":"视界","name":"影视|视界","type":3,"api":"./open/4kdyw.js","searchable":1,"changeable":1,"categories":["追剧","动漫","综艺"]}, 
 {"key":"悠久","name":"影视|悠久","type":3,"api":"./open/youjiu.js","searchable":1,"changeable":1}, 
 {"key":"看看","name":"影视|看看","type":3,"api":"./open/kkys.js","searchable":1,"changeable":1}, 
+{"key":"VS","name":"影视|VS","type":3,"api":"./open/vs.js","searchable":1,"changeable":1}, 
   
 //json采集接口type：1,xml采集接口type：0
 {"key":"暴风","name":"影视|暴风","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","记录片","动画片","大陆综艺"]},
