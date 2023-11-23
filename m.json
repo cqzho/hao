@@ -37,7 +37,6 @@
 {"key":"短剧①","name":"影视|短剧1️⃣","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/短剧.js"},
 {"key":"秋霞","name":"影视|秋霞","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/秋霞.js"},
 {"key":"兰花","name":"影视|兰花","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/兰花.js"},
-{"key":"北川①","name":"影视|北川1️⃣","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/北川.js"},
 {"key":"六位","name":"🚫磁力|六位","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/六位.js"},
 {"key":"电杆","name":"🚫磁力|电杆","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/电杆.js"},
 {"key":"冒泡","name":"🚫磁力|冒泡","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/冒泡.js"},
@@ -77,7 +76,7 @@
 {"key":"云盘","name":"影视|云盘","type":3,"api":"csp_AList","searchable":1,"changeable":1,"ext": "./json/云盘.json","jar":"./libs/fan.txt"},
 {"key":"哔嘀①","name":"影视|哔嘀1️⃣","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"北川②","name":"影视|北川2️⃣","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/北川.json"},
+{"key":"北川","name":"影视|北川","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/北川.json"},
 {"key":"惊艳","name":"影视|惊艳","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/惊艳.json"},
 {"key":"温度","name":"影视|温度","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./libs/fan.txt","ext":"./json/温度.json"},
   
