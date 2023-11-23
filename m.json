@@ -52,7 +52,6 @@
   
 //json采集接口type：1,xml采集接口type：0
 {"key":"暴风","name":"影视|暴风","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","记录片","动画片","大陆综艺"]},
-{"key":"火锅","name":"影视|火锅","type":1,"api":"https://hong.hgyx.vip/api.php/provide/vod/","searchable":1,"changeable":1},
 {"key":"索尼","name":"影视|索尼","type":1,"api":"https://suoniapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["国产剧","港剧","台剧","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","记录片","动画片","大陆综艺"]},
 {"key":"土豪","name":"影视|土豪","type":1,"api":"https://www.tuhao.tv/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["国产剧","港台剧","台湾剧","动作片","喜剧片","爱情片","科幻片","奇幻片","剧情片","战争片","犯罪片","记录片","动画片","邵氏电影","大陆综艺"]},
 {"key":"四九","name":"影视|四九","type":1,"api":"https://49zyw.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["国产剧","香港剧","台湾剧","动作片","喜剧片","爱情片","科幻片","奇幻片","剧情片","战争片","犯罪片","动画片","大陆综艺"]},
@@ -61,16 +60,13 @@
   
 {"key":"影探","name":"影视|影探","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
 {"key":"酷影","name":"影视|酷影","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","categories":["电影","电视剧","综艺","动漫"]},
-{"key":"官采","name":"影视|官采","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://154.12.90.7:86/api.php/app/"}, 
 {"key":"丫丫","name":"影视|丫丫","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.netfly.tv/api.php/app/","categories":["电影","剧集","综艺","动漫"]},
 {"key":"如意","name":"影视|如意","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/","categories":["电影","电视剧","综艺","动漫"]},
 {"key":"北极","name":"影视|北极","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.kuin.one/api.php/app/"},
 {"key":"迷你","name":"影视|迷你","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/","categories":["电影","剧集","综艺","动漫"]},
-{"key":"酷酷","name":"影视|酷酷","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://cms.realdou.cn:35264/api.php/app/"},
 {"key":"公社","name":"影视|公社","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key":"信心","name":"影视|信心","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://yingszj.xn--654a.cc/api.php/app/"},
 {"key":"曲奇","name":"影视|曲奇","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://1234567.weixiaolove.cn/api.php/app/"},
-{"key":"来狗","name":"影视|来狗","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://netflixdog.club/api.php/app/"},
 {"key":"吼吼","name":"影视|吼吼","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://www.hohovod.com/api.php/app/"},
 {"key":"小乐","name":"影视|小乐","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"http://www.kuloo.xyz/mogai_api.php/v1.vod"},
 {"key":"零刻","name":"影视|零刻","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":1,"ext":"https://ys.51bro.cn/mogai_api.php/v1.vod"},
