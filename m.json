@@ -36,6 +36,7 @@
 {"key":"视觉","name":"影视|视觉","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/视觉.js"},
 {"key":"短剧①","name":"影视|短剧1️⃣","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/短剧.js"},
 {"key":"秋霞","name":"影视|秋霞","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/秋霞.js"},
+{"key":"兰花","name":"影视|兰花","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/兰花.js"},
 {"key":"六位","name":"🚫磁力|六位","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/六位.js"},
 {"key":"电杆","name":"🚫磁力|电杆","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/电杆.js"},
 {"key":"冒泡","name":"🚫磁力|冒泡","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/冒泡.js"},
