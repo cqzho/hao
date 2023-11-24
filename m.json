@@ -88,7 +88,6 @@
 {"key":"哔嘀②","name":"🚫磁力|哔嘀2️⃣","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/哔嘀.json"},
 {"key":"比特②","name":"🚫磁力|比特2️⃣","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/比特.json"},
 {"key":"阿宝","name":"影视|阿宝","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/阿宝.json"},
-{"key":"不卡","name":"影视|不卡","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/不卡.json"},
 {"key":"臭蛋","name":"影视|臭蛋","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/臭蛋.json"},
 {"key":"疯狗","name":"影视|疯狗","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/疯狗.json"},
 {"key":"干饭","name":"影视|干饭","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/干饭.json"},
