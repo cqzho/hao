@@ -2,4 +2,5 @@
 {"url":"https://raw.fgit.cf/cqzho/hao/main/m.json","name":"线路①"},
 {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/cqzho/hao/main/m.json","name":"线路②"},
 {"url":"https://fastly.jsdelivr.net/gh/cqzho/hao@main/m.json","name":"线路③"},
-{"url":"https://6666.eu.org/m.json","name":"线路④"}]}
+{"url":"https://6666.eu.org/m.json","name":"线路④"},
+{"url":"http://555.hz.cz/tv/m.json","name":"线路⑤"}]}
