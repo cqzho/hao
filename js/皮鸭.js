@@ -5,14 +5,14 @@ muban.短视2.二级.tab_text = '.swiper-slide--i&&Text';
 var rule = {
 	title:'皮皮鸭',
 	模板:'短视2',
-	// host:'https://pipiya.cc',
+
 	host:'https://www.ppydy.com',
 	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"a:eq(3)&&href");print(src);HOST=src',
 	homeUrl:'/label/rank.html',
 	class_name:'电影&剧集&综艺&动漫',
 	class_url:'1&2&3&4',
-	// url: '/vodtype/fyclass/page/fypage.html',
-	url:'/vodshow/fyclassfyfilter.html',
+	url: '/vodtype/fyclass/page/fypage.html',
+	// url:'/vodshow/fyclassfyfilter.html',
 	// url: '/api.php/provide/vod?ac=videolist&pg=fypage&t=fyclass',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'{{fl.cateId}}{{fl.area}}{{fl.by}}{{fl.class}}{{fl.lang}}{{fl.letter}}/page/fypage{{fl.year}}',
