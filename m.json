@@ -10,7 +10,6 @@
 {"key":"兄弟","name":"影视|兄弟","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/兄弟.js"},
 {"key":"工场","name":"影视|工场","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/工场.js"},
 {"key":"比特①","name":"影视|比特1️⃣","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/比特.js"},
-{"key":"零七","name":"影视|零七","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/零七.js","categories":["电影","电视剧","动漫","综艺"]},
 {"key":"优美","name":"影视|优美","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/优美.js"},
 {"key":"生活","name":"影视|生活","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/生活.js"},
 {"key":"光棍","name":"影视|光棍","type":3,"api":"./libs/drpy.js","searchable":1,"changeable":1,"ext":"./js/光棍.js"},
