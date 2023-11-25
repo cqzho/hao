@@ -78,9 +78,9 @@
 {"key":"云盘","name":"Alist|云盘","type":3,"api":"csp_AList","searchable":1,"changeable":1,"ext": "./json/云盘.json","jar":"./jar/fm20231125.jar"},
 {"key":"哔嘀①","name":"哔嘀|影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"北川","name":"北川|影视","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./jar/fan.txt","ext":"./json/北川.json"},
-{"key":"惊艳","name":"惊艳|影视","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./jar/fan.txt","ext":"./json/惊艳.json"},
-{"key":"温度","name":"温度|影视","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./jar/fan.txt","ext":"./json/温度.json"},
+{"key":"北川","name":"北川|影视","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./jar/XBPQ.jar","ext":"./json/北川.json"},
+{"key":"惊艳","name":"惊艳|影视","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./jar/XBPQ.jar","ext":"./json/惊艳.json"},
+{"key":"温度","name":"温度|影视","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./jar/XBPQ.jar","ext":"./json/温度.json"},
   
 {"key":"红领","name":"红领|影视","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/红领.json"},
 {"key":"奇趣","name":"奇趣|影视","type":3,"api":"csp_XYQHiker","searchable":1,"changeable":1,"ext":"./json/奇趣.json"},
