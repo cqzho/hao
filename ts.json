@@ -12,21 +12,17 @@
 {"名字":"FF","寻找词":"vip.ffzy#hd.ffzy","正则规则":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]}],
   
 "zhuyejiekou": [
-{"name":"影探","url":"http://vipcms.lyyytv.cn/api.php/app/"},
-{"name":"三五","url":"https://www.555fl2.com/api.php/app/"},
+{"name":"三五","url":"https://www.555dyhd.com/api.php/app/"},
 {"name":"如意","url":"http://cms.maoyingshi.cc/api.php/app/"},
 {"name":"酷影","url":"https://www.tvkuys.xyz/api.php/app/"},
 {"name":"可米","url":"https://cokemv.org/xgapp.php/v3/"},
 {"name":"奈飞","url":"https://www.netfly.tv/api.php/app/"},
 {"name":"迷你","url":"http://www.miniku.cc/xgapp.php/v1/"},
 {"name":"可可","url":"http://4k.953365.cn:8090/xgapp.php/v1/"}, 
-{"name":"官采","url":"http://154.12.90.7:86/api.php/app/"}, 
 {"name":"北极","url":"https://www.kuin.one/api.php/app/"}, 
-{"name":"酷酷","url":"http://cms.realdou.cn:35264/api.php/app/"},
 {"name":"公社","url":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"name":"信心","url":"http://yingszj.xn--654a.cc/api.php/app/"},
 {"name":"曲奇","url":"https://1234567.weixiaolove.cn/api.php/app/"},
-{"name":"来狗","url":"https://netflixdog.club/api.php/app/"},
 {"name":"吼吼","url":"https://www.hohovod.com/api.php/app/"},
 {"name":"零刻","url":"https://ys.51bro.cn/mogai_api.php/v1.vod"}, 
 {"name":"零六","url":"http://max.1006.tk/api.php/v1.vod"}, 
@@ -35,10 +31,8 @@
 
 "caijizhan": [
 {"name":"七七","url":"http://api.tyun77.cn/api.php"},
-{"name":"索尼","url":"https://suoniapi.com/api.php"}, 
 {"name":"土豪","url":"https://www.tuhao.tv/api.php"}, 
 {"name":"四九","url":"https://49zyw.com/api.php"}, 
-{"name":"大漠","url":"https://www.damozy.com/api.php/"}, 
 {"name":"宿舍","url":"http://150.158.102.76/api.php"},
 {"name":"哆咪","url":"https://www.vbuyu.cn/api.php"},
 {"name":"最大","url":"http://zuidazy.me/api.php"}],
