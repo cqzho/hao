@@ -1,1 +1,1 @@
-调试助手全局接口：https://6666.eu.org/ts.json
+调试助手全局接口：https://7777.hz.cz/ts.json
