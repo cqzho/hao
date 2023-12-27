@@ -1,10 +1,10 @@
 {"Home": [
-{"key":"APP","title":"APP","pic":"./img/app.jpg"},
-{"key":"采集","title":"采集","pic":"./img/caiji.jpg"},
-{"key":"网页","title":"网页","pic":"./img/wangye.jpg"},
-{"key":"直播","title":"直播","pic":"./img/zhibo.jpg"},
-{"key":"历史","title":"历史","pic":"./img/lishi.jpg"},
-{"key":"收藏","title":"收藏","pic":"./img/shouchang.jpg"}],
+{"key":"APP","title":"APP","pic":"https://7777.hz.cz/img/app.jpg"},
+{"key":"采集","title":"采集","pic":"https://7777.hz.cz/img/caiji.jpg"},
+{"key":"网页","title":"网页","pic":"https://7777.hz.cz/img/wangye.jpg"},
+{"key":"直播","title":"直播","pic":"https://7777.hz.cz/img/zhibo.jpg"},
+{"key":"历史","title":"历史","pic":"https://7777.hz.cz/img/lishi.jpg"},
+{"key":"收藏","title":"收藏","pic":"https://7777.hz.cz/img/shouchang.jpg"}],
 
 "去广告规则":[
 {"名字":"LZ","寻找词":"vip.lz#hd.lz","正则规则": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
@@ -12,7 +12,7 @@
 {"名字":"FF","寻找词":"vip.ffzy#hd.ffzy","正则规则":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]}],
   
 "zhuyejiekou": [
-{"name":"三五","url":"https://www.555dyhd.com/api.php/app/"},
+{"name":"三五","url":"https://555ys.cc/api.php/app/"},
 {"name":"如意","url":"http://cms.maoyingshi.cc/api.php/app/"},
 {"name":"酷影","url":"https://www.tvkuys.xyz/api.php/app/"},
 {"name":"可米","url":"https://cokemv.org/xgapp.php/v3/"},
@@ -21,6 +21,7 @@
 {"name":"可可","url":"http://4k.953365.cn:8090/xgapp.php/v1/"}, 
 {"name":"北极","url":"https://www.kuin.one/api.php/app/"}, 
 {"name":"公社","url":"https://www.gsjtlxy.top/xgapp.php/v3/"},
+{"name":"鑫鑫","url":"http://iosa.xn--654a.cc/api.php/app/"},
 {"name":"信心","url":"http://yingszj.xn--654a.cc/api.php/app/"},
 {"name":"曲奇","url":"https://1234567.weixiaolove.cn/api.php/app/"},
 {"name":"吼吼","url":"https://www.hohovod.com/api.php/app/"},
@@ -38,8 +39,7 @@
 {"name":"最大","url":"http://zuidazy.me/api.php"}],
 
 "zhujiexi":[
-{"name":"主解1","url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
-{"name":"主解2","url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="}],
+{"name":"主解","url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="}],
   
 "beiyongjiexi": [
 {"name":"JP","url":"https://jx.jsonplayer.com/player/?url="},
@@ -55,7 +55,7 @@
 {"name":"180","url":"https://jx.000180.top/jx/?url="},
 {"name":"8090","url":"https://www.8090g.cn/?url="}],
 
-"dianshizhibo": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+"dianshizhibo": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u",
 "嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=#.mkv#rtmp://",
 "guolvdizhi": ".html#51.la#?url=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com#.pw#.svg#.js",
 
