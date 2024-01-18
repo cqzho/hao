@@ -19,13 +19,10 @@
 {"key":"奥特","name":"奥特｜影视","type":3,"api":"./libs/drpy.js","ext":"./js/奥特.js"},
 {"key":"被窝","name":"被窝｜影视","type":3,"api":"./libs/drpy.js","ext":"./js/被窝.js"},
 {"key":"比特①","name":"比特｜影视","type":3,"api":"./libs/drpy.js","ext":"./js/比特.js"},
-//{"key":"八八","name":"八八｜影视","type":3,"api":"./libs/drpy.js","ext":"./js/八八.js"},
 {"key":"低端","name":"低端｜影视","type":3,"api":"./libs/drpy.js","ext":"./js/低端.js"},
 {"key":"咕噜","name":"咕噜｜影视","type":3,"api":"./libs/drpy.js","ext":"./js/咕噜.js"},
 {"key":"机器","name":"机器｜影视","type":3,"api":"./libs/drpy.js","ext":"./js/机器.js"},
-//{"key":"九六","name":"九六｜影视","type":3,"api":"./libs/drpy.js","ext":"./js/九六.js"},
 {"key":"六九①","name":"六九｜影视","type":3,"api":"./libs/drpy.js","ext":"./js/六九.js"},
-//{"key":"六九②","name":"六九｜影视","type":3,"api":"./libs/drpy.js","ext":"./js/六九V2.js"},
 {"key":"立播","name":"立播｜影视","type":3,"api":"./libs/drpy.js","ext":"./js/立播.js"},
 {"key":"兰花","name":"兰花｜影视","type":3,"api":"./libs/drpy.js","ext":"./js/兰花.js"},
 {"key":"量子","name":"量子｜影视","type":3,"api":"./libs/drpy.js","ext":"./js/量子.js"},
@@ -67,7 +64,6 @@
 {"key":"蛋蛋","name":"蛋蛋｜影视","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./jar/XBPQ.jar","ext":"./json/蛋蛋.json"},
 {"key":"非凡","name":"非凡｜影视","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./jar/XBPQ.jar","ext":"./json/非凡.json"},
 {"key":"七年","name":"七年｜影视","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./jar/XBPQ.jar","ext":"./json/七年.json"},
-//{"key":"奇优","name":"奇优｜影视","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./jar/XBPQ.jar","ext":"./json/奇优.json"},
 {"key":"好戏","name":"好戏｜影视","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./jar/XBPQ.jar","ext":"./json/好戏.json"},
 {"key":"之家","name":"之家｜影视","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"jar":"./jar/XBPQ.jar","ext":"./json/之家.json"},
 
@@ -111,6 +107,7 @@
 "spider":"./jar/XYQ.jar",
 "lives":[
 {"name":"综合","type":0,"url":"./live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"FMM_IPV6","type":0,"url":"https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"EPG","type":0,"url":"https://epg.pw/test_channels.m3u","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
