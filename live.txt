@@ -1,15 +1,15 @@
 综合,#genre#
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
-云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/playlist.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+CGTN记录,https://livedoc.cgtn.com/500d/prog_index.m3u8
+CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
+CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
+CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
+CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
+CGTN新闻,http://live.cgtn.com/1000/prog_index.m3u8
 
 4K,#genre#
-北京IPTV淘电影,http://r.jdshipin.com/OeHMu
 苏州4K频道,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-北京纪实8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 Love Nrture 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$超高清
 
 重庆,#genre#
@@ -25,14 +25,8 @@ Love Nrture 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$超高�
 达州通川频道,http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv$全高清
 万源新闻综合,http://live.wanyuannews.com/wytv/hd/live.m3u8$全高清
 万源新闻综合,http://live.wanyuannews.com/wytv/playlist.m3u8$全高清
-大竹新闻综合,http://60.255.120.30:89/live1/live1.m3u8$全高清
-大竹阳光政务,http://60.255.120.30:89/live2/live2.m3u8$全高清
 德阳文旅科教,http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8$高清
 德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8$高清
-甘孜综合频道,http://m3u8.channel.ganzitv.com/vms/videos/nmip-media/channellive/channel1/playlist.m3u8$高清
-甘孜综合频道,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv$高清
-珙县综合频道,http://pili-live-hls-cqgx.tianma3600.com/cqgx/ggpd.m3u8$高清
-汉源综合频道,http://live.hyxrmt.com:85/live/xwpd.m3u8$全高清
 黑水新闻综合,http://live.schstv.com:90/live/xwzh.m3u8$全高清
 洪雅新闻综合,http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.M3U8$全高清
 金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8$全高清
@@ -50,11 +44,18 @@ Love Nrture 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$超高�
 渠县新闻综合,http://222.208.224.227:81/hls/cfp2p8m3.m3u8$高清
 三台电视,http://125.65.94.91:12351/live$高清
 松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8$全高清
-威远新闻综合,http://dxplay.scwy.cn/live/weiyuanzonghepingdao/index.m3u8$全高清
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8$全高清
 长宁综合,http://cnpull.sccnfb.com/live/123456.m3u8$全高清
 
 浙江,#genre#
+浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江数码时代,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
 绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
@@ -102,11 +103,9 @@ Love Nrture 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$超高�
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8?zjiangsd
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
-大丰公共频道,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8?zjiangsd
 东台综合频道,http://dongtai-tv-hls.cm.jstv.com/dongtai-tv/dongtaizonghe.m3u8?zjiangsd
 溧水新闻综合,http://live.lsrmw.cn/zhpd/sd/live.m3u8?zjiangsd
 溧水影视娱乐,http://live.lsrmw.cn/ysyl/sd/live.m3u8?zjiangsd
-淮阴综合频道,http://huaiyin-tv-hls.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8?zjiangsd
 金湖新闻综合,http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8?zjiangsd
 金坛新闻频道,http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8?zjiangsd
 海安新闻综合,http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8?zjiangsd
@@ -201,40 +200,6 @@ Love Nrture 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$超高�
 澳门体育,http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
 澳门综艺,http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8$标清1
-TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-博斯高球1,http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
-博斯高球二台,http://198.16.100.90:8278/bosigolf2_twn/playlist.m3u8?tid=MF5F9848925298489252&ct=19225&tsum=2600464749aadbcd55d1c32ec071e36e
-博斯魅力,http://198.16.100.90:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
-博斯网球,http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
-博斯运动2,http://198.16.100.90:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
-大爱,http://198.16.100.90:8278/daai_twn/playlist.m3u8?tid=MF5F4357730143577301&ct=19225&tsum=10c092424b1c12259444b68ad663c9eb
-大爱2,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-国家地理野生,http://198.16.100.90:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
-好莱坞电影台,http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
-好消息2台,http://198.16.100.90:8278/good2_twn/playlist.m3u8?tid=ME9E3966510439665104&ct=19225&tsum=a2788b2ccea04a8a8082d663fb7838e5
-华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
-华语电视,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
-靖天卡通台,http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8?tid=MFDF8331008583310085&ct=19249&tsum=ace70a4a198e7d24a6daaeb60aaf3e24
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-三立综合台,http://198.16.100.90:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
-时尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-唯心电视台,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-纬来日本,http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
-香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-野生动物,http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=MF6F5354447153544471&ct=19249&tsum=fcc679b64dded7ec1ff6a0f09e335f38
-有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
-长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
-中视经典,http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
 
 广播,#genre#
 中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
