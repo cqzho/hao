@@ -424,6 +424,10 @@
             "name": "量子"
         },
         {
+            "api": "https://iqyi.xiaohuangrentv.com/api.php",
+            "name": "小黄"
+        },
+        {
             "api": "https://www.xrbsp.com/api/json.php",
             "name": "热播"
         },
