@@ -57,24 +57,6 @@
             "type": 100
         },
         {
-            "name": "厂长",
-            "api": "https://6666.eu.org/vod/js/changZhang20240614.js",
-            "instance": "changZhang20240614",
-            "webSite": "https://www.czzyvideo.com",
-            "remark": "",
-            "version": "2",
-            "type": 100
-        },
-        {
-            "name": "苹果",
-            "api": "https://6666.eu.org/vod/js/xpgtv.js",
-            "instance": "xpgtv20241220",
-            "webSite": "http://item.xpgtv.xyz",
-            "remark": "",
-            "version": "2",
-            "type": 100
-        },
-        {
             "name": "在线",
             "api": "https://6666.eu.org/vod/js/zxzj.js",
             "instance": "zxzj20240620",
@@ -84,37 +66,10 @@
             "type": 100
         },
         {
-            "name": "欧乐",
-            "api": "https://6666.eu.org/vod/js/olevod.js",
-            "instance": "olevod20240620",
-            "webSite": "https://www.olevod.tv",
-            "remark": "需海外IP",
-            "version": "2",
-            "type": 100
-        },
-        {
-            "name": "韩剧",
-            "api": "https://6666.eu.org/vod/js/hjkk.js",
-            "instance": "hjkk20240624",
-            "webSite": "https://www.hanjukankan.com",
-            "remark": "",
-            "version": "2",
-            "type": 100
-        },
-        {
             "name": "白白",
             "api": "https://6666.eu.org/vod/js/subaibai.js",
             "instance": "sbb20240624",
             "webSite": "https://www.subaibaiys.com",
-            "remark": "",
-            "version": "2",
-            "type": 100
-        },
-        {
-            "name": "两个",
-            "api": "https://6666.eu.org/vod/js/bttwo.js",
-            "instance": "bttwo20240628",
-            "webSite": "https://www.bttwo.vip",
             "remark": "",
             "version": "2",
             "type": 100
@@ -142,15 +97,6 @@
             "api": "https://6666.eu.org/vod/js/jpyy.js",
             "instance": "jpyy20240716",
             "webSite": "https://www.cfkj86.com",
-            "remark": "",
-            "version": "2",
-            "type": 100
-        },
-        {
-            "name": "4K",
-            "api": "https://6666.eu.org/vod/js/4kav.js",
-            "instance": "www4kav20240705",
-            "webSite": "https://4k-av.com",
             "remark": "",
             "version": "2",
             "type": 100
@@ -192,23 +138,6 @@
             "remark": "",
             "version": "2",
             "type": 100
-        },
-        {
-            "name": "短剧",
-            "api": "https://6666.eu.org/vod/js/duanjutt.js",
-            "instance": "duanjutt20240922",
-            "webSite": "https://duanjutt.tv",
-            "remark": "搜索间隔不能小于10秒",
-            "version": "2",
-            "type": 100
-        },
-        {
-            "name": "修罗",
-            "api": "https://6666.eu.org/vod/js/biliys.js",
-            "webSite": "https://www.xlys01.com",
-            "remark": "1.6.41 及以上版本可用",
-            "version": "1",
-            "type": 101
         },
         {
             "name": "听书",
@@ -254,24 +183,6 @@
             "type": 100
         },
         {
-            "name": "云星",
-            "api": "https://6666.eu.org/vod/js/yunxing.js",
-            "instance": "yunxing20241030",
-            "webSite": "https://4k.4u4.cn",
-            "remark": "云星网盘",
-            "version": "2",
-            "type": 100
-        },
-        {
-            "name": "土豆",
-            "api": "https://6666.eu.org/vod/js/tudou.js",
-            "instance": "tudou20241030",
-            "webSite": "https://yunpan.yunpay.cc",
-            "remark": "土豆网盘",
-            "version": "2",
-            "type": 100
-        },
-        {
             "name": "云盘",
             "codeID": "",
             "api": "https://6666.eu.org/vod/js/resyunpan.js",
@@ -295,14 +206,6 @@
             "webSite": "http://wogg.xxooo.cf",
             "remark": "网盘 1.6.41 及以上版本可用",
             "version": "3",
-            "type": 101
-        },
-        {
-            "name": "木偶",
-            "api": "https://6666.eu.org/vod/js/mogg.js",
-            "webSite": "http://www.muoupan.top",
-            "remark": "网盘 1.6.41 及以上版本可用",
-            "version": "2",
             "type": 101
         },
         {
@@ -346,46 +249,10 @@
             "type": 101
         },
         {
-            "name": "麻豆",
-            "api": "https://6666.eu.org/vod/js/madou.js",
-            "instance": "madou20240626",
-            "webSite": "https://madou.club",
-            "remark": "需海外IP",
-            "version": "2",
-            "type": 100
-        },
-        {
             "name": "蜜思",
             "api": "https://6666.eu.org/vod/js/missav.js",
             "instance": "missav20240627",
-            "webSite": "https://missav.com",
-            "remark": "",
-            "version": "2",
-            "type": 100
-        },
-        {
-            "name": "佳博",
-            "api": "https://6666.eu.org/vod/js/jable.js",
-            "instance": "jable20240831",
-            "webSite": "https://jable.tv",
-            "remark": "",
-            "version": "2",
-            "type": 100
-        },
-        {
-            "name": "朵儿",
-            "api": "https://6666.eu.org/vod/js/hkdoll.js",
-            "instance": "hkdoll20240705",
-            "webSite": "https://hongkongdollvideo.com",
-            "remark": "",
-            "version": "2",
-            "type": 100
-        },
-        {
-            "name": "王妃",
-            "api": "https://6666.eu.org/vod/js/netflav.js",
-            "instance": "netflav20240905",
-            "webSite": "https://www.netflav.com",
+            "webSite": "https://missav456.com",
             "remark": "",
             "version": "2",
             "type": 100
@@ -400,36 +267,12 @@
             "type": 100
         },
         {
-            "api": "https://json.heimuer.xyz/api.php/provide/vod/",
-            "name": "木耳"
-        },
-        {
             "api": "https://360zy.com/api.php/provide/vod/",
             "name": "三三"
         },
         {
-            "api": "https://zpsps.com/api.php/provide/vod/",
-            "name": "宝片"
-        },
-        {
-            "api": "https://cj.vodimg.top/api.php/provide/vod/",
-            "name": "影图"
-        },
-        {
             "api": "https://bfzyapi.com/api.php/provide/vod/",
             "name": "暴风"
-        },
-        {
-            "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
-            "name": "量子"
-        },
-        {
-            "api": "https://iqyi.xiaohuangrentv.com/api.php/provide/vod/",
-            "name": "小黄"
-        },
-        {
-            "api": "https://www.xrbsp.com/api/json.php",
-            "name": "热播"
         },
         {
             "api": "http://fhapi9.com/api.php/provide/vod/",
@@ -442,22 +285,6 @@
         {
             "api": "https://jkunzyapi.com/api.php/provide/vod/",
             "name": "解困"
-        },
-        {
-            "api": "https://www.pgxdy.com/api/json.php",
-            "name": "苹果"
-        },
-        {
-            "api": "https://www.gdlsp.com/api/json.php",
-            "name": "蛇皮"
-        },
-        {
-            "api": "https://www.msnii.com/api/json.php",
-            "name": "美女"
-        },
-        {
-            "api": "https://www.kxgav.com/api/json.php",
-            "name": "开心"
         },
         {
             "api": "https://lbapi9.com/api.php/provide/vod/",
