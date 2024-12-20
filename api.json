@@ -129,15 +129,6 @@
             "type": 100
         },
         {
-            "name": "热播",
-            "api": "https://6666.eu.org/vod/js/tiantian.js",
-            "instance": "tiantian20240629",
-            "webSite": "http://v.rbotv.cn",
-            "remark": "",
-            "version": "2",
-            "type": 100
-        },
-        {
             "name": "蛋蛋",
             "api": "https://6666.eu.org/vod/js/dandanju.js",
             "instance": "dandanju20240704",
