@@ -34,10 +34,10 @@
             "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
         },
         {
-            "name": "网络直播",
-            "url": "https://tv.iill.top/m3u/Live",
+            "name": "电视直播",
+            "url": "https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
             "type": 10,
-            "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
+            "remark": "来自 fanmingming 大佬 https://github.com/fanmingming"
         },
         {
             "name": "体育直播",
