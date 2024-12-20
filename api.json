@@ -48,7 +48,7 @@
     ],
     "vod": [
         {
-            "name": "骚火影视",
+            "name": "骚火",
             "api": "https://6666.eu.org/vod/js/saohuo.js",
             "instance": "saohuo20240623",
             "webSite": "https://saohuo.tv",
@@ -57,7 +57,7 @@
             "type": 100
         },
         {
-            "name": "厂长视频",
+            "name": "厂长",
             "api": "https://6666.eu.org/vod/js/changZhang20240614.js",
             "instance": "changZhang20240614",
             "webSite": "https://www.czzyvideo.com",
@@ -66,7 +66,7 @@
             "type": 100
         },
         {
-            "name": "小苹果",
+            "name": "苹果",
             "api": "https://6666.eu.org/vod/js/xpgtv.js",
             "instance": "xpgtv20241220",
             "webSite": "http://item.xpgtv.xyz",
@@ -75,7 +75,7 @@
             "type": 100
         },
         {
-            "name": "在线之家",
+            "name": "在线",
             "api": "https://6666.eu.org/vod/js/zxzj.js",
             "instance": "zxzj20240620",
             "webSite": "https://www.zxzja.com",
@@ -84,7 +84,7 @@
             "type": 100
         },
         {
-            "name": "欧乐影视",
+            "name": "欧乐",
             "api": "https://6666.eu.org/vod/js/olevod.js",
             "instance": "olevod20240620",
             "webSite": "https://www.olevod.tv",
@@ -93,7 +93,7 @@
             "type": 100
         },
         {
-            "name": "韩剧看看",
+            "name": "韩剧",
             "api": "https://6666.eu.org/vod/js/hjkk.js",
             "instance": "hjkk20240624",
             "webSite": "https://www.hanjukankan.com",
@@ -102,7 +102,7 @@
             "type": 100
         },
         {
-            "name": "素白白",
+            "name": "白白",
             "api": "https://6666.eu.org/vod/js/subaibai.js",
             "instance": "sbb20240624",
             "webSite": "https://www.subaibaiys.com",
@@ -111,7 +111,7 @@
             "type": 100
         },
         {
-            "name": "两个BT",
+            "name": "两个",
             "api": "https://6666.eu.org/vod/js/bttwo.js",
             "instance": "bttwo20240628",
             "webSite": "https://www.bttwo.vip",
@@ -120,7 +120,7 @@
             "type": 100
         },
         {
-            "name": "天天影视",
+            "name": "天天",
             "api": "https://6666.eu.org/vod/js/tiantian.js",
             "instance": "tiantian20240629",
             "webSite": "http://op.ysdqjs.cn",
@@ -129,7 +129,7 @@
             "type": 100
         },
         {
-            "name": "热播影视",
+            "name": "热播",
             "api": "https://6666.eu.org/vod/js/tiantian.js",
             "instance": "tiantian20240629",
             "webSite": "http://v.rbotv.cn",
@@ -138,7 +138,7 @@
             "type": 100
         },
         {
-            "name": "蛋蛋剧",
+            "name": "蛋蛋",
             "api": "https://6666.eu.org/vod/js/dandanju.js",
             "instance": "dandanju20240704",
             "webSite": "https://www.dandanju.tv",
@@ -147,7 +147,7 @@
             "type": 100
         },
         {
-            "name": "金牌影院",
+            "name": "金牌",
             "api": "https://6666.eu.org/vod/js/jpyy.js",
             "instance": "jpyy20240716",
             "webSite": "https://www.cfkj86.com",
@@ -156,7 +156,7 @@
             "type": 100
         },
         {
-            "name": "4K影视",
+            "name": "4K",
             "api": "https://6666.eu.org/vod/js/4kav.js",
             "instance": "www4kav20240705",
             "webSite": "https://4k-av.com",
@@ -165,7 +165,7 @@
             "type": 100
         },
         {
-            "name": "瓜子web",
+            "name": "瓜子",
             "api": "https://6666.eu.org/vod/js/gzys.js",
             "instance": "gzys20240822",
             "webSite": "https://api.zaqohu.com",
@@ -174,7 +174,7 @@
             "type": 100
         },
         {
-            "name": "瓜子app",
+            "name": "瓜子",
             "api": "https://6666.eu.org/vod/js/gzapp.js",
             "codeID": "ra5Z3wtXKshzSMK2",
             "instance": "gzapp20241001",
@@ -184,7 +184,7 @@
             "type": 100
         },
         {
-            "name": "囧次元",
+            "name": "次元",
             "api": "https://6666.eu.org/vod/js/jcy.js",
             "codeID": "iExLk0gfrJUJ5RPB",
             "instance": "jcy20240823",
@@ -194,7 +194,7 @@
             "type": 100
         },
         {
-            "name": "奇优影院",
+            "name": "奇优",
             "api": "https://6666.eu.org/vod/js/qiyou.js",
             "instance": "qiyou20240904",
             "webSite": "http://www.qiyoudy4.com",
@@ -203,7 +203,7 @@
             "type": 100
         },
         {
-            "name": "短剧天堂",
+            "name": "短剧",
             "api": "https://6666.eu.org/vod/js/duanjutt.js",
             "instance": "duanjutt20240922",
             "webSite": "https://duanjutt.tv",
@@ -212,18 +212,10 @@
             "type": 100
         },
         {
-            "name": "修罗影视",
+            "name": "修罗",
             "api": "https://6666.eu.org/vod/js/biliys.js",
             "webSite": "https://www.xlys01.com",
             "remark": "1.6.41 及以上版本可用",
-            "version": "1",
-            "type": 101
-        },
-        {
-            "name": "南风短剧",
-            "api": "https://6666.eu.org/vod/js/nanfdj.js",
-            "webSite": "https://www.nanf.cc",
-            "remark": "网盘 | 1.6.41 及以上版本可用",
             "version": "1",
             "type": 101
         },
@@ -237,7 +229,15 @@
             "type": 100
         },
         {
-            "name": "欧歌网盘",
+            "name": "南风",
+            "api": "https://6666.eu.org/vod/js/nanfdj.js",
+            "webSite": "https://www.nanf.cc",
+            "remark": "网盘 | 1.6.41 及以上版本可用",
+            "version": "1",
+            "type": 101
+        },
+        {
+            "name": "欧歌",
             "api": "https://6666.eu.org/vod/js/ougepan.js",
             "instance": "ougepan20241030",
             "webSite": "https://woog.nxog.eu.org/",
@@ -246,7 +246,7 @@
             "type": 100
         },
         {
-            "name": "欧歌网盘",
+            "name": "欧歌",
             "api": "https://6666.eu.org/vod/js/ouge.js",
             "webSite": "https://woog.nxog.eu.org",
             "remark": "网盘 1.6.41 及以上版本可用",
@@ -254,7 +254,7 @@
             "type": 101
         },
         {
-            "name": "奥秘网盘",
+            "name": "奥秘",
             "api": "https://6666.eu.org/vod/js/aomipan.js",
             "instance": "aomipan20241030",
             "webSite": "https://vip.omii.top/",
@@ -263,7 +263,7 @@
             "type": 100
         },
         {
-            "name": "云星网盘",
+            "name": "云星",
             "api": "https://6666.eu.org/vod/js/yunxing.js",
             "instance": "yunxing20241030",
             "webSite": "https://4k.4u4.cn",
@@ -272,7 +272,7 @@
             "type": 100
         },
         {
-            "name": "土豆网盘",
+            "name": "土豆",
             "api": "https://6666.eu.org/vod/js/tudou.js",
             "instance": "tudou20241030",
             "webSite": "https://yunpan.yunpay.cc",
@@ -281,7 +281,7 @@
             "type": 100
         },
         {
-            "name": "云盘网",
+            "name": "云盘",
             "codeID": "",
             "api": "https://6666.eu.org/vod/js/resyunpan.js",
             "instance": "resYunPan20241120",
@@ -291,7 +291,7 @@
             "type": 100
         },
         {
-            "name": "玩偶网盘",
+            "name": "玩偶",
             "api": "https://6666.eu.org/vod/js/wogg.js",
             "webSite": "https://www.wogg.net",
             "remark": "网盘 1.6.41 及以上版本可用",
@@ -299,7 +299,7 @@
             "type": 101
         },
         {
-            "name": "玩偶网盘",
+            "name": "玩偶",
             "api": "https://6666.eu.org/vod/js/wobg.js",
             "webSite": "http://wogg.xxooo.cf",
             "remark": "网盘 1.6.41 及以上版本可用",
@@ -307,7 +307,7 @@
             "type": 101
         },
         {
-            "name": "木偶网盘",
+            "name": "木偶",
             "api": "https://6666.eu.org/vod/js/mogg.js",
             "webSite": "http://www.muoupan.top",
             "remark": "网盘 1.6.41 及以上版本可用",
@@ -315,7 +315,7 @@
             "type": 101
         },
         {
-            "name": "小米网盘",
+            "name": "小米",
             "api": "https://6666.eu.org/vod/js/xiaomi.js",
             "webSite": "http://www.mucpan.cc",
             "remark": "网盘 1.6.41 及以上版本可用",
@@ -323,7 +323,7 @@
             "type": 101
         },
         {
-            "name": "至臻网盘",
+            "name": "至臻",
             "api": "https://6666.eu.org/vod/js/zhizhen.js",
             "webSite": "https://mihdr.top",
             "remark": "网盘 1.6.41 及以上版本可用",
@@ -331,7 +331,7 @@
             "type": 101
         },
         {
-            "name": "蜡笔网盘",
+            "name": "蜡笔",
             "api": "https://6666.eu.org/vod/js/labipan.js",
             "webSite": "https://duopan.fun",
             "remark": "网盘 1.6.41 及以上版本可用",
@@ -339,7 +339,7 @@
             "type": 101
         },
         {
-            "name": "多多网盘",
+            "name": "多多",
             "api": "https://6666.eu.org/vod/js/duoduo.js",
             "webSite": "https://tv.yydsys.top",
             "remark": "网盘 1.6.41 及以上版本可用",
@@ -347,7 +347,7 @@
             "type": 101
         },
         {
-            "name": "六趣网盘",
+            "name": "六趣",
             "api": "https://6666.eu.org/vod/js/liuqu.js",
             "webSite": "https://wp.0v.fit",
             "remark": "网盘 1.6.41 及以上版本可用",
@@ -355,7 +355,7 @@
             "type": 101
         },
         {
-            "name": "madou",
+            "name": "麻豆",
             "api": "https://6666.eu.org/vod/js/madou.js",
             "instance": "madou20240626",
             "webSite": "https://madou.club",
@@ -364,7 +364,7 @@
             "type": 100
         },
         {
-            "name": "missav",
+            "name": "蜜思",
             "api": "https://6666.eu.org/vod/js/missav.js",
             "instance": "missav20240627",
             "webSite": "https://missav.com",
@@ -373,7 +373,7 @@
             "type": 100
         },
         {
-            "name": "Jable",
+            "name": "佳博",
             "api": "https://6666.eu.org/vod/js/jable.js",
             "instance": "jable20240831",
             "webSite": "https://jable.tv",
@@ -382,7 +382,7 @@
             "type": 100
         },
         {
-            "name": "hkdoll",
+            "name": "朵儿",
             "api": "https://6666.eu.org/vod/js/hkdoll.js",
             "instance": "hkdoll20240705",
             "webSite": "https://hongkongdollvideo.com",
@@ -391,7 +391,7 @@
             "type": 100
         },
         {
-            "name": "Netflav",
+            "name": "王妃",
             "api": "https://6666.eu.org/vod/js/netflav.js",
             "instance": "netflav20240905",
             "webSite": "https://www.netflav.com",
@@ -400,7 +400,7 @@
             "type": 100
         },
         {
-            "name": "91jav",
+            "name": "救药",
             "api": "https://6666.eu.org/vod/js/91jav.js",
             "instance": "jav9120241127",
             "webSite": "https://041.bndmpsjx.com",
@@ -422,7 +422,7 @@
         },
         {
             "api": "https://360zy.com/api.php/provide/vod/",
-            "name": "360"
+            "name": "三三"
         },
         {
             "api": "https://www.mdzyapi.com/api.php/provide/vod/",
@@ -493,10 +493,6 @@
             "name": "量子"
         },
         {
-            "api": "https://360zy.com/api.php/seaxml/vod",
-            "name": "360"
-        },
-        {
             "api": "http://fszy1.com/api.php/provide/vod/",
             "name": "飞速"
         },
@@ -530,15 +526,15 @@
         },
         {
             "api": "https://www.39kan.com/api.php/provide/vod/",
-            "name": "39影视"
+            "name": "三九"
         },
         {
             "api": "http://cj.baozi66.top:66/api.php/provide/vod/",
-            "name": "雨哥哥影视"
+            "name": "雨哥"
         },
         {
             "api": "https://api.yparse.com/api/json",
-            "name": "步步高(json)"
+            "name": "步步"
         },
         {
             "api": "https://api.zuidapi.com/api.php/provide/vod/",
@@ -558,61 +554,55 @@
         },
         {
             "api": "https://www.xrbsp.com/api/json.php",
-            "name": "🔞淫水机",
+            "name": "热播",
             "noHistory": true,
             "isLock": true
         },
         {
             "api": "http://fhapi9.com/api.php/provide/vod/",
-            "name": "🔞番号",
+            "name": "番号",
             "noHistory": true,
             "isLock": true
         },
         {
             "api": "https://155api.com/api.php/provide/vod/",
-            "name": "🔞155",
+            "name": "五五",
             "noHistory": true,
             "isLock": true
         },
         {
             "api": "https://jkunzyapi.com/api.php/provide/vod/",
-            "name": "🔞鸡坤",
+            "name": "解困",
             "noHistory": true,
             "isLock": true
         },
         {
             "api": "https://www.pgxdy.com/api/json.php",
-            "name": "🔞黄AV",
+            "name": "苹果",
             "noHistory": true,
             "isLock": true
         },
         {
             "api": "https://www.gdlsp.com/api/json.php",
-            "name": "🔞香奶儿",
+            "name": "蛇皮",
             "noHistory": true,
             "isLock": true
         },
         {
             "api": "https://www.msnii.com/api/json.php",
-            "name": "🔞美少女",
+            "name": "美女",
             "noHistory": true,
             "isLock": true
         },
         {
             "api": "https://www.kxgav.com/api/json.php",
-            "name": "🔞白嫖",
+            "name": "开心",
             "noHistory": true,
             "isLock": true
         },
         {
             "api": "https://lbapi9.com/api.php/provide/vod/",
-            "name": "🔞乐播",
-            "noHistory": true,
-            "isLock": true
-        },
-        {
-            "api": "https://lbapi9.com/api.php/provide/vod/at/json",
-            "name": "🔞乐播",
+            "name": "乐播",
             "noHistory": true,
             "isLock": true
         }
