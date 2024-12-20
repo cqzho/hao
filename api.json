@@ -28,22 +28,22 @@
     ],
     "live": [
         {
-            "name": "电视直播",
-            "url": "https://tv.iill.top/m3u/Gather",
-            "type": 10,
-            "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
-        },
-        {
-            "name": "电视直播",
+            "name": "电视",
             "url": "https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
             "type": 10,
-            "remark": "来自 fanmingming 大佬 https://github.com/fanmingming"
+            "remark": "范明明TV"
         },
         {
-            "name": "体育直播",
-            "url": "https://tv.iill.top/m3u/Sport",
+            "name": "广播",
+            "url": "https://fanmingming.com/txt?url=https://live.fanmingming.cn/radio/m3u/fm.m3u",
             "type": 10,
-            "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
+            "remark": "范明明FM"
+        },
+        {
+            "name": "电视",
+            "url": "https://aktv.top/live.txt",
+            "type": 10,
+            "remark": "AKTV"
         }
     ],
     "vod": [
