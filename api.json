@@ -424,7 +424,7 @@
             "name": "量子"
         },
         {
-            "api": "https://iqyi.xiaohuangrentv.com/api.php",
+            "api": "https://iqyi.xiaohuangrentv.com/api.php/provide/vod/",
             "name": "小黄"
         },
         {
