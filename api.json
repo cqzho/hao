@@ -246,49 +246,7 @@
             "webSite": "https://wp.0v.fit",
             "remark": "网盘 1.6.41 及以上版本可用",
             "version": "1",
-            "type": 101
-        },
-        {
-            "name": "蜜思",
-            "api": "https://6666.eu.org/vod/js/missav.js",
-            "instance": "missav20240627",
-            "webSite": "https://missav456.com",
-            "remark": "",
-            "version": "2",
-            "type": 100
-        },
-        {
-            "name": "救药",
-            "api": "https://6666.eu.org/vod/js/91jav.js",
-            "instance": "jav9120241127",
-            "webSite": "https://041.bndmpsjx.com",
-            "remark": "",
-            "version": "2",
-            "type": 100
-        },
-        {
-            "api": "https://360zy.com/api.php/provide/vod/",
-            "name": "三三"
-        },
-        {
-            "api": "https://bfzyapi.com/api.php/provide/vod/",
-            "name": "暴风"
-        },
-        {
-            "api": "http://fhapi9.com/api.php/provide/vod/",
-            "name": "番号"
-        },
-        {
-            "api": "https://155api.com/api.php/provide/vod/",
-            "name": "五五"
-        },
-        {
-            "api": "https://jkunzyapi.com/api.php/provide/vod/",
-            "name": "解困"
-        },
-        {
-            "api": "https://lbapi9.com/api.php/provide/vod/",
-            "name": "乐播"
+            "type": 101   
         }
     ]
 }
