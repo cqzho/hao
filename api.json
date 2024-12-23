@@ -24,20 +24,22 @@
             "url": "https://6666.eu.org/danMu/js/danMu.js",
             "type": 400,
             "version": 1
+        },
+        {
+            "name": "综合弹幕",
+            "url": "https://6666.eu.org/danMu/js/danMu2.txt",
+            "codeID": "wMFsJrk98TmvWbYAjO4Mne3CZDRh619D",
+            "remark": "别那么执着，搜不到就算了",
+            "type": 400,
+            "version": 1
         }
     ],
     "live": [
         {
             "name": "电视",
-            "url": "https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
+            "url": "https://6666.eu.org/live.txt",
             "type": 10,
-            "remark": "范明明TV"
-        },
-        {
-            "name": "广播",
-            "url": "https://fanmingming.com/txt?url=https://live.fanmingming.cn/radio/m3u/fm.m3u",
-            "type": 10,
-            "remark": "范明明FM"
+            "remark": "综合频道"
         },
         {
             "name": "电视",
