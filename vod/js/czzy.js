@@ -9,7 +9,7 @@ import {} from '../../core/uzUtils.js';
 class ChangZhang20240614 extends WebApiBase {
   constructor() {
     super();
-    this.host = 'https://www.cz01.vip';
+    this.host = 'https://www.czzyvideo.com';
     this.webSite = 'https://www.czzyvideo.com';
     this.headers = {
       'user-agent':
