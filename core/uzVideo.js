@@ -182,6 +182,22 @@ class RepVideoDetail {
     }
 }
 
+class VodDanMu {
+    constructor() {
+        /**
+         * 弹幕内容
+         * @type {string}
+         */
+        this.content = ''
+
+        /**
+         * 弹幕出现时间 单位秒
+         * @type {number}
+         */
+        this.time = 0
+    }
+}
+
 //MARK: - 视频播放地址数据
 /**
  * 返回播放地址
@@ -192,10 +208,18 @@ class RepVideoPlayUrl {
          * 播放视频的URL 支持 data:xxx/xxx;base64,
          **/
         this.data = ''
+
         /**
          * 播放视频的请求header
          **/
         this.headers
+
+        /**
+         * 弹幕数据
+         * @type {VodDanMu[]}
+         */
+        this.danMu = []
+
         this.error = ''
     }
 }
@@ -206,12 +230,29 @@ class RepVideoPlayUrl {
  */
 class UZArgs {
     constructor() {
-        // 请求的URL
+        /**
+         * 请求的URL
+         * @type {string}
+         */
         this.url = ''
-        // 当前页码
+        
+        /**
+         * 当前页码
+         * @type {number}
+         */
         this.page = 1
-        //搜索关键词
+
+        /**
+         * 搜索关键词
+         * @type {string}
+         */
         this.searchWord = ''
+
+        /**
+         * 返回的线路(vod_play_from)标识
+         * @type {string} 
+         */
+        this.flag = ''
     }
 }
 
